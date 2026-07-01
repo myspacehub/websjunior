@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#16a34a" />
+    <title>福建省初中全科学习 H5</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div id="pageLoader" class="page-loader" aria-hidden="true">
+      <div class="loader-card">
+        <strong>初中全科 H5</strong>
+        <span>正在加载课程体系…</span>
+      </div>
+    </div>
+
+    <main class="app-shell">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">Fujian Junior High School Learning</p>
+          <h1>福建省初中全科学习 H5</h1>
+          <p class="hero__desc">九大学科 · 七八九年级 · 章节导图 · 跨册总图 · 学习方法 · B站资源</p>
+        </div>
+        <div class="hero__badge" aria-label="初中全科">
+          <span>初中</span>
+          <strong>H5</strong>
+        </div>
+      </section>
+
+      <section class="toolbar" aria-label="学习工具栏">
+        <label class="search-box">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="输入学科 / 年级 / 分册 / 章节关键词" autocomplete="off" />
+        </label>
+        <div id="modeSwitch" class="mode-switch" role="tablist" aria-label="视图切换">
+          <button class="mode-btn is-active" type="button" data-mode="catalog">目录</button>
+          <button class="mode-btn" type="button" data-mode="mindmap">思维导图</button>
+          <button class="mode-btn" type="button" data-mode="subjectMap">跨册总图</button>
+          <button class="mode-btn" type="button" data-mode="methods">学习方法</button>
+          <button class="mode-btn" type="button" data-mode="videos">B站视频</button>
+        </div>
+        <button id="resetBtn" class="ghost-btn" type="button">重置</button>
+      </section>
+
+      <section id="stats" class="stats" aria-label="课程统计"></section>
+
+      <section class="layout">
+        <aside class="subject-panel" aria-label="学科列表">
+          <div class="panel-title">
+            <span>学科</span>
+            <small id="subjectCount"></small>
+          </div>
+          <div id="subjectList" class="subject-list"></div>
+        </aside>
+
+        <section class="content-panel" aria-live="polite">
+          <div id="breadcrumb" class="breadcrumb"></div>
+          <div id="volumeTabs" class="volume-tabs"></div>
+          <div id="unitList" class="unit-list"></div>
+        </section>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
