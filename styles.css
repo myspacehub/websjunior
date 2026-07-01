@@ -758,7 +758,7 @@ h1 {
   gap: 10px;
 }
 
-.up-card div {
+.up-card__head {
   display: flex;
   gap: 10px;
   align-items: flex-start;
@@ -788,11 +788,50 @@ h1 {
   line-height: 1.7;
 }
 
+.up-card__meta {
+  color: var(--primary-dark) !important;
+  font-size: 13px;
+  font-weight: 900;
+}
+
 .up-card a {
   justify-self: start;
   color: var(--accent);
   font-weight: 950;
   text-decoration: none;
+}
+
+.video-tips h3 {
+  margin: 0;
+  padding: 16px 18px 8px;
+  color: var(--primary-dark);
+}
+
+.video-plan-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  padding: 14px;
+}
+
+.video-plan-grid article {
+  padding: 13px;
+  border: 1px solid var(--line);
+  border-radius: 15px;
+  background: rgba(255,255,255,0.76);
+}
+
+.video-plan-grid b {
+  display: block;
+  margin-bottom: 7px;
+  color: var(--primary-dark);
+  font-weight: 950;
+}
+
+.video-plan-grid p {
+  margin: 0;
+  color: #263f31;
+  line-height: 1.7;
 }
 
 .empty {
@@ -909,11 +948,12 @@ mark {
   .method-grid,
   .up-grid,
   .daily-flow,
-  .weekly-grid {
+  .weekly-grid,
+  .video-plan-grid {
     grid-template-columns: 1fr;
   }
 
-  .up-card div {
+  .up-card__head {
     display: grid;
     justify-content: stretch;
   }
@@ -946,6 +986,7 @@ mark {
   .daily-flow,
   .weekly-grid,
   .up-grid,
+  .video-plan-grid,
   .video-links {
     padding: 12px;
   }

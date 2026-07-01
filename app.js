@@ -299,51 +299,85 @@ const WEEKLY_METHOD_RHYTHM = [
 
 const VIDEO_RESOURCES = {
   语文: [
-    ["学过石油的语文老师", "基础 / 预习 / 提分", "文言文、现代文阅读、作文模板，适合基础弱和初高衔接。"],
-    ["中文系五匪子", "作文专项", "议论文立意、结构模板、审题表达。"],
-    ["国家玮", "拔高 / 文学思维", "文本深读和大阅读提升。"],
+    { name: "初中语文studio", level: "基础薄弱", type: "课本同步课 / 中考应试", stage: "7-8年级预习、课后补漏", focus: "字词、病句、文言实词虚词、现代文基础考点", summary: "同步初中语文课本，合集化程度高，适合上课听不懂、基础考点不稳的学生先打地基。" },
+    { name: "中文系五匪子", level: "基础补弱", type: "文言专项课", stage: "文言文短板", focus: "必考实词、虚词、特殊句式、翻译套路", summary: "把文言文从死背注释改成看语境、抓句式、套翻译步骤，适合文言短板明显的同学。" },
+    { name: "朴鲤朴鲤", level: "基础到中等", type: "作文素材课", stage: "作文没素材、不会套用", focus: "小众高分素材、素材迁移、立意表达", summary: "解决作文无话可写，把素材积累和使用方法一起学，适合平时作文内容空的学生。" },
+    { name: "梓墨说语文", level: "中等冲分", type: "阅读答题课 / 作文结构", stage: "阅读踩不到分、作文瓶颈", focus: "记叙文、说明文、议论文全题型模板和阅卷得分点", summary: "现代文阅读提分向很强，把题型、答题角度和得分点拆得细，适合语文中等生短期补阅读。" },
+    { name: "子墨说语文", level: "中等冲分", type: "阅读答题课", stage: "同名检索备用", focus: "现代文阅读、作文结构公式", summary: "与“梓墨说语文”作为同类检索入口，搜索时可两个关键词都试，避免漏掉合集。" },
+    { name: "高盛元", level: "拔高素养", type: "古诗文赏析课", stage: "古诗文理解、冲高分", focus: "唐诗宋词意境、情感、赏析底层逻辑", summary: "不只背默写，重在理解诗歌画面、情感和表达逻辑，适合古诗文赏析和作文语言积累。" },
+    { name: "我就是皮皮儿", level: "拔高素养", type: "名著导读课", stage: "初中必考名著", focus: "人物、情节、中考出题角度", summary: "围绕《朝花夕拾》《西游记》《骆驼祥子》等名著梳理考试角度，适合考前补名著题。" },
+    { name: "国家玮-开明致学", level: "拔高 / 中考冲刺", type: "作文升格课", stage: "初三高分作文", focus: "议论文升格、开头结尾、高阶写法", summary: "适合基础已经稳定、想把作文从会写推进到高分表达的学生。" },
+    { name: "戴建业", level: "兴趣拓展", type: "古诗趣味课", stage: "碎片时间培养语感", focus: "古诗趣味讲解、文学兴趣", summary: "适合放松时看，提升古诗亲近感和语感，不替代课本同步复习。" },
+    { name: "欧丽娟", level: "兴趣拓展", type: "文学素养课", stage: "名著与文学兴趣", focus: "红楼梦、文学审美", summary: "偏文学素养与阅读兴趣，适合学有余力时拓展，不作为中考应试主线。" },
   ],
   数学: [
-    ["一数", "基础体系", "初高衔接、初中数学主干和中考复习都可检索。"],
-    ["数学微课帮", "同步查漏", "单章节补洞和校内同步巩固。"],
-    ["佟大大还是ETT", "拔高模型", "函数、几何和压轴题模型可作为提高补充。"],
+    { name: "数学微课帮", level: "零基础 / 课本同步", type: "课本同步课", stage: "60分以下、七八年级打地基", focus: "逐课精讲、校内常考例题、查漏补缺", summary: "张华老师初中数学体系课，贴合课本，板书清楚，适合长期跟学补基础；压轴题不是主线。" },
+    { name: "一数", level: "中等系统提分", type: "体系课 / 中考复习课", stage: "70-95分、一轮复习", focus: "基础—中档—拔高三层，几何模型、函数、圆、反比例函数", summary: "初中数学和中考合集完整，讲怎么想到第一步，适合寒暑假系统刷一轮让数学质变。" },
+    { name: "亮亮巧解初中数学", level: "拔高 / 满分冲刺", type: "压轴题课", stage: "95+、中考最后两题", focus: "几何辅助线、动点、二次函数、易错难题", summary: "专门突破高分瓶颈，适合基础学完后刷难题和中考二轮压轴。" },
+    { name: "崔莉老师", level: "衔接补弱", type: "小升初衔接课", stage: "数学极度薄弱过渡", focus: "小学到初中数学衔接、基础概念过渡", summary: "适合刚上初一或基础断层明显的学生先补前置能力。" },
   ],
   英语: [
-    ["英语兔", "语法入门", "语法、音标、词根词缀和长难句底层逻辑。"],
-    ["Free高考英语", "阅读拔高", "阅读逻辑和长难句拆解可向中考阅读迁移。"],
-    ["瑞秋Rachel", "听口语感", "发音、听力和口语输入。"],
+    { name: "英语兔", level: "语法零基础", type: "语法 / 音标动画课", stage: "初一入门、语法完全看不懂", focus: "音标、八大时态、词性、句子结构、复合句", summary: "动画式讲语法，逻辑通俗，适合从底层搞懂初中语法和单词读音。" },
+    { name: "英语的平行世界", level: "课内同步", type: "课本同步课 / 单词积累", stage: "预习、课后复盘、寒暑假过课本", focus: "课文翻译、重点短语、中考必考词汇", summary: "适合跟教材走，把课文、短语、单词和考点一起过。" },
+    { name: "盖老师", level: "应试提分", type: "中考应试课", stage: "80冲110", focus: "阅读定位、完形逻辑、作文句型、出题坑点", summary: "适合初二初三围绕题型提分，减少凭感觉做阅读和完形。" },
+    { name: "英语李辉老师", level: "应试提分", type: "中考题型课", stage: "完形、阅读、作文冲刺", focus: "阅读技巧、完形方法、作文万能句式", summary: "偏应试技巧与题型方法，适合中考前集中补做题套路。" },
+    { name: "三言两语杂货社", level: "中等到拔高", type: "长难句专项", stage: "阅读复杂句看不懂", focus: "长难句拆解、句子主干、从句结构", summary: "帮助解决阅读里句子长、结构乱、看不懂的问题。" },
+    { name: "瑞秋英语Rachel", level: "听说拓展", type: "口语听力课", stage: "每天10分钟磨耳朵", focus: "纯正发音、连读弱读、口语语感", summary: "适合碎片时间练发音和听力，不替代中考题型训练。" },
+    { name: "CNN10", level: "听力拓展", type: "英文新闻素材", stage: "听力语感与视野拓展", focus: "新闻英语、真实语速、听力输入", summary: "适合学有余力时磨耳朵和扩展话题背景，基础薄弱者可低倍速或配字幕。" },
   ],
   道德与法治: [
-    ["刘勖雯", "应试模板", "选择题排除、主观题分点表达。"],
-    ["咕噜咕噜将", "教材串讲", "适合先过教材原文和知识框架。"],
-    ["共青团中央", "时政素材", "青年责任、国家治理、社会热点素材。"],
+    { name: "咕噜咕噜将", level: "基础同步", type: "课本同步课", stage: "七到九年级日常学习", focus: "教材知识点串讲、框架梳理", summary: "适合基础薄弱先过教材，把道法知识点从零散背诵变成框架。" },
+    { name: "教政治的木子", level: "中考冲分", type: "材料题答题课", stage: "中考主观题提分", focus: "材料题模板、时政考点、主观题话术", summary: "道法大题拉分明显，适合初三集中学习材料分析和规范表达。" },
+    { name: "粉元宝小傻瓜", level: "背诵整理", type: "知识点细化总结", stage: "考前背诵、查漏补缺", focus: "细化知识点、背诵清单、易混点", summary: "适合把教材观点压缩成考前可背的清单。" },
+    { name: "共青团中央", level: "时政素材", type: "兴趣拓展 / 时政素材", stage: "材料题素材积累", focus: "青年责任、国家治理、社会热点", summary: "适合积累时政背景和价值表达，作为道法主观题素材补充。" },
   ],
   历史: [
-    ["历史老师定哥", "体系速通", "时间线、思维导图、答题模板。"],
-    ["讲历史的张老师", "理解因果", "按朝代和专题理解事件背景。"],
-    ["段sir是懂王", "兴趣预习", "趣味梳理历史事件，适合预习。"],
+    { name: "历史老师定哥", level: "基础入门 / 体系课", type: "课本同步课 / 时间线导图", stage: "初一初二打基础、时间线混乱", focus: "中国史、世界史、朝代线、思维导图", summary: "初中历史全套体系化强，适合用时间线和小故事把课本内容串起来。" },
+    { name: "陈佩韦老师", level: "基础记忆", type: "歌曲记忆课", stage: "背了就忘、不爱背历史", focus: "时间线、事件、知识点歌曲化记忆", summary: "适合把枯燥历史点变成节奏记忆，作为背诵辅助。" },
+    { name: "无心插柳柳成荫太难得", level: "中考拔高", type: "材料题答题课", stage: "历史大题踩分", focus: "材料题思路、从材料提取分点、答题模板", summary: "专攻历史中考大题，训练从材料里找到得分点，而不是只背结论。" },
+    { name: "讲历史的张老师", level: "理解因果", type: "专题理解课", stage: "事件背景理解", focus: "朝代、专题、历史因果", summary: "适合在课本同步后补背景逻辑，帮助材料题写出原因和影响。" },
+    { name: "段sir是懂王", level: "兴趣预习", type: "兴趣拓展课", stage: "预习、缓解背诵压力", focus: "趣味历史事件、故事化理解", summary: "适合碎片时间建立兴趣，再回到课本做体系化记忆。" },
   ],
   地理: [
-    ["安迎老师", "地理原理", "地图、等值线、区域地理底层逻辑。"],
-    ["张艳平地理", "应试模板", "真题拆解和大题答题结构。"],
-    ["羊羊的地理教室", "同步补缺", "细碎知识点归纳。"],
+    { name: "岚如姐姐讲地理", level: "基础预习", type: "课本同步课", stage: "七八年级地理基础", focus: "经纬网、气候、地形、中国地理、世界地理", summary: "逐课精讲课内知识，适合零基础吃透教材。" },
+    { name: "地理北纬老师", level: "会考冲刺", type: "真题刷题课 / 答题模板", stage: "初二生地会考", focus: "会考真题、题型拆解、答题模板", summary: "面向生地会考冲刺，适合考前刷题和提炼答题套路。" },
+    { name: "树上的老师", level: "兴趣拓展", type: "趣味地理课", stage: "看不进课本时启蒙", focus: "趣味地理、地图兴趣、区域认知", summary: "适合用兴趣带动地理学习，再回到教材和真题。" },
+    { name: "安迎老师", level: "原理拔高", type: "地理原理课", stage: "学有余力、理解底层逻辑", focus: "地图、等值线、区域地理底层逻辑", summary: "适合想把地理从背诵提升到原理分析的学生。" },
   ],
   生物: [
-    ["汉水丑生侯伟", "教材体系", "逐句梳理教材、图文导图。"],
-    ["李林生物", "边学边练", "知识点结合习题巩固。"],
-    ["万猛生物", "考前话术", "高频考点和主观题表达。"],
+    { name: "林旭生物讲堂", level: "基础同步", type: "课本同步课 / 框架课", stage: "七上七下预习复习", focus: "生物知识框架、教材主线、基础概念", summary: "适合先搭建生物知识框架，预习和复习都能用。" },
+    { name: "Anne生物", level: "会考冲刺", type: "生地会考定向复习", stage: "初二会考前", focus: "高频考点浓缩、真题精讲、会考复习", summary: "专门面向生地会考，适合考前集中刷完高频考点。" },
+    { name: "火花学院", level: "兴趣理解", type: "动画科普课", stage: "理解抽象结构", focus: "细胞、循环系统、人体结构动画理解", summary: "适合用动画理解细胞、人体系统等抽象内容，作为课本学习辅助。" },
+    { name: "汉水丑生侯伟", level: "教材体系", type: "教材精讲 / 思维导图", stage: "知识点系统梳理", focus: "教材逐句梳理、图文导图", summary: "适合想把生物教材吃细、吃透的学生，作为同步和复习补充。" },
   ],
   物理: [
-    ["黄夫人HuangFuRen", "入门基础", "受力、运动、电学等抽象模型生活化。"],
-    ["于总CEO", "整册框架", "先搭整本书脉络，再拆知识点。"],
-    ["坤哥物理", "专项应试", "电学、实验题、计算题技巧。"],
+    { name: "于总CEO", level: "入门 / 课本同步", type: "课本同步课 / 一轮复习", stage: "八九年级零基础到同步学", focus: "力学、光学、热学、电学生活化拆解", summary: "初中物理主线推荐，讲得通俗，适合预习、补课和考前一轮复习。" },
+    { name: "amor东山再起", level: "中等刷题", type: "题型归类课", stage: "70-90分、错题归纳", focus: "物理刷题、题型分类、错题训练", summary: "适合学完课本后围绕题型刷题提分。" },
+    { name: "东吴学长", level: "中等建体系", type: "知识框架课", stage: "知识点零散、体系不清", focus: "完整物理知识框架、模块串联", summary: "帮助把力热声光电从零散知识点串成体系。" },
+    { name: "不刷题的吴姥姥", level: "兴趣启蒙", type: "趣味实验课", stage: "暑假提前启蒙", focus: "趣味物理实验、物理思维", summary: "同济教授趣味物理实验，适合培养物理感觉，防止刚入门就懵。" },
+    { name: "物理大师", level: "碎片复习", type: "动画短视频", stage: "碎片化复习知识点", focus: "动画讲物理现象、快速回顾概念", summary: "适合碎片时间辅助理解，不替代系统课和刷题。" },
   ],
   化学: [
-    ["一化儿", "零基础同步", "课本逐课精讲、方程式和概念拆解。"],
-    ["化学超人", "一轮体系", "考点分类复盘和刷题讲解。"],
-    ["真·凤舞九天", "兴趣实验", "用实验现象理解反应过程。"],
+    { name: "化学超人", level: "基础同步", type: "课本同步课", stage: "初三上刚学化学", focus: "概念、物质分类、基础方程式、课本本源", summary: "严格跟初三课本逐章精讲，零基础从头学最稳。" },
+    { name: "清越姐姐的化学课", level: "中考冲刺", type: "重难点突破 / 思维导图", stage: "初三下总复习、考前冲刺", focus: "酸碱盐、实验、推断压轴、中考高频考点", summary: "用思维导图把零散化学知识串起来，适合中考重难点突破。" },
+    { name: "化学灭霸", level: "拔高补充", type: "题型变式训练", stage: "基础稳后拔高", focus: "题型变式、综合训练、易错突破", summary: "适合作为清越姐姐或化学超人之后的拔高刷题补充。" },
+    { name: "化学小莫", level: "中考大题", type: "真题大题精讲", stage: "实验题、推断题、计算题", focus: "中考真题大题、解题步骤、规范表达", summary: "适合考前针对大题集中训练。" },
   ],
 };
+
+const VIDEO_LEVEL_GUIDE = [
+  ["基础 / 预习", "先看课本同步课，把教材概念、例题、课文和基础题听懂。"],
+  ["中等 / 补弱", "围绕错题找专题课，重点补阅读、函数、方程、实验、材料题等高频短板。"],
+  ["拔高 / 满分", "基础稳定后再看压轴题、作文升格、材料题模板和高阶专题。"],
+  ["中考 / 会考冲刺", "初三或生地会考前优先真题、答题模板、考点浓缩和错题复盘。"],
+];
+
+const VIDEO_STUDY_PLANS = [
+  ["7年级", "数学微课帮打底 + 初中语文studio 预习补漏 + 英语兔语法入门 + 岚如姐姐讲地理 / 林旭生物讲堂建立地生框架。"],
+  ["8年级", "数学用一数系统刷中档题 + 物理跟于总CEO入门 + 语文用梓墨说语文补阅读 + 地理北纬老师 / Anne生物准备生地会考。"],
+  ["9年级", "数学亮亮巧解突破压轴 + 清越姐姐化学课攻酸碱盐实验推断 + 教政治的木子 / 无心插柳柳成荫太难得练文科大题 + 英语李辉或盖老师冲题型。"],
+  ["碎片时间", "语文看戴建业 / 欧丽娟培养语感，物理看吴姥姥或物理大师启蒙，英语用瑞秋Rachel / CNN10磨耳朵。"],
+];
 
 const state = { subjectIndex: 0, volumeIndex: 0, query: "", mode: "catalog" };
 let doneSet = readProgress();
@@ -1336,11 +1370,64 @@ function biliUpSearchUrl(keyword) {
   return `https://search.bilibili.com/upuser?keyword=${encodeURIComponent(keyword)}`;
 }
 
+function videoResourceFields(resource) {
+  return [resource.name, resource.level, resource.type, resource.stage, resource.focus, resource.summary];
+}
+
+function videoResourceCardHTML(resource) {
+  return `
+    <article class="up-card">
+      <div class="up-card__head">
+        <strong>${highlight(resource.name)}</strong>
+        <span>${highlight(resource.level)}</span>
+      </div>
+      <p class="up-card__meta">${highlight(resource.type)} · ${highlight(resource.stage)}</p>
+      <p><b>重点：</b>${highlight(resource.focus)}</p>
+      <p>${highlight(resource.summary)}</p>
+      <a href="${escapeHTML(biliUpSearchUrl(resource.name))}" target="_blank" rel="noopener noreferrer">搜索 UP</a>
+    </article>
+  `;
+}
+
+function videoLevelGuideHTML() {
+  return `
+    <section class="video-tips">
+      <h3>分层选课规则</h3>
+      <div class="video-plan-grid">
+        ${VIDEO_LEVEL_GUIDE.map(([level, tip]) => `
+          <article>
+            <b>${highlight(level)}</b>
+            <p>${highlight(tip)}</p>
+          </article>
+        `).join("")}
+      </div>
+    </section>
+  `;
+}
+
+function videoStudyPlanHTML() {
+  return `
+    <section class="video-tips">
+      <h3>最优跟学搭配方案</h3>
+      <div class="video-plan-grid">
+        ${VIDEO_STUDY_PLANS.map(([grade, plan]) => `
+          <article>
+            <b>${highlight(grade)}</b>
+            <p>${highlight(plan)}</p>
+          </article>
+        `).join("")}
+      </div>
+    </section>
+  `;
+}
+
 function videoHTML() {
   const subject = COURSE[state.subjectIndex];
   const volume = subject.volumes[state.volumeIndex];
   const resources = VIDEO_RESOURCES[subject.name] || [];
-  const units = volume.units.filter((unit) => containsQuery(subject.name, volume.name, unit, ...resources.flat()));
+  const resourceFields = resources.flatMap(videoResourceFields);
+  const visibleResources = resources.filter((resource) => containsQuery(...videoResourceFields(resource)));
+  const units = volume.units.filter((unit) => containsQuery(subject.name, volume.name, unit, ...resourceFields));
   renderVolumeTabs();
   breadcrumb.innerHTML = `
     <div><h2>${escapeHTML(subject.name)} · B站视频资源</h2><p>${escapeHTML(volume.name)} · 章节搜索只使用章节标题本身，避免关键词过长。</p></div>
@@ -1349,18 +1436,13 @@ function videoHTML() {
   unitList.innerHTML = `
     <div class="video-page">
       <article class="video-hero">
-        <span class="tag">分档 UP 推荐</span>
-        <h3>${escapeHTML(subject.name)}：基础 / 拔高 / 应试全覆盖</h3>
-        <p>先选适合自己的 UP，再按当前分册章节点开搜索。章节链接只搜“章节标题”，例如“第4章 细胞的物质输入和输出”。</p>
+        <span class="tag">初中全科封神 UP · 分层推荐</span>
+        <h3>${escapeHTML(subject.name)}：基础 / 中等 / 拔高 / 中考冲刺</h3>
+        <p>按预习打基础、校内同步补弱、刷题提分、中考总复习分层选择；同时区分课本同步课、应试答题课和兴趣拓展课。章节链接仍只搜“章节标题”，避免关键词过长。</p>
       </article>
+      ${videoLevelGuideHTML()}
       <section class="up-grid">
-        ${resources.map(([name, level, summary]) => `
-          <article class="up-card">
-            <div><strong>${highlight(name)}</strong><span>${highlight(level)}</span></div>
-            <p>${highlight(summary)}</p>
-            <a href="${escapeHTML(biliUpSearchUrl(name))}" target="_blank" rel="noopener noreferrer">搜索 UP</a>
-          </article>
-        `).join("")}
+        ${visibleResources.length ? visibleResources.map(videoResourceCardHTML).join("") : `<div class="empty">当前搜索没有匹配 UP，可清空搜索或换“基础 / 中考 / 作文 / 压轴 / 会考”等关键词。</div>`}
       </section>
       <section class="video-syllabus">
         <div class="section-head"><h3>按当前分册章节找视频</h3><p>${escapeHTML(volume.name)} · ${units.length}/${volume.units.length} 项</p></div>
@@ -1377,6 +1459,7 @@ function videoHTML() {
           <li>零散短视频适合碎片化复盘，系统合集课适合完整补基础。</li>
         </ul>
       </section>
+      ${videoStudyPlanHTML()}
     </div>
   `;
 }
