@@ -753,6 +753,15 @@ h1 {
   background: rgba(220, 252, 231, 0.72);
 }
 
+.video-links small {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1.4;
+}
+
 .up-card {
   display: grid;
   gap: 10px;
