@@ -169,25 +169,132 @@ const SUBJECT_GUIDES = {
 
 const LEARNING_METHODS = [
   {
-    title: "知识学习：预习—课堂—复盘闭环",
-    summary: "初中学习最怕“听懂但不会用”。每节课用 10–20 分钟轻预习，课堂抓老师的解题逻辑，课后用大白话讲出来。",
-    steps: ["课前圈出标题、概念、不会的问题", "课堂优先听方法和例题思路", "课后合上书讲一遍：是什么、怎么用、易错在哪"],
+    title: "知识学习：闭环式学习",
+    tag: "拒绝死记硬背 · 听懂、讲出、会用",
+    summary: "初中学习最怕“听懂但不会用”。每节课按轻量预习、专注课堂、费曼复盘三步走，把零散知识锁进自己的脑子里。",
+    steps: [
+      {
+        name: "轻量预习",
+        time: "课前 10–20 分钟",
+        action: "只做预习三问：这节课学什么？哪些内容一看就懂？哪些概念、例题或课文完全看不懂？",
+        tips: ["圈课本标题、概念、公式、课下注释和疑难点", "不提前死磕难题，不把预习变成自学整章", "带着问题听课，课堂专注力会明显更稳"],
+      },
+      {
+        name: "专注课堂",
+        time: "课堂主战场",
+        action: "听老师怎么从概念推到例题、从文本推到答案；笔记记框架、方法和易错点，不追求抄满。",
+        tips: ["语文英语听答题逻辑和表达方式", "数学物理化学生物听条件、步骤、模型", "当堂没懂的地方做星号，当天问清，不让漏洞过夜"],
+      },
+      {
+        name: "费曼复盘",
+        time: "课后 5–10 分钟",
+        action: "合上书，用大白话讲给同学或家长听：是什么、为什么、怎么用、哪里容易错。",
+        tips: ["讲不顺就是盲区，不是丢脸，是定位问题", "卡住后回到教材例题、课堂笔记和错题", "一章结束再讲一次完整主线，检查是否真正内化"],
+      },
+    ],
+    checklist: ["我今天是否带着问题听课？", "今天有没有一个疑问当天清零？", "我能否不用照书讲清一个新知识点？"],
   },
   {
-    title: "刷题复盘：错题比新题更值钱",
-    summary: "初中题型重复率高，真正提分来自“同类题不再错”。错题只记考点、错因、标准步骤和下次提醒。",
-    steps: ["当天订正错题", "隔天重做同类题", "周末按学科整理高频错因", "考前只看错题和薄弱章节"],
+    title: "刷题提分：精准高效刷题",
+    tag: "学一道 · 会一类 · 不重复掉坑",
+    summary: "刷题不是越多越好，而是选核心题、复盘错题、打通同类题。初中题型重复率高，错题质量比题量更值钱。",
+    steps: [
+      {
+        name: "精准选题",
+        time: "每天先选再做",
+        action: "优先做三类题：课本例题和课后经典题、作业高频错题、考试反复出现的核心题型。",
+        tips: ["基础弱先做基础题，别一上来刷压轴", "基础稳再做变式题和综合题", "偏题怪题超纲题先放弃，把时间给高频考点"],
+      },
+      {
+        name: "错题复盘",
+        time: "做题时间的一半",
+        action: "错题本不抄题海，只写考点、真实错因、标准步骤和下次避坑提醒。",
+        tips: ["错因分成概念不会、思路不对、审题粗心、计算/表达失误", "当天整理，隔天重做，周末集中复盘", "每道高频错题再找 1 道同类题验证是否真会"],
+      },
+      {
+        name: "知识体系",
+        time: "每周 20 分钟",
+        action: "用一张小导图串联本周知识点、题型、易错点和错题编号，把碎片知识变成体系。",
+        tips: ["不追求画得漂亮，追求关系清楚", "把错题挂到对应知识点下面", "考前按导图快速调取公式、模型、答题模板"],
+      },
+    ],
+    checklist: ["我今天刷的是核心题型吗？", "每道错题是否写了真实错因？", "本周知识点是否已经连成一张图？"],
   },
   {
-    title: "时间管理：校内清基础，晚上补短板",
-    summary: "把基础作业尽量在校完成，晚上留给薄弱学科、错题复盘和阅读背诵。短时间专注比长时间磨蹭有效。",
-    steps: ["早读背语文英语和道法历史", "晚间做数学物理化学深度题", "25 分钟专注 + 5 分钟休息", "睡前列明天 3 个任务"],
+    title: "时间管理：规律换高效",
+    tag: "不靠熬夜硬扛 · 只算有效专注时长",
+    summary: "把基础任务尽量在校完成，晚上留给薄弱学科、错题复盘和阅读背诵。短时间真专注，胜过长时间磨洋工。",
+    steps: [
+      {
+        name: "三段式节奏",
+        time: "每天固定",
+        action: "早读背语文、英语、道法、历史；晚间攻数学、物理、化学等深度题；睡前 10 分钟复盘漏洞和明日任务。",
+        tips: ["周末假期只微调，不极端摆烂也不爆学", "把固定时间和固定任务绑定，形成学习惯性", "睡前不硬刷难题，只做收口和计划"],
+      },
+      {
+        name: "碎片时间",
+        time: "课间 / 自习 / 午休空档",
+        action: "在校优先清基础作业和短背诵，把晚上从“补作业”里解放出来。",
+        tips: ["课间可背 3 个单词、1 个公式或 1 条政治历史关键词", "自习课先做最容易拖延的基础任务", "晚上留给错题、弱科和需要安静思考的题"],
+      },
+      {
+        name: "番茄钟专注法",
+        time: "25 + 5 分钟",
+        action: "25 分钟只做一件事，不碰手机、不闲聊；5 分钟休息眼睛和身体，再开下一轮。",
+        tips: ["每轮只设一个小目标", "手机离开桌面或交给家长保管", "休息时站起来、远眺、喝水，不刷短视频"],
+      },
+    ],
+    checklist: ["今天是否有一段完整 25 分钟无干扰学习？", "基础作业是否尽量在校完成？", "睡前是否做了 10 分钟复盘？"],
   },
   {
-    title: "身心状态：稳住节奏，减少内耗",
-    summary: "初中阶段变化快，成绩波动很正常。把考试当体检，找到漏洞、补齐漏洞，就是进步。",
-    steps: ["不和别人比，只和昨天的自己比", "每天运动或拉伸 10–20 分钟", "拖延时先做 10 分钟", "压力大时把焦虑写成具体任务"],
+    title: "身心调节：稳住状态",
+    tag: "少内耗 · 少透支 · 多行动",
+    summary: "初中成绩波动很正常，很多时候不是不聪明，而是焦虑、透支和拖延让效率下降。先稳住状态，学习才有持续性。",
+    steps: [
+      {
+        name: "接纳不完美",
+        time: "每次考试后",
+        action: "考试不是审判，而是体检；不和别人比，只和昨天的自己比，找到漏洞就是收获。",
+        tips: ["把排名焦虑改成漏洞清单", "允许犯错，但不允许同错反复犯", "每天只追一个小进步"],
+      },
+      {
+        name: "劳逸结合",
+        time: "每天都要有",
+        action: "用运动、远眺和短休息维护专注力，不用熬夜透支第二天课堂。",
+        tips: ["跑步、跳绳、拉伸都可以", "学习累了远眺 1–2 分钟", "困到低效时先休息，不硬撑假学"],
+      },
+      {
+        name: "拒绝拖延",
+        time: "从 10 分钟开始",
+        action: "不想学时先做 10 分钟；难题先拆第一步，一旦开始，就会更容易进入状态。",
+        tips: ["任务拆到小到不能再小", "完成后打勾积累成就感", "薄弱点每天碰一点，不让问题堆成山"],
+      },
+    ],
+    checklist: ["今天有没有把一次焦虑转成具体行动？", "今天是否运动或拉伸过？", "拖延任务是否至少启动了 10 分钟？"],
   },
+];
+
+const DAILY_METHOD_FLOW = [
+  ["课前", "10–20 分钟轻量预习：看标题、标概念、圈疑问，带问题进课堂"],
+  ["课堂", "听逻辑、抓方法、记易错点；没懂的地方当天问清"],
+  ["课后", "用费曼法讲一遍，讲不顺就回教材、笔记和例题补洞"],
+  ["刷题", "只刷核心题型；错题写考点、错因、标准步骤和避坑提醒"],
+  ["睡前", "10 分钟复盘今日漏洞，安排明天最重要的 1–3 件事"],
+];
+
+const WRONG_QUESTION_TEMPLATE = [
+  "考点：这题到底考哪个知识点？对应课本哪一节？",
+  "错因：概念不会 / 思路不对 / 审题粗心 / 计算失误 / 表达不规范",
+  "标准步骤：正确第一步是什么？关键公式、模型、答题结构是什么？",
+  "避坑提醒：下次看到什么关键词、图形、材料或条件要警惕？",
+  "复盘节奏：当天整理，隔天重做，周末集中复盘并找同类题验证",
+];
+
+const WEEKLY_METHOD_RHYTHM = [
+  ["周一到周五", "课前轻预习，课上当堂清，晚上用番茄钟完成复盘、核心题和短背诵。"],
+  ["周三小检查", "检查本周错题是否都写了错因；薄弱点先补 1 个，不贪多。"],
+  ["周末总复盘", "整理一张本周知识框架图，集中翻看错题，再找同类题验证。"],
+  ["每次考试后", "不急着看排名，先做漏洞清单：知识漏洞、方法漏洞、状态漏洞。"],
 ];
 
 const VIDEO_RESOURCES = {
@@ -1103,24 +1210,120 @@ function subjectNetworkHTML(subjectIndex) {
   `;
 }
 
+function methodSearchFields(block) {
+  return [
+    block.title,
+    block.tag,
+    block.summary,
+    ...block.checklist,
+    ...block.steps.flatMap((step) => [step.name, step.time, step.action, ...step.tips]),
+  ];
+}
+
+function methodCardHTML(block, index) {
+  return `
+    <article class="method-card">
+      <div class="method-card__head">
+        <span class="tag">0${index + 1}</span>
+        <h3>${highlight(block.title)}</h3>
+        <p class="method-card__tagline">${highlight(block.tag)}</p>
+        <p>${highlight(block.summary)}</p>
+      </div>
+      <div class="method-steps">
+        ${block.steps.map((step, stepIndex) => `
+          <section class="method-step">
+            <span class="method-step__num">${stepIndex + 1}</span>
+            <div>
+              <div class="method-step__head">
+                <h4>${highlight(step.name)}</h4>
+                <small>${highlight(step.time)}</small>
+              </div>
+              <p>${highlight(step.action)}</p>
+              <ul>${step.tips.map((tip) => `<li>${highlight(tip)}</li>`).join("")}</ul>
+            </div>
+          </section>
+        `).join("")}
+      </div>
+      <details class="method-checklist" open>
+        <summary>今天自查</summary>
+        <ul>${block.checklist.map((item) => `<li>${highlight(item)}</li>`).join("")}</ul>
+      </details>
+    </article>
+  `;
+}
+
+function dailyFlowHTML() {
+  return `
+    <section class="method-section">
+      <div class="method-section__head">
+        <span class="tag">可直接照搬</span>
+        <h3>普通初中生每日执行流程</h3>
+        <p>先按这 5 步执行一周：预习有问题、课堂抓逻辑、课后讲出来、错题真复盘、睡前做收口。</p>
+      </div>
+      <div class="daily-flow">
+        ${DAILY_METHOD_FLOW.map(([time, action]) => `
+          <article>
+            <strong>${highlight(time)}</strong>
+            <span>${highlight(action)}</span>
+          </article>
+        `).join("")}
+      </div>
+    </section>
+  `;
+}
+
+function wrongQuestionTemplateHTML() {
+  return `
+    <section class="method-section">
+      <div class="method-section__head">
+        <span class="tag">提分快捷入口</span>
+        <h3>错题复盘极简模板</h3>
+        <p>错题本不要抄题抄答案，照下面 5 行写，目标是杜绝同错反复犯。</p>
+      </div>
+      <ol class="wrong-template">
+        ${WRONG_QUESTION_TEMPLATE.map((item) => `<li>${highlight(item)}</li>`).join("")}
+      </ol>
+    </section>
+  `;
+}
+
+function weeklyRhythmHTML() {
+  return `
+    <section class="method-section">
+      <div class="method-section__head">
+        <span class="tag">稳定提分</span>
+        <h3>一周执行节奏</h3>
+        <p>把学习方法放进固定节奏里，才不会变成看完很燃、第二天忘光。</p>
+      </div>
+      <div class="weekly-grid">
+        ${WEEKLY_METHOD_RHYTHM.map(([title, body]) => `
+          <article>
+            <b>${highlight(title)}</b>
+            <p>${highlight(body)}</p>
+          </article>
+        `).join("")}
+      </div>
+    </section>
+  `;
+}
+
 function methodHTML() {
   hideVolumeTabs();
-  breadcrumb.innerHTML = `<div><h2>学习方法</h2><p>适合普通初中生照搬执行的学习闭环。</p></div><div class="progress-ring"><strong>${LEARNING_METHODS.length}</strong><span>板块</span></div>`;
+  const blocks = LEARNING_METHODS.filter((block) => containsQuery(...methodSearchFields(block)));
+  breadcrumb.innerHTML = `<div><h2>学习方法</h2><p>把高中版完整方法论改造成适合初中生照搬执行的学习闭环。</p></div><div class="progress-ring"><strong>${LEARNING_METHODS.length}</strong><span>板块</span></div>`;
   unitList.innerHTML = `
     <div class="method-page">
       <article class="method-hero">
-        <span class="tag">初中高效学习法</span>
-        <h3>不拼熬夜，拼流程、复盘和稳定状态</h3>
-        <p>把课前预习、课堂听懂、课后讲出、错题复盘和时间管理做成固定动作。</p>
+        <span class="tag">初中高效学习法 · 融合高中版方法论</span>
+        <h3>不拼天赋，拼流程、复盘和稳定状态</h3>
+        <p>把知识学习、刷题复盘、时间管理、身心调节做成固定动作：课前有问题，课堂抓逻辑，课后讲出来，错题真复盘。</p>
       </article>
       <section class="method-grid">
-        ${LEARNING_METHODS.filter((block) => containsQuery(block.title, block.summary, ...block.steps)).map((block, index) => `
-          <article class="method-card">
-            <div class="method-card__head"><span class="tag">0${index + 1}</span><h3>${highlight(block.title)}</h3><p>${highlight(block.summary)}</p></div>
-            <ol>${block.steps.map((step) => `<li>${highlight(step)}</li>`).join("")}</ol>
-          </article>
-        `).join("")}
+        ${blocks.length ? blocks.map(methodCardHTML).join("") : `<div class="empty">当前搜索没有匹配学习方法，可清空搜索或换一个关键词。</div>`}
       </section>
+      ${dailyFlowHTML()}
+      ${wrongQuestionTemplateHTML()}
+      ${weeklyRhythmHTML()}
     </div>
   `;
 }

@@ -268,6 +268,7 @@ h1 {
 .network-hero,
 .network-section,
 .method-hero,
+.method-section,
 .method-card,
 .video-hero,
 .video-syllabus,
@@ -415,6 +416,7 @@ h1 {
 
 .volume-card__head,
 .section-head,
+.method-section__head,
 .method-card__head {
   padding: 16px 18px;
   border-bottom: 1px solid var(--line);
@@ -428,6 +430,7 @@ h1 {
 
 .volume-card__head h3,
 .section-head h3,
+.method-section__head h3,
 .method-card__head h3 {
   margin: 0;
 }
@@ -588,6 +591,143 @@ h1 {
 .method-card__head p {
   margin: 8px 0 0;
   color: var(--muted);
+  line-height: 1.7;
+}
+
+.method-card__tagline {
+  color: var(--primary-dark) !important;
+  font-weight: 950;
+}
+
+.method-page .method-grid {
+  grid-template-columns: 1fr;
+}
+
+.method-steps,
+.daily-flow,
+.weekly-grid {
+  display: grid;
+  gap: 12px;
+  padding: 14px;
+}
+
+.method-step,
+.daily-flow article,
+.weekly-grid article {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: rgba(255,255,255,0.76);
+}
+
+.method-step {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 12px;
+  padding: 14px;
+}
+
+.method-step__num {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 999px;
+  color: #fff;
+  font-weight: 950;
+  background: linear-gradient(135deg, var(--primary), #0ea5e9);
+  box-shadow: 0 8px 18px rgba(21, 128, 61, 0.18);
+}
+
+.method-step__head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.method-step__head h4 {
+  margin: 0;
+  color: var(--primary-dark);
+  font-size: 17px;
+}
+
+.method-step__head small {
+  color: var(--accent);
+  font-weight: 950;
+}
+
+.method-step p {
+  margin: 8px 0;
+  color: #263f31;
+  line-height: 1.7;
+}
+
+.method-step ul,
+.method-checklist ul {
+  display: grid;
+  gap: 7px;
+  margin: 0;
+  padding-left: 20px;
+  color: #263f31;
+  line-height: 1.65;
+}
+
+.method-checklist {
+  margin: 0 14px 14px;
+  border: 1px dashed rgba(22, 163, 74, 0.32);
+  border-radius: 16px;
+  background: rgba(220, 252, 231, 0.42);
+}
+
+.method-checklist summary {
+  padding: 12px 14px;
+  color: var(--primary-dark);
+  font-weight: 950;
+  cursor: pointer;
+}
+
+.method-checklist ul {
+  padding: 0 18px 14px 34px;
+}
+
+.daily-flow,
+.weekly-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.daily-flow article,
+.weekly-grid article {
+  padding: 14px;
+}
+
+.daily-flow strong,
+.weekly-grid b {
+  display: block;
+  margin-bottom: 7px;
+  color: var(--primary-dark);
+  font-weight: 950;
+}
+
+.daily-flow span,
+.weekly-grid p {
+  margin: 0;
+  color: #263f31;
+  line-height: 1.7;
+}
+
+.wrong-template {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding: 14px 14px 14px 36px;
+}
+
+.wrong-template li {
+  padding: 12px 13px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: rgba(255,255,255,0.76);
   line-height: 1.7;
 }
 
@@ -767,7 +907,9 @@ mark {
 
   .topic-grid,
   .method-grid,
-  .up-grid {
+  .up-grid,
+  .daily-flow,
+  .weekly-grid {
     grid-template-columns: 1fr;
   }
 
@@ -795,10 +937,14 @@ mark {
   .mindmap-root,
   .network-hero,
   .method-hero,
+  .method-section__head,
   .video-hero,
   .roadmap,
   .topic-grid,
   .method-grid,
+  .method-steps,
+  .daily-flow,
+  .weekly-grid,
   .up-grid,
   .video-links {
     padding: 12px;
