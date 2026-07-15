@@ -1112,6 +1112,67 @@ h1 {
   background: rgba(220, 252, 231, 0.82);
 }
 
+.word-quiz-controls {
+  display: grid;
+  gap: 10px;
+  border: 1px solid rgba(22, 163, 74, 0.12);
+  border-radius: 20px;
+  padding: 14px;
+  background: rgba(255, 255, 255, 0.74);
+}
+
+.word-quiz-controls__main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.word-quiz-controls label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid rgba(22, 163, 74, 0.12);
+  border-radius: 999px;
+  padding: 7px 9px 7px 12px;
+  color: var(--primary-dark);
+  font-size: 13px;
+  font-weight: 950;
+  background: rgba(240, 253, 244, 0.76);
+}
+
+.word-quiz-controls input {
+  width: 76px;
+  border: 0;
+  border-radius: 999px;
+  padding: 8px 10px;
+  color: var(--ink);
+  font-weight: 900;
+  background: white;
+}
+
+.word-quiz-controls button {
+  border: 0;
+  border-radius: 999px;
+  padding: 10px 13px;
+  color: white;
+  font-weight: 950;
+  background: linear-gradient(135deg, var(--primary), #0ea5e9);
+}
+
+.word-quiz-controls button span {
+  margin-left: 4px;
+  opacity: 0.86;
+}
+
+.word-session-note {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+  line-height: 1.55;
+}
+
 .word-stage-grid {
   display: grid;
   gap: 12px;
@@ -1367,6 +1428,16 @@ mark {
 
   .word-stage button {
     width: 100%;
+  }
+
+  .word-quiz-controls__main,
+  .word-quiz-controls label,
+  .word-quiz-controls button {
+    width: 100%;
+  }
+
+  .word-quiz-controls input {
+    flex: 1;
   }
 
   .word-card__main {
