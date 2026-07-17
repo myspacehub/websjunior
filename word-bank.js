@@ -33,7 +33,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈæbstrækt]",
     "meaning": "a./ n. 抽象的（作品）",
     "phrase": "an abstract idea",
-    "example": "The passage describes an abstract idea and gives details to support the idea.",
+    "example": "An abstract idea can guide the whole paragraph.",
     "mnemonic": "词形钩子：ab 表示“离开/相反”。把 abstract 放进“an abstract idea”里记，核心义锁定为“抽象的作品”。",
     "category": "初中1000 A-C"
   },
@@ -69,7 +69,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈæksɪdənt]",
     "meaning": "n. 事故，意外的事",
     "phrase": "an accident / the accident",
-    "example": "The article uses the word \"accident\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the accident helps explain what happened and why it matters.",
     "mnemonic": "拆音节钩子：把 accident 拆成 acc-ide-nt，边读边写，再回到词块“an accident / the accident”。",
     "category": "初中1000 A-C"
   },
@@ -78,7 +78,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈkaʊnt]",
     "meaning": "n. 账目;描述",
     "phrase": "an account / the account",
-    "example": "The article uses the word \"account\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the account because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“账目”有关的画面，再把英文 account 放进词块“an account / the account”。",
     "category": "初中1000 A-C"
   },
@@ -86,9 +86,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "acid",
     "phonetic": "[ˈæsɪd]",
     "meaning": "a. 酸的",
-    "phrase": "an acid situation",
-    "example": "The passage describes an acid situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“酸的”有关的画面，再把英文 acid 放进词块“an acid situation”。",
+    "phrase": "acid rain",
+    "example": "Acid rain can harm trees, rivers, and old buildings.",
+    "mnemonic": "场景钩子：先想一个和“酸的”有关的画面，再把英文 acid 放进词块“acid rain”。",
     "category": "初中1000 A-C"
   },
   {
@@ -96,7 +96,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈkrɔs]",
     "meaning": "prep. 横过，穿过",
     "phrase": "grammar signal: across",
-    "example": "Read the whole sentence, because \"across\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"across\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“横过”有关的画面，再把英文 across 放进词块“grammar signal: across”。",
     "category": "初中1000 A-C"
   },
@@ -105,7 +105,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ækt]",
     "meaning": "n. 法令，条例 v. （戏）表演，扮演（角色），演出（戏）；行动，做事",
     "phrase": "learn to act",
-    "example": "The writer uses \"act\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"act\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“法令”有关的画面，再把英文 act 放进词块“learn to act”。",
     "category": "初中1000 A-C"
   },
@@ -113,9 +113,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "active",
     "phonetic": "[ˈæktɪv]",
     "meaning": "a. 积极的，主动的",
-    "phrase": "an active situation",
-    "example": "The passage describes an active situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：ive 常表示倾向/性质。把 active 放进“an active situation”里记，核心义锁定为“积极的”。",
+    "phrase": "an active student",
+    "example": "An active student asks questions and joins class discussions.",
+    "mnemonic": "词形钩子：ive 常表示倾向/性质。把 active 放进“an active student”里记，核心义锁定为“积极的”。",
     "category": "初中1000 A-C"
   },
   {
@@ -123,7 +123,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[æd]",
     "meaning": "vt.添加，增加",
     "phrase": "learn to add",
-    "example": "The writer uses \"add\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"add\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“添加”有关的画面，再把英文 add 放进词块“learn to add”。",
     "category": "初中1000 A-C"
   },
@@ -132,7 +132,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈdres]",
     "meaning": "n. 地址",
     "phrase": "an address / the address",
-    "example": "The article uses the word \"address\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the address to connect a small detail with a bigger idea.",
     "mnemonic": "词形钩子：ad 表示“朝向”。把 address 放进“an address / the address”里记，核心义锁定为“地址”。",
     "category": "初中1000 A-C"
   },
@@ -141,7 +141,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈædʌlt]",
     "meaning": "n. 成年人",
     "phrase": "an adult / the adult",
-    "example": "The article uses the word \"adult\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the adult to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“成年人”有关的画面，再把英文 adult 放进词块“an adult / the adult”。",
     "category": "初中1000 A-C"
   },
@@ -150,7 +150,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈædvətaɪz]",
     "meaning": "vt. 为……做广告",
     "phrase": "learn to advertise",
-    "example": "The writer uses \"advertise\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"advertise\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "词形钩子：ad 表示“朝向”。把 advertise 放进“learn to advertise”里记，核心义锁定为“为……做广告”。",
     "category": "初中1000 A-C"
   },
@@ -159,7 +159,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ədˈvaɪs]",
     "meaning": "n. 忠告，劝告，建议",
     "phrase": "an advice / the advice",
-    "example": "The article uses the word \"advice\" in a real situation, so readers can connect it with the topic.",
+    "example": "The advice becomes important when the characters have to make a difficult choice.",
     "mnemonic": "词形钩子：ad 表示“朝向”。把 advice 放进“an advice / the advice”里记，核心义锁定为“忠告”。",
     "category": "初中1000 A-C"
   },
@@ -177,7 +177,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈɡeɪn]",
     "meaning": "ad. 再一次；再，又",
     "phrase": "again + action",
-    "example": "The speaker acted again, and the listener noticed the change at once.",
+    "example": "Good writers use details again to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“再一次”有关的画面，再把英文 again 放进词块“again + action”。",
     "category": "初中1000 A-C"
   },
@@ -186,7 +186,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈɡeɪnst]",
     "meaning": "prep. 对着，反对",
     "phrase": "grammar signal: against",
-    "example": "Read the whole sentence, because \"against\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"against\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“对着”有关的画面，再把英文 against 放进词块“grammar signal: against”。",
     "category": "初中1000 A-C"
   },
@@ -195,7 +195,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[eɪdʒ]",
     "meaning": "n. 年龄；时代",
     "phrase": "an age / the age",
-    "example": "The article uses the word \"age\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the age because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“年龄”有关的画面，再把英文 age 放进词块“an age / the age”。",
     "category": "初中1000 A-C"
   },
@@ -204,7 +204,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈeɪdʒənsɪ]",
     "meaning": "n. 代理机构",
     "phrase": "an agency / the agency",
-    "example": "The article uses the word \"agency\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the agency helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“代理机构”有关的画面，再把英文 agency 放进词块“an agency / the agency”。",
     "category": "初中1000 A-C"
   },
@@ -213,7 +213,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈɡəʊ]",
     "meaning": "ad. 以前",
     "phrase": "ago + action",
-    "example": "The speaker acted ago, and the listener noticed the change at once.",
+    "example": "Good writers use details ago to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“以前”有关的画面，再把英文 ago 放进词块“ago + action”。",
     "category": "初中1000 A-C"
   },
@@ -231,7 +231,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[eɪd]",
     "meaning": "n. 援助；救护；辅助器具",
     "phrase": "an aid / the aid",
-    "example": "The article uses the word \"aid\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the aid to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“援助”有关的画面，再把英文 aid 放进词块“an aid / the aid”。",
     "category": "初中1000 A-C"
   },
@@ -240,7 +240,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[eɪm]",
     "meaning": "n.目的；目标 v. 计划，打算；瞄准；针对",
     "phrase": "aim a goal",
-    "example": "In a difficult moment, people may need to aim a goal carefully.",
+    "example": "In the passage, one small choice helps the hero aim a goal.",
     "mnemonic": "场景钩子：先想一个和“目的”有关的画面，再把英文 aim 放进词块“aim a goal”。",
     "category": "初中1000 A-C"
   },
@@ -249,7 +249,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[eə(r)]",
     "meaning": "n. 空气；大气",
     "phrase": "an air / the air",
-    "example": "The article uses the word \"air\" in a real situation, so readers can connect it with the topic.",
+    "example": "The air becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“空气”有关的画面，再把英文 air 放进词块“an air / the air”。",
     "category": "初中1000 A-C"
   },
@@ -258,7 +258,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈeəpɔːt]",
     "meaning": "n. 航空站，飞机场",
     "phrase": "an airport / the airport",
-    "example": "The article uses the word \"airport\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the airport because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“航空站”有关的画面，再把英文 airport 放进词块“an airport / the airport”。",
     "category": "初中1000 A-C"
   },
@@ -267,7 +267,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈælbəm]",
     "meaning": "n. 相册，影集，集邮簿",
     "phrase": "an album / the album",
-    "example": "The article uses the word \"album\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the album because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“相册”有关的画面，再把英文 album 放进词块“an album / the album”。",
     "category": "初中1000 A-C"
   },
@@ -276,7 +276,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɔːl]",
     "meaning": "ad. 全部地 a. 全（部）;所有的;总;整 pron.全部;全体人员",
     "phrase": "grammar signal: all",
-    "example": "Read the whole sentence, because \"all\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"all\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“全部地全部”有关的画面，再把英文 all 放进词块“grammar signal: all”。",
     "category": "初中1000 A-C"
   },
@@ -294,7 +294,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɔːlməʊst]",
     "meaning": "ad. 几乎，差不多",
     "phrase": "almost + action",
-    "example": "The speaker acted almost, and the listener noticed the change at once.",
+    "example": "Good writers use details almost to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“几乎”有关的画面，再把英文 almost 放进词块“almost + action”。",
     "category": "初中1000 A-C"
   },
@@ -302,9 +302,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "alone",
     "phonetic": "[əˈləʊn]",
     "meaning": "a. 单独的，孤独的",
-    "phrase": "an alone situation",
-    "example": "The passage describes an alone situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“单独的”有关的画面，再把英文 alone 放进词块“an alone situation”。",
+    "phrase": "feel alone / live alone",
+    "example": "The new student felt alone until a classmate invited him to join the game.",
+    "mnemonic": "场景钩子：一个人，没有同伴，心里也觉得孤单，就是 alone。",
     "category": "初中1000 A-C"
   },
   {
@@ -312,7 +312,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈlɔŋ; (US) əˈlɔŋ]",
     "meaning": "ad. 向前；和…一起；一同 prep. 沿着；顺着",
     "phrase": "grammar signal: along",
-    "example": "Read the whole sentence, because \"along\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"along\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“向前”有关的画面，再把英文 along 放进词块“grammar signal: along”。",
     "category": "初中1000 A-C"
   },
@@ -321,7 +321,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɔːlˈredɪ]",
     "meaning": "ad. 已经",
     "phrase": "already + action",
-    "example": "The speaker acted already, and the listener noticed the change at once.",
+    "example": "She answers already after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“已经”有关的画面，再把英文 already 放进词块“already + action”。",
     "category": "初中1000 A-C"
   },
@@ -330,7 +330,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɔːlsəʊ]",
     "meaning": "ad. 也",
     "phrase": "also + action",
-    "example": "The speaker acted also, and the listener noticed the change at once.",
+    "example": "Good writers use details also to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“也”有关的画面，再把英文 also 放进词块“also + action”。",
     "category": "初中1000 A-C"
   },
@@ -339,7 +339,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɔːlˈðəʊ]",
     "meaning": "conj. 虽然，尽管",
     "phrase": "grammar signal: although",
-    "example": "Read the whole sentence, because \"although\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"although\" is removed, so it deserves attention in reading.",
     "mnemonic": "拆音节钩子：把 although 拆成 alt-hou-gh，边读边写，再回到词块“grammar signal: although”。",
     "category": "初中1000 A-C"
   },
@@ -348,7 +348,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɔːlweɪz]",
     "meaning": "ad. 总是；一直；永远",
     "phrase": "always + action",
-    "example": "The speaker acted always, and the listener noticed the change at once.",
+    "example": "She answers always after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“总是”有关的画面，再把英文 always 放进词块“always + action”。",
     "category": "初中1000 A-C"
   },
@@ -357,7 +357,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[æm]",
     "meaning": "v. be的人称形式之一",
     "phrase": "grammar signal: am",
-    "example": "Read the whole sentence, because \"am\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"am\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“be的人称形式之一”有关的画面，再把英文 am 放进词块“grammar signal: am”。",
     "category": "初中1000 A-C"
   },
@@ -366,7 +366,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈmʌŋ]",
     "meaning": "prep. 在…中间；在（三个以上）之间",
     "phrase": "grammar signal: among",
-    "example": "Read the whole sentence, because \"among\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"among\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“在…中间”有关的画面，再把英文 among 放进词块“grammar signal: among”。",
     "category": "初中1000 A-C"
   },
@@ -375,7 +375,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈmaʊnt]",
     "meaning": "n. / v. 金额，数量，总计",
     "phrase": "learn to amount",
-    "example": "The writer uses \"amount\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"amount\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“金额”有关的画面，再把英文 amount 放进词块“learn to amount”。",
     "category": "初中1000 A-C"
   },
@@ -384,7 +384,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈnæləsɪs]",
     "meaning": "n. 分析，分析结果",
     "phrase": "an analysis / the analysis",
-    "example": "The article uses the word \"analysis\" in a real situation, so readers can connect it with the topic.",
+    "example": "The analysis becomes important when the characters have to make a difficult choice.",
     "mnemonic": "拆音节钩子：把 analysis 拆成 ana-lys-is，边读边写，再回到词块“an analysis / the analysis”。",
     "category": "初中1000 A-C"
   },
@@ -392,9 +392,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "ancient",
     "phonetic": "[ˈeɪnʃənt]",
     "meaning": "a. 古代的，古老的",
-    "phrase": "an ancient situation",
-    "example": "The passage describes an ancient situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“古代的”有关的画面，再把英文 ancient 放进词块“an ancient situation”。",
+    "phrase": "an ancient city",
+    "example": "An ancient city often keeps old walls, stories, and traditions.",
+    "mnemonic": "场景钩子：先想一个和“古代的”有关的画面，再把英文 ancient 放进词块“an ancient city”。",
     "category": "初中1000 A-C"
   },
   {
@@ -402,7 +402,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ənd, ænd]",
     "meaning": "conj. 和；又；而",
     "phrase": "grammar signal: and",
-    "example": "Read the whole sentence, because \"and\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"and\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“和”有关的画面，再把英文 and 放进词块“grammar signal: and”。",
     "category": "初中1000 A-C"
   },
@@ -411,7 +411,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈænɪm(ə)l]",
     "meaning": "n. 动物",
     "phrase": "an animal / the animal",
-    "example": "The article uses the word \"animal\" in a real situation, so readers can connect it with the topic.",
+    "example": "The writer describes the animal so clearly that readers can picture the scene.",
     "mnemonic": "词形钩子：al 常把名词变形容词。把 animal 放进“an animal / the animal”里记，核心义锁定为“动物”。",
     "category": "初中1000 A-C"
   },
@@ -419,9 +419,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "annual",
     "phonetic": "[ˈænjʊəl]",
     "meaning": "a. 每年的，年度的，一年一次的",
-    "phrase": "an annual situation",
-    "example": "The passage describes an annual situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 annual 放进“an annual situation”里记，核心义锁定为“每年的”。",
+    "phrase": "an annual report",
+    "example": "An annual report helps people see what changed during the year.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 annual 放进“an annual report”里记，核心义锁定为“每年的”。",
     "category": "初中1000 A-C"
   },
   {
@@ -429,7 +429,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈnʌðə(r)]",
     "meaning": "a. 再一；另一；别的；不同的 pron. 另一个",
     "phrase": "grammar signal: another",
-    "example": "Read the whole sentence, because \"another\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"another\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“再一”有关的画面，再把英文 another 放进词块“grammar signal: another”。",
     "category": "初中1000 A-C"
   },
@@ -438,7 +438,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɑːnsə(r); (US) ˈænsər]",
     "meaning": "n.回答,答复;回信;答案 v.回答,答复;回信;（作出）答案",
     "phrase": "learn to answer",
-    "example": "The writer uses \"answer\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"answer\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“回答”有关的画面，再把英文 answer 放进词块“learn to answer”。",
     "category": "初中1000 A-C"
   },
@@ -447,7 +447,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈenɪ]",
     "meaning": "pron. （无论）哪一个；哪些 任何的；（用于疑问句、否定句）一些；什么",
     "phrase": "grammar signal: any",
-    "example": "Read the whole sentence, because \"any\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"any\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“无论哪一个”有关的画面，再把英文 any 放进词块“grammar signal: any”。",
     "category": "初中1000 A-C"
   },
@@ -456,7 +456,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈenɪwʌn]",
     "meaning": "pron. 任何人，无论谁",
     "phrase": "grammar signal: anyone",
-    "example": "Read the whole sentence, because \"anyone\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"anyone\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“任何人”有关的画面，再把英文 anyone 放进词块“grammar signal: anyone”。",
     "category": "初中1000 A-C"
   },
@@ -465,7 +465,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈenɪθɪŋ]",
     "meaning": "pron. 什么事（物）；任何事（物）",
     "phrase": "grammar signal: anything",
-    "example": "Read the whole sentence, because \"anything\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"anything\" is removed, so it deserves attention in reading.",
     "mnemonic": "拆音节钩子：把 anything 拆成 any-thi-ng，边读边写，再回到词块“grammar signal: anything”。",
     "category": "初中1000 A-C"
   },
@@ -483,7 +483,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈæp(ə)l]",
     "meaning": "n. 苹果",
     "phrase": "an apple / the apple",
-    "example": "The article uses the word \"apple\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the apple to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“苹果”有关的画面，再把英文 apple 放进词块“an apple / the apple”。",
     "category": "初中1000 A-C"
   },
@@ -501,7 +501,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈprəʊtʃ]",
     "meaning": "n. / v. 靠近，接近，建议，要求",
     "phrase": "learn to approach",
-    "example": "The writer uses \"approach\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"approach\" helps describe what happens next.",
     "mnemonic": "拆音节钩子：把 approach 拆成 app-roa-ch，边读边写，再回到词块“learn to approach”。",
     "category": "初中1000 A-C"
   },
@@ -510,7 +510,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɑː(r)]",
     "meaning": "v.(be) 是",
     "phrase": "grammar signal: are",
-    "example": "Read the whole sentence, because \"are\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"are\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“be是”有关的画面，再把英文 are 放进词块“grammar signal: are”。",
     "category": "初中1000 A-C"
   },
@@ -519,7 +519,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈeərɪə]",
     "meaning": "n. 面积；地域，地方，区域；范围，领域",
     "phrase": "an area / the area",
-    "example": "The article uses the word \"area\" in a real situation, so readers can connect it with the topic.",
+    "example": "People in the area work together when a serious problem appears.",
     "mnemonic": "场景钩子：先想一个和“面积”有关的画面，再把英文 area 放进词块“an area / the area”。",
     "category": "初中1000 A-C"
   },
@@ -528,7 +528,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɑːmɪ]",
     "meaning": "n. 军队",
     "phrase": "an army / the army",
-    "example": "The article uses the word \"army\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the army because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“军队”有关的画面，再把英文 army 放进词块“an army / the army”。",
     "category": "初中1000 A-C"
   },
@@ -537,7 +537,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈraʊnd]",
     "meaning": "ad. 在周围；在附近prep. 在……周围；大约",
     "phrase": "grammar signal: around",
-    "example": "Read the whole sentence, because \"around\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"around\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“在周围”有关的画面，再把英文 around 放进词块“grammar signal: around”。",
     "category": "初中1000 A-C"
   },
@@ -546,7 +546,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈraɪv]",
     "meaning": "vi. 到达；达到",
     "phrase": "arrive naturally / arrive in a situation",
-    "example": "In the story, people arrive when the situation suddenly changes.",
+    "example": "When readers meet \"arrive\", they should ask who does the action and why it matters.",
     "mnemonic": "词形钩子：ive 常表示倾向/性质。把 arrive 放进“arrive naturally / arrive in a situation”里记，核心义锁定为“到达”。",
     "category": "初中1000 A-C"
   },
@@ -555,7 +555,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɑːt]",
     "meaning": "n. 艺术，美术；技艺",
     "phrase": "an art / the art",
-    "example": "The article uses the word \"art\" in a real situation, so readers can connect it with the topic.",
+    "example": "The art carries memories from the past and gives the passage a warm tone.",
     "mnemonic": "场景钩子：先想一个和“艺术”有关的画面，再把英文 art 放进词块“an art / the art”。",
     "category": "初中1000 A-C"
   },
@@ -564,7 +564,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɑːtɪk(ə)l]",
     "meaning": "n.文章;东西,物品;冠词",
     "phrase": "an article / the article",
-    "example": "The article uses the word \"article\" in a real situation, so readers can connect it with the topic.",
+    "example": "A good article can turn a difficult topic into something clear.",
     "mnemonic": "场景钩子：先想一个和“文章”有关的画面，再把英文 article 放进词块“an article / the article”。",
     "category": "初中1000 A-C"
   },
@@ -573,7 +573,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɑːtɪst]",
     "meaning": "n.艺术家",
     "phrase": "an artist / the artist",
-    "example": "The article uses the word \"artist\" in a real situation, so readers can connect it with the topic.",
+    "example": "The artist is where the main character first meets a stranger.",
     "mnemonic": "场景钩子：先想一个和“艺术家”有关的画面，再把英文 artist 放进词块“an artist / the artist”。",
     "category": "初中1000 A-C"
   },
@@ -582,7 +582,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əz, æz]",
     "meaning": "ad.& conj.像……一样；如同；因为 prep. 作为，当做",
     "phrase": "grammar signal: as",
-    "example": "Read the whole sentence, because \"as\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"as\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“像……一样”有关的画面，再把英文 as 放进词块“grammar signal: as”。",
     "category": "初中1000 A-C"
   },
@@ -591,7 +591,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɑːsk]",
     "meaning": "v. 问；请求，要求；邀请",
     "phrase": "learn to ask",
-    "example": "The writer uses \"ask\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"ask\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“问”有关的画面，再把英文 ask 放进词块“learn to ask”。",
     "category": "初中1000 A-C"
   },
@@ -600,7 +600,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[æt]",
     "meaning": "prep.在（几点钟）;在（某处）",
     "phrase": "grammar signal: at",
-    "example": "Read the whole sentence, because \"at\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"at\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“在几点钟”有关的画面，再把英文 at 放进词块“grammar signal: at”。",
     "category": "初中1000 A-C"
   },
@@ -609,7 +609,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈætəm]",
     "meaning": "n. 原子，微粒",
     "phrase": "an atom / the atom",
-    "example": "The article uses the word \"atom\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the atom because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“原子”有关的画面，再把英文 atom 放进词块“an atom / the atom”。",
     "category": "初中1000 A-C"
   },
@@ -618,7 +618,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈtenʃ(ə)n]",
     "meaning": "n. 注意，关心",
     "phrase": "an attention / the attention",
-    "example": "The article uses the word \"attention\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the attention to connect a small detail with a bigger idea.",
     "mnemonic": "词形钩子：tion 常把动词变名词。把 attention 放进“an attention / the attention”里记，核心义锁定为“注意”。",
     "category": "初中1000 A-C"
   },
@@ -627,7 +627,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɔːθə(r)]",
     "meaning": "n. 作者，作家",
     "phrase": "an author / the author",
-    "example": "The article uses the word \"author\" in a real situation, so readers can connect it with the topic.",
+    "example": "The map shows the author and explains why it matters to the journey.",
     "mnemonic": "场景钩子：先想一个和“作者”有关的画面，再把英文 author 放进词块“an author / the author”。",
     "category": "初中1000 A-C"
   },
@@ -635,18 +635,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "available",
     "phonetic": "[ˈɔːtəm]",
     "meaning": "a. 可获得的，有空的",
-    "phrase": "an available situation",
-    "example": "The passage describes an available situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：able 表示“能够/可以”。把 available 放进“an available situation”里记，核心义锁定为“可获得的”。",
+    "phrase": "an available seat",
+    "example": "An available seat near the window made the long trip easier.",
+    "mnemonic": "词形钩子：able 表示“能够/可以”。把 available 放进“an available seat”里记，核心义锁定为“可获得的”。",
     "category": "初中1000 A-C"
   },
   {
     "word": "average",
     "phonetic": "[ˈævərɪdʒ]",
     "meaning": "a.平均；普通的 n.平均数",
-    "phrase": "an average situation",
-    "example": "The passage describes an average situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“平均”有关的画面，再把英文 average 放进词块“an average situation”。",
+    "phrase": "an average score",
+    "example": "An average score shows the general level of the whole class.",
+    "mnemonic": "场景钩子：先想一个和“平均”有关的画面，再把英文 average 放进词块“an average score”。",
     "category": "初中1000 A-C"
   },
   {
@@ -663,7 +663,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɔːd]",
     "meaning": "n. 奖品，奖励",
     "phrase": "an award / the award",
-    "example": "The article uses the word \"award\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the award helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“奖品”有关的画面，再把英文 award 放进词块“an award / the award”。",
     "category": "初中1000 A-C"
   },
@@ -672,7 +672,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈweɪ]",
     "meaning": "ad. 离开；远离",
     "phrase": "away + action",
-    "example": "The speaker acted away, and the listener noticed the change at once.",
+    "example": "Good writers use details away to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“离开”有关的画面，再把英文 away 放进词块“away + action”。",
     "category": "初中1000 A-C"
   },
@@ -681,7 +681,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bæk]",
     "meaning": "ad. 回（原处）；向后 a. 后面的 n. 背后，后部；背",
     "phrase": "back + action",
-    "example": "The speaker acted back, and the listener noticed the change at once.",
+    "example": "Good writers use details back to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“回原处”有关的画面，再把英文 back 放进词块“back + action”。",
     "category": "初中1000 A-C"
   },
@@ -690,7 +690,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈbækɡraʊnd]",
     "meaning": "n. 背景",
     "phrase": "a background / the background",
-    "example": "The article uses the word \"background\" in a real situation, so readers can connect it with the topic.",
+    "example": "The background becomes important when the characters have to make a difficult choice.",
     "mnemonic": "拆音节钩子：把 background 拆成 bac-kgr-oun-d，边读边写，再回到词块“a background / the background”。",
     "category": "初中1000 A-C"
   },
@@ -708,7 +708,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɔːl]",
     "meaning": "n. 球 n. 舞会",
     "phrase": "a ball / the ball",
-    "example": "The article uses the word \"ball\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the ball helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“球舞会”有关的画面，再把英文 ball 放进词块“a ball / the ball”。",
     "category": "初中1000 A-C"
   },
@@ -717,7 +717,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bænd]",
     "meaning": "n. 乐队",
     "phrase": "a band / the band",
-    "example": "The article uses the word \"band\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the band because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“乐队”有关的画面，再把英文 band 放进词块“a band / the band”。",
     "category": "初中1000 A-C"
   },
@@ -726,7 +726,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bæŋk]",
     "meaning": "n. （河海湖的）岸，堤 n. 银行",
     "phrase": "a bank / the bank",
-    "example": "The article uses the word \"bank\" in a real situation, so readers can connect it with the topic.",
+    "example": "A change in the bank can affect people, plants, and animals around us.",
     "mnemonic": "场景钩子：先想一个和“河海湖的岸”有关的画面，再把英文 bank 放进词块“a bank / the bank”。",
     "category": "初中1000 A-C"
   },
@@ -735,7 +735,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɑː(r)]",
     "meaning": "n. 条（长方）块，棒，横木 n.（酒店的）买酒柜台；酒吧；（卖东西的）柜台",
     "phrase": "a bar / the bar",
-    "example": "The article uses the word \"bar\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the bar because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“条长方块”有关的画面，再把英文 bar 放进词块“a bar / the bar”。",
     "category": "初中1000 A-C"
   },
@@ -744,7 +744,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[beɪs]",
     "meaning": "n. 根据地，基地（棒球）垒",
     "phrase": "a base / the base",
-    "example": "The article uses the word \"base\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the base helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“根据地”有关的画面，再把英文 base 放进词块“a base / the base”。",
     "category": "初中1000 A-C"
   },
@@ -752,9 +752,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "basic",
     "phonetic": "[ˈbeɪsɪk]",
     "meaning": "a. 基本的",
-    "phrase": "a basic situation",
-    "example": "The passage describes a basic situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“基本的”有关的画面，再把英文 basic 放进词块“a basic situation”。",
+    "phrase": "a basic rule",
+    "example": "A basic rule is easier to follow when the reason is clear.",
+    "mnemonic": "场景钩子：先想一个和“基本的”有关的画面，再把英文 basic 放进词块“a basic rule”。",
     "category": "初中1000 A-C"
   },
   {
@@ -762,7 +762,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈbeɪsɪs]",
     "meaning": "n. 原因，缘由，要素",
     "phrase": "a basis / the basis",
-    "example": "The article uses the word \"basis\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the basis to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“原因”有关的画面，再把英文 basis 放进词块“a basis / the basis”。",
     "category": "初中1000 A-C"
   },
@@ -771,7 +771,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈbɑːskɪt; (US) ˈbæskɪt]",
     "meaning": "n. 篮子",
     "phrase": "a basket / the basket",
-    "example": "The article uses the word \"basket\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the basket to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“篮子”有关的画面，再把英文 basket 放进词块“a basket / the basket”。",
     "category": "初中1000 A-C"
   },
@@ -780,7 +780,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɑːθ; (US) bæθ]",
     "meaning": "n. 洗澡；浴室；澡盆",
     "phrase": "a bath / the bath",
-    "example": "The article uses the word \"bath\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the bath helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“洗澡”有关的画面，再把英文 bath 放进词块“a bath / the bath”。",
     "category": "初中1000 A-C"
   },
@@ -789,7 +789,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈbætərɪ]",
     "meaning": "n. 电池",
     "phrase": "a battery / the battery",
-    "example": "The article uses the word \"battery\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the battery helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“电池”有关的画面，再把英文 battery 放进词块“a battery / the battery”。",
     "category": "初中1000 A-C"
   },
@@ -798,7 +798,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[beɪ]",
     "meaning": "n. 湾； 海湾",
     "phrase": "a bay / the bay",
-    "example": "The article uses the word \"bay\" in a real situation, so readers can connect it with the topic.",
+    "example": "A change in the bay can affect people, plants, and animals around us.",
     "mnemonic": "场景钩子：先想一个和“湾”有关的画面，再把英文 bay 放进词块“a bay / the bay”。",
     "category": "初中1000 A-C"
   },
@@ -807,7 +807,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[biː]",
     "meaning": "v. 是（原形）,其人称和时态形式有(am, is, are, was, were, being, been)；成为",
     "phrase": "grammar signal: be",
-    "example": "Read the whole sentence, because \"be\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"be\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“是原形”有关的画面，再把英文 be 放进词块“grammar signal: be”。",
     "category": "初中1000 A-C"
   },
@@ -816,7 +816,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[biːtʃ]",
     "meaning": "n. 海滨，海滩",
     "phrase": "a beach / the beach",
-    "example": "The article uses the word \"beach\" in a real situation, so readers can connect it with the topic.",
+    "example": "A change in the beach can affect people, plants, and animals around us.",
     "mnemonic": "场景钩子：先想一个和“海滨”有关的画面，再把英文 beach 放进词块“a beach / the beach”。",
     "category": "初中1000 A-C"
   },
@@ -825,7 +825,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[beə(r)]",
     "meaning": "v. 承受，负担，承担；忍受；容忍 n. 熊",
     "phrase": "learn to bear",
-    "example": "The writer uses \"bear\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"bear\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“承受”有关的画面，再把英文 bear 放进词块“learn to bear”。",
     "category": "初中1000 A-C"
   },
@@ -833,9 +833,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "beautiful",
     "phonetic": "[ˈbjuːtɪf(ə)l]",
     "meaning": "a. 美，美丽，美观的",
-    "phrase": "a beautiful situation",
-    "example": "The passage describes a beautiful situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：ful 表示“充满”。把 beautiful 放进“a beautiful situation”里记，核心义锁定为“美”。",
+    "phrase": "a beautiful view",
+    "example": "A beautiful view makes travelers stop and take photos.",
+    "mnemonic": "词形钩子：ful 表示“充满”。把 beautiful 放进“a beautiful view”里记，核心义锁定为“美”。",
     "category": "初中1000 A-C"
   },
   {
@@ -843,7 +843,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈbjuːtɪ]",
     "meaning": "n. 美丽，美人",
     "phrase": "a beauty / the beauty",
-    "example": "The article uses the word \"beauty\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the beauty to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“美丽”有关的画面，再把英文 beauty 放进词块“a beauty / the beauty”。",
     "category": "初中1000 A-C"
   },
@@ -852,7 +852,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɪˈkɔz; (US) bɪˈkɔːz]",
     "meaning": "conj. 因为",
     "phrase": "grammar signal: because",
-    "example": "Read the whole sentence, because \"because\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"because\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“因为”有关的画面，再把英文 because 放进词块“grammar signal: because”。",
     "category": "初中1000 A-C"
   },
@@ -861,7 +861,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bed]",
     "meaning": "n. 床",
     "phrase": "a bed / the bed",
-    "example": "The article uses the word \"bed\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the bed helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“床”有关的画面，再把英文 bed 放进词块“a bed / the bed”。",
     "category": "初中1000 A-C"
   },
@@ -870,7 +870,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɪˈfɔː(r)]",
     "meaning": "prep. 在…以前；在…前面 ad. 以前 conj. 在…之前",
     "phrase": "grammar signal: before",
-    "example": "Read the whole sentence, because \"before\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"before\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“在…以前”有关的画面，再把英文 before 放进词块“grammar signal: before”。",
     "category": "初中1000 A-C"
   },
@@ -879,7 +879,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɪˈhaɪnd]",
     "meaning": "prep. (表示位置)在…后面 ad. 在后面；向后",
     "phrase": "grammar signal: behind",
-    "example": "Read the whole sentence, because \"behind\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"behind\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“表示位置在…后面在后面”有关的画面，再把英文 behind 放进词块“grammar signal: behind”。",
     "category": "初中1000 A-C"
   },
@@ -888,7 +888,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈbiːɪŋ]",
     "meaning": "n. 物；生物；人",
     "phrase": "grammar signal: being",
-    "example": "Read the whole sentence, because \"being\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"being\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“物”有关的画面，再把英文 being 放进词块“grammar signal: being”。",
     "category": "初中1000 A-C"
   },
@@ -897,7 +897,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɪˈliːv]",
     "meaning": "v. 相信，认为",
     "phrase": "learn to believe",
-    "example": "The writer uses \"believe\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"believe\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“相信”有关的画面，再把英文 believe 放进词块“learn to believe”。",
     "category": "初中1000 A-C"
   },
@@ -906,7 +906,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɪˈləʊ]",
     "meaning": "prep. 在……下面",
     "phrase": "grammar signal: below",
-    "example": "Read the whole sentence, because \"below\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"below\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“在……下面”有关的画面，再把英文 below 放进词块“grammar signal: below”。",
     "category": "初中1000 A-C"
   },
@@ -915,7 +915,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɪˈtwiːn]",
     "meaning": "prep. 在（两者）之间；在…中间",
     "phrase": "grammar signal: between",
-    "example": "Read the whole sentence, because \"between\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"between\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“在两者之间”有关的画面，再把英文 between 放进词块“grammar signal: between”。",
     "category": "初中1000 A-C"
   },
@@ -924,7 +924,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɪˈjɔnd]",
     "meaning": "prep. (表示位置) 在…的那边",
     "phrase": "grammar signal: beyond",
-    "example": "Read the whole sentence, because \"beyond\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"beyond\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“表示位置在…的那边”有关的画面，再把英文 beyond 放进词块“grammar signal: beyond”。",
     "category": "初中1000 A-C"
   },
@@ -933,7 +933,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɪd]",
     "meaning": "v./ n. 出价，投标，向（某人）道别",
     "phrase": "learn to bid",
-    "example": "The writer uses \"bid\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"bid\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“出价”有关的画面，再把英文 bid 放进词块“learn to bid”。",
     "category": "初中1000 A-C"
   },
@@ -941,9 +941,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "big",
     "phonetic": "[bɪɡ]",
     "meaning": "a. 大的",
-    "phrase": "a big situation",
-    "example": "The passage describes a big situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“大的”有关的画面，再把英文 big 放进词块“a big situation”。",
+    "phrase": "a big room",
+    "example": "A big room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“大的”有关的画面，再把英文 big 放进词块“a big room”。",
     "category": "初中1000 A-C"
   },
   {
@@ -951,7 +951,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɪl]",
     "meaning": "n.账单；法案，议案； （美）钞票，纸币",
     "phrase": "a bill / the bill",
-    "example": "The article uses the word \"bill\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the bill helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“账单”有关的画面，再把英文 bill 放进词块“a bill / the bill”。",
     "category": "初中1000 A-C"
   },
@@ -960,7 +960,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɜːd]",
     "meaning": "n. 鸟",
     "phrase": "a bird / the bird",
-    "example": "The article uses the word \"bird\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the bird because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“鸟”有关的画面，再把英文 bird 放进词块“a bird / the bird”。",
     "category": "初中1000 A-C"
   },
@@ -969,7 +969,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɪt]",
     "meaning": "n. 一点，一些，少量的",
     "phrase": "a bit / the bit",
-    "example": "The article uses the word \"bit\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the bit helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“一点”有关的画面，再把英文 bit 放进词块“a bit / the bit”。",
     "category": "初中1000 A-C"
   },
@@ -977,9 +977,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "black",
     "phonetic": "[blæk]",
     "meaning": "n. 黑色 a. 黑色的",
-    "phrase": "a black situation",
-    "example": "The passage describes a black situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“黑色黑色的”有关的画面，再把英文 black 放进词块“a black situation”。",
+    "phrase": "a black coat",
+    "example": "A black coat is easy to notice in a crowd.",
+    "mnemonic": "场景钩子：先想一个和“黑色黑色的”有关的画面，再把英文 black 放进词块“a black coat”。",
     "category": "初中1000 A-C"
   },
   {
@@ -987,7 +987,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[blɔk]",
     "meaning": "n. 大块；（木、石等）块；街区；路障 vt. 阻塞；阻挡",
     "phrase": "learn to block",
-    "example": "The writer uses \"block\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"block\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“大块”有关的画面，再把英文 block 放进词块“learn to block”。",
     "category": "初中1000 A-C"
   },
@@ -996,7 +996,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[blʌd]",
     "meaning": "n. 血，血液",
     "phrase": "a blood / the blood",
-    "example": "The article uses the word \"blood\" in a real situation, so readers can connect it with the topic.",
+    "example": "The blood becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“血”有关的画面，再把英文 blood 放进词块“a blood / the blood”。",
     "category": "初中1000 A-C"
   },
@@ -1005,7 +1005,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bləʊ]",
     "meaning": "n. 击；打击",
     "phrase": "a blow / the blow",
-    "example": "The article uses the word \"blow\" in a real situation, so readers can connect it with the topic.",
+    "example": "The blow becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“击”有关的画面，再把英文 blow 放进词块“a blow / the blow”。",
     "category": "初中1000 A-C"
   },
@@ -1013,9 +1013,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "blue",
     "phonetic": "[bluː]",
     "meaning": "n. 蓝色 a.蓝色的 a. 悲伤的；沮丧的",
-    "phrase": "a blue feeling",
-    "example": "The passage describes a blue feeling and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“蓝色蓝色的悲伤的”有关的画面，再把英文 blue 放进词块“a blue feeling”。",
+    "phrase": "a blue coat",
+    "example": "A blue coat is easy to notice in a crowd.",
+    "mnemonic": "场景钩子：先想一个和“蓝色蓝色的悲伤的”有关的画面，再把英文 blue 放进词块“a blue coat”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1023,7 +1023,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɔːd]",
     "meaning": "n. 木板；布告牌；委员会；（政府的）部 v. 上（船、火车、飞机）",
     "phrase": "learn to board",
-    "example": "The writer uses \"board\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"board\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“木板”有关的画面，再把英文 board 放进词块“learn to board”。",
     "category": "初中1000 A-C"
   },
@@ -1032,7 +1032,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bəʊt]",
     "meaning": "n. 小船，小舟",
     "phrase": "a boat / the boat",
-    "example": "The article uses the word \"boat\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the boat to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“小船”有关的画面，再把英文 boat 放进词块“a boat / the boat”。",
     "category": "初中1000 A-C"
   },
@@ -1049,9 +1049,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "born",
     "phonetic": "[bɔːn]",
     "meaning": "a. 出生",
-    "phrase": "a born situation",
-    "example": "The passage describes a born situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“出生”有关的画面，再把英文 born 放进词块“a born situation”。",
+    "phrase": "be born in / be born with",
+    "example": "She was born in a small village and later became a famous doctor.",
+    "mnemonic": "句型钩子：born 常跟 be，一出生在哪里就是 be born in。",
     "category": "初中1000 A-C"
   },
   {
@@ -1068,7 +1068,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bəʊθ]",
     "meaning": "a. 两；双 pron. 两者；双方",
     "phrase": "grammar signal: both",
-    "example": "Read the whole sentence, because \"both\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"both\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“两”有关的画面，再把英文 both 放进词块“grammar signal: both”。",
     "category": "初中1000 A-C"
   },
@@ -1077,7 +1077,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈbɔtəm]",
     "meaning": "n. 底部；底",
     "phrase": "a bottom / the bottom",
-    "example": "The article uses the word \"bottom\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the bottom because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“底部”有关的画面，再把英文 bottom 放进词块“a bottom / the bottom”。",
     "category": "初中1000 A-C"
   },
@@ -1086,7 +1086,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɔks]",
     "meaning": "n. 盒子，箱子",
     "phrase": "a box / the box",
-    "example": "The article uses the word \"box\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the box because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“盒子”有关的画面，再把英文 box 放进词块“a box / the box”。",
     "category": "初中1000 A-C"
   },
@@ -1095,7 +1095,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bɔɪ]",
     "meaning": "n. 男孩",
     "phrase": "a boy / the boy",
-    "example": "The article uses the word \"boy\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the boy to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“男孩”有关的画面，再把英文 boy 放进词块“a boy / the boy”。",
     "category": "初中1000 A-C"
   },
@@ -1104,7 +1104,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[brænd]",
     "meaning": "n. 品牌",
     "phrase": "a brand / the brand",
-    "example": "The article uses the word \"brand\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the brand helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“品牌”有关的画面，再把英文 brand 放进词块“a brand / the brand”。",
     "category": "初中1000 A-C"
   },
@@ -1113,7 +1113,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[breɪv]",
     "meaning": "a. 勇敢的",
     "phrase": "a brave person",
-    "example": "The passage describes a brave person and gives details to support the idea.",
+    "example": "A brave person is remembered for actions more than words.",
     "mnemonic": "场景钩子：先想一个和“勇敢的”有关的画面，再把英文 brave 放进词块“a brave person”。",
     "category": "初中1000 A-C"
   },
@@ -1122,7 +1122,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[breɪk]",
     "meaning": "n. 间隙",
     "phrase": "a break / the break",
-    "example": "The article uses the word \"break\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the break because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“间隙”有关的画面，再把英文 break 放进词块“a break / the break”。",
     "category": "初中1000 A-C"
   },
@@ -1131,7 +1131,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[brest]",
     "meaning": "n. 乳房，胸脯",
     "phrase": "a breast / the breast",
-    "example": "The article uses the word \"breast\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the breast because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“乳房”有关的画面，再把英文 breast 放进词块“a breast / the breast”。",
     "category": "初中1000 A-C"
   },
@@ -1139,9 +1139,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "brown",
     "phonetic": "[braʊn]",
     "meaning": "n. 褐色，棕色 a. 褐色的，棕色的",
-    "phrase": "a brown situation",
-    "example": "The passage describes a brown situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“褐色”有关的画面，再把英文 brown 放进词块“a brown situation”。",
+    "phrase": "a brown coat",
+    "example": "A brown coat is easy to notice in a crowd.",
+    "mnemonic": "场景钩子：先想一个和“褐色”有关的画面，再把英文 brown 放进词块“a brown coat”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1149,7 +1149,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈbʌdʒɪt]",
     "meaning": "n. 预算",
     "phrase": "a budget / the budget",
-    "example": "The article uses the word \"budget\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the budget helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“预算”有关的画面，再把英文 budget 放进词块“a budget / the budget”。",
     "category": "初中1000 A-C"
   },
@@ -1158,7 +1158,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈbɪldɪŋ]",
     "meaning": "n. 建筑物；房屋；大楼",
     "phrase": "a building / the building",
-    "example": "The article uses the word \"building\" in a real situation, so readers can connect it with the topic.",
+    "example": "The building is where the main character first meets a stranger.",
     "mnemonic": "拆音节钩子：把 building 拆成 bui-ldi-ng，边读边写，再回到词块“a building / the building”。",
     "category": "初中1000 A-C"
   },
@@ -1167,7 +1167,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bʌs]",
     "meaning": "n. 公共汽车",
     "phrase": "a bus / the bus",
-    "example": "The article uses the word \"bus\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the bus to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“公共汽车”有关的画面，再把英文 bus 放进词块“a bus / the bus”。",
     "category": "初中1000 A-C"
   },
@@ -1176,7 +1176,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bʊʃ]",
     "meaning": "n. 灌木丛，矮树丛",
     "phrase": "a bush / the bush",
-    "example": "The article uses the word \"bush\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the bush to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“灌木丛”有关的画面，再把英文 bush 放进词块“a bush / the bush”。",
     "category": "初中1000 A-C"
   },
@@ -1185,7 +1185,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈbɪznɪs]",
     "meaning": "n. （本分）工作，职业；职责；生意，交易；事业",
     "phrase": "a business / the business",
-    "example": "The article uses the word \"business\" in a real situation, so readers can connect it with the topic.",
+    "example": "The business becomes important when the characters have to make a difficult choice.",
     "mnemonic": "词形钩子：ness 常把形容词变名词。把 business 放进“a business / the business”里记，核心义锁定为“本分工作”。",
     "category": "初中1000 A-C"
   },
@@ -1194,7 +1194,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[bət, bʌt]",
     "meaning": "conj. 但是，可是 prep. 除了, 除……外",
     "phrase": "grammar signal: but",
-    "example": "Read the whole sentence, because \"but\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"but\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“但是”有关的画面，再把英文 but 放进词块“grammar signal: but”。",
     "category": "初中1000 A-C"
   },
@@ -1203,7 +1203,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈbʌt(ə)n]",
     "meaning": "n. 纽扣；（电铃等的）按钮 v. 扣（纽扣）",
     "phrase": "learn to button",
-    "example": "The writer uses \"button\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"button\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“纽扣”有关的画面，再把英文 button 放进词块“learn to button”。",
     "category": "初中1000 A-C"
   },
@@ -1212,7 +1212,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[baɪ]",
     "meaning": "prep. 靠近，在…旁；在…时间；不迟于；被；用；由；乘（车）",
     "phrase": "grammar signal: by",
-    "example": "Read the whole sentence, because \"by\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"by\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“靠近”有关的画面，再把英文 by 放进词块“grammar signal: by”。",
     "category": "初中1000 A-C"
   },
@@ -1221,7 +1221,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kɔːl]",
     "meaning": "n. 喊，叫；电话，通话 v. 称呼；呼唤；喊，叫",
     "phrase": "learn to call",
-    "example": "The writer uses \"call\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"call\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“喊”有关的画面，再把英文 call 放进词块“learn to call”。",
     "category": "初中1000 A-C"
   },
@@ -1230,7 +1230,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkæmərə]",
     "meaning": "n. 照相机；摄像机",
     "phrase": "a camera / the camera",
-    "example": "The article uses the word \"camera\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the camera because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“照相机”有关的画面，再把英文 camera 放进词块“a camera / the camera”。",
     "category": "初中1000 A-C"
   },
@@ -1239,7 +1239,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kæmp]",
     "meaning": "n.（夏令）营 vi.野营,宿营",
     "phrase": "camp naturally / camp in a situation",
-    "example": "In the story, people camp when the situation suddenly changes.",
+    "example": "When readers meet \"camp\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“夏令营野营”有关的画面，再把英文 camp 放进词块“camp naturally / camp in a situation”。",
     "category": "初中1000 A-C"
   },
@@ -1248,7 +1248,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kæmˈpeɪn]",
     "meaning": "n. 运动，战役",
     "phrase": "a campaign / the campaign",
-    "example": "The article uses the word \"campaign\" in a real situation, so readers can connect it with the topic.",
+    "example": "The doctor explains why the campaign is important for recovery.",
     "mnemonic": "拆音节钩子：把 campaign 拆成 cam-pai-gn，边读边写，再回到词块“a campaign / the campaign”。",
     "category": "初中1000 A-C"
   },
@@ -1257,7 +1257,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kɑː(r)]",
     "meaning": "n. 汽车，小卧车",
     "phrase": "a car / the car",
-    "example": "The article uses the word \"car\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the car to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“汽车”有关的画面，再把英文 car 放进词块“a car / the car”。",
     "category": "初中1000 A-C"
   },
@@ -1266,7 +1266,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kɑːd]",
     "meaning": "n.卡片；名片；纸牌",
     "phrase": "a card / the card",
-    "example": "The article uses the word \"card\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the card to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“卡片”有关的画面，再把英文 card 放进词块“a card / the card”。",
     "category": "初中1000 A-C"
   },
@@ -1275,7 +1275,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[keə(r)]",
     "meaning": "n. 照料，保护；小心v. 介意……，在乎；关心",
     "phrase": "learn to care",
-    "example": "The writer uses \"care\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"care\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“照料”有关的画面，再把英文 care 放进词块“learn to care”。",
     "category": "初中1000 A-C"
   },
@@ -1283,9 +1283,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "careful",
     "phonetic": "[ˈkeəfʊl]",
     "meaning": "a. 小心，仔细，谨慎的",
-    "phrase": "a careful situation",
-    "example": "The passage describes a careful situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：ful 表示“充满”。把 careful 放进“a careful situation”里记，核心义锁定为“小心”。",
+    "phrase": "a careful room",
+    "example": "A careful room changes how people feel when they walk in.",
+    "mnemonic": "词形钩子：ful 表示“充满”。把 careful 放进“a careful room”里记，核心义锁定为“小心”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1293,7 +1293,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[keɪs]",
     "meaning": "n. 情况；病例；案件；真相 n. 箱；盒；容器",
     "phrase": "a case / the case",
-    "example": "The article uses the word \"case\" in a real situation, so readers can connect it with the topic.",
+    "example": "The case becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“情况”有关的画面，再把英文 case 放进词块“a case / the case”。",
     "category": "初中1000 A-C"
   },
@@ -1302,7 +1302,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kæʃ]",
     "meaning": "n. 现金，现钞 v. 兑现",
     "phrase": "learn to cash",
-    "example": "The writer uses \"cash\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"cash\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“现金”有关的画面，再把英文 cash 放进词块“learn to cash”。",
     "category": "初中1000 A-C"
   },
@@ -1311,7 +1311,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kæt]",
     "meaning": "n. 猫",
     "phrase": "a cat / the cat",
-    "example": "The article uses the word \"cat\" in a real situation, so readers can connect it with the topic.",
+    "example": "The cat becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“猫”有关的画面，再把英文 cat 放进词块“a cat / the cat”。",
     "category": "初中1000 A-C"
   },
@@ -1320,7 +1320,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkætɪɡərɪ]",
     "meaning": "n. 类别，种类",
     "phrase": "a category / the category",
-    "example": "The article uses the word \"category\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the category to connect a small detail with a bigger idea.",
     "mnemonic": "拆音节钩子：把 category 拆成 cat-ego-ry，边读边写，再回到词块“a category / the category”。",
     "category": "初中1000 A-C"
   },
@@ -1329,7 +1329,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kɔːz]",
     "meaning": "n. 原因，起因 vt. 促使，引起，使发生",
     "phrase": "learn to cause",
-    "example": "The writer uses \"cause\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"cause\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“原因”有关的画面，再把英文 cause 放进词块“learn to cause”。",
     "category": "初中1000 A-C"
   },
@@ -1338,7 +1338,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈselɪbreɪt]",
     "meaning": "v. 庆祝",
     "phrase": "learn to celebrate",
-    "example": "The writer uses \"celebrate\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"celebrate\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "拆音节钩子：把 celebrate 拆成 cel-ebr-ate，边读边写，再回到词块“learn to celebrate”。",
     "category": "初中1000 A-C"
   },
@@ -1347,7 +1347,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sel]",
     "meaning": "n.（监狱的）单人牢房；（修道院等的）单人小室；（蜂巢的）小蜂窝，蜂房；［生物］ 细胞",
     "phrase": "a cell / the cell",
-    "example": "The article uses the word \"cell\" in a real situation, so readers can connect it with the topic.",
+    "example": "The cell becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“监狱的单人牢房”有关的画面，再把英文 cell 放进词块“a cell / the cell”。",
     "category": "初中1000 A-C"
   },
@@ -1355,9 +1355,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "central",
     "phonetic": "[ˈsentr(ə)l]",
     "meaning": "a. 中心，中央；主要的",
-    "phrase": "a central situation",
-    "example": "The passage describes a central situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 central 放进“a central situation”里记，核心义锁定为“中心”。",
+    "phrase": "a central idea",
+    "example": "A central idea can guide the whole paragraph.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 central 放进“a central idea”里记，核心义锁定为“中心”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1365,7 +1365,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsentʃərɪ]",
     "meaning": "n. 世纪，百年",
     "phrase": "a century / the century",
-    "example": "The article uses the word \"century\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the century to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“世纪”有关的画面，再把英文 century 放进词块“a century / the century”。",
     "category": "初中1000 A-C"
   },
@@ -1373,9 +1373,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "certain",
     "phonetic": "[ˈsɜːt(ə)n]",
     "meaning": "a. （未指明真实名称的）某…；确定的，无疑的；一定会…",
-    "phrase": "a certain situation",
-    "example": "The passage describes a certain situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“未指明真实名称的某…”有关的画面，再把英文 certain 放进词块“a certain situation”。",
+    "phrase": "a certain reason",
+    "example": "A certain reason makes the decision easier to understand.",
+    "mnemonic": "场景钩子：先想一个和“未指明真实名称的某…”有关的画面，再把英文 certain 放进词块“a certain reason”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1383,7 +1383,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tʃeə(r)]",
     "meaning": "n. 椅子",
     "phrase": "a chair / the chair",
-    "example": "The article uses the word \"chair\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the chair helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“椅子”有关的画面，再把英文 chair 放进词块“a chair / the chair”。",
     "category": "初中1000 A-C"
   },
@@ -1392,7 +1392,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tʃɑːns; (US) tʃæns]",
     "meaning": "n. 机会，可能性",
     "phrase": "a chance / the chance",
-    "example": "The article uses the word \"chance\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the chance to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“机会”有关的画面，再把英文 chance 放进词块“a chance / the chance”。",
     "category": "初中1000 A-C"
   },
@@ -1410,7 +1410,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈtʃæn(ə)l]",
     "meaning": "n.频道；通道；水渠",
     "phrase": "a channel / the channel",
-    "example": "The article uses the word \"channel\" in a real situation, so readers can connect it with the topic.",
+    "example": "The channel outside the village makes the morning feel quiet and bright.",
     "mnemonic": "场景钩子：先想一个和“频道”有关的画面，再把英文 channel 放进词块“a channel / the channel”。",
     "category": "初中1000 A-C"
   },
@@ -1419,7 +1419,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈtʃæptə(r)]",
     "meaning": "n. 章",
     "phrase": "a chapter / the chapter",
-    "example": "The article uses the word \"chapter\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the chapter helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“章”有关的画面，再把英文 chapter 放进词块“a chapter / the chapter”。",
     "category": "初中1000 A-C"
   },
@@ -1428,7 +1428,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkærɪktə(r)]",
     "meaning": "n.（汉）字.字体；品格",
     "phrase": "a character / the character",
-    "example": "The article uses the word \"character\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the character because it changes the direction of the story.",
     "mnemonic": "拆音节钩子：把 character 拆成 cha-rac-ter，边读边写，再回到词块“a character / the character”。",
     "category": "初中1000 A-C"
   },
@@ -1437,7 +1437,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tʃɑːdʒ]",
     "meaning": "v. 要求收费；索价；将(电池)充电 n. 费用；价钱",
     "phrase": "learn to charge",
-    "example": "The writer uses \"charge\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"charge\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“要求收费”有关的画面，再把英文 charge 放进词块“learn to charge”。",
     "category": "初中1000 A-C"
   },
@@ -1446,7 +1446,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tʃæt]",
     "meaning": "n. & vi. 聊天，闲谈",
     "phrase": "chat naturally / chat in a situation",
-    "example": "In the story, people chat when the situation suddenly changes.",
+    "example": "The sentence uses \"chat\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“聊天”有关的画面，再把英文 chat 放进词块“chat naturally / chat in a situation”。",
     "category": "初中1000 A-C"
   },
@@ -1454,9 +1454,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "cheap",
     "phonetic": "[tʃiːp]",
     "meaning": "a. 便宜的，贱",
-    "phrase": "a cheap situation",
-    "example": "The passage describes a cheap situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“便宜的”有关的画面，再把英文 cheap 放进词块“a cheap situation”。",
+    "phrase": "a cheap ticket",
+    "example": "A cheap ticket allows more students to join the trip.",
+    "mnemonic": "场景钩子：先想一个和“便宜的”有关的画面，再把英文 cheap 放进词块“a cheap ticket”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1464,7 +1464,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tʃek]",
     "meaning": "n. 检查；批改 vt. 校对，核对； 检查；批改",
     "phrase": "learn to check",
-    "example": "The writer uses \"check\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"check\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“检查”有关的画面，再把英文 check 放进词块“learn to check”。",
     "category": "初中1000 A-C"
   },
@@ -1472,9 +1472,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "chief",
     "phonetic": "[tʃiːf]",
     "meaning": "a. 主要,首要的 n.领导，头",
-    "phrase": "a chief situation",
-    "example": "The passage describes a chief situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“主要”有关的画面，再把英文 chief 放进词块“a chief situation”。",
+    "phrase": "a chief idea",
+    "example": "A chief idea can guide the whole paragraph.",
+    "mnemonic": "场景钩子：先想一个和“主要”有关的画面，再把英文 chief 放进词块“a chief idea”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1491,7 +1491,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tʃɜːtʃ]",
     "meaning": "n. 教堂；教会",
     "phrase": "a church / the church",
-    "example": "The article uses the word \"church\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the church because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“教堂”有关的画面，再把英文 church 放进词块“a church / the church”。",
     "category": "初中1000 A-C"
   },
@@ -1500,7 +1500,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsɪtɪ]",
     "meaning": "n. 市，城市，都市",
     "phrase": "a city / the city",
-    "example": "The article uses the word \"city\" in a real situation, so readers can connect it with the topic.",
+    "example": "The city is where the main character first meets a stranger.",
     "mnemonic": "词形钩子：ity 常表示性质/状态。把 city 放进“a city / the city”里记，核心义锁定为“市”。",
     "category": "初中1000 A-C"
   },
@@ -1508,9 +1508,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "civil",
     "phonetic": "[ˈsɪv(ə)l]",
     "meaning": "a. 国内的；平民（非军人）的；民用的",
-    "phrase": "a civil situation",
-    "example": "The passage describes a civil situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“国内的”有关的画面，再把英文 civil 放进词块“a civil situation”。",
+    "phrase": "a civil detail",
+    "example": "A civil detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“国内的”有关的画面，再把英文 civil 放进词块“a civil detail”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1526,18 +1526,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "clean",
     "phonetic": "[kliːn]",
     "meaning": "vt. 弄干净，擦干净 a. 清洁的，干净的",
-    "phrase": "a clean situation",
-    "example": "The passage describes a clean situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“弄干净”有关的画面，再把英文 clean 放进词块“a clean situation”。",
+    "phrase": "a clean room",
+    "example": "A clean room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“弄干净”有关的画面，再把英文 clean 放进词块“a clean room”。",
     "category": "初中1000 A-C"
   },
   {
     "word": "clear",
     "phonetic": "[klɪə(r)]",
     "meaning": "a. 清晰；明亮的；清楚的",
-    "phrase": "a clear situation",
-    "example": "The passage describes a clear situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“清晰”有关的画面，再把英文 clear 放进词块“a clear situation”。",
+    "phrase": "a clear answer",
+    "example": "A clear answer shows that the student has understood the question.",
+    "mnemonic": "场景钩子：先想一个和“清晰”有关的画面，再把英文 clear 放进词块“a clear answer”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1545,7 +1545,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[klɪk]",
     "meaning": "v. 点击（计算机用语）",
     "phrase": "learn to click",
-    "example": "The writer uses \"click\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"click\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“点击计算机用语”有关的画面，再把英文 click 放进词块“learn to click”。",
     "category": "初中1000 A-C"
   },
@@ -1554,7 +1554,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kləʊz]",
     "meaning": "a. 亲密的；近，靠近 ad. 近，靠近 vt. 关，关闭",
     "phrase": "close + action",
-    "example": "The speaker acted close, and the listener noticed the change at once.",
+    "example": "She answers close after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“亲密的”有关的画面，再把英文 close 放进词块“close + action”。",
     "category": "初中1000 A-C"
   },
@@ -1563,7 +1563,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkləʊðɪŋ]",
     "meaning": "n. (总称) 衣服",
     "phrase": "a clothing / the clothing",
-    "example": "The article uses the word \"clothing\" in a real situation, so readers can connect it with the topic.",
+    "example": "The clothing becomes important when the characters have to make a difficult choice.",
     "mnemonic": "拆音节钩子：把 clothing 拆成 clo-thi-ng，边读边写，再回到词块“a clothing / the clothing”。",
     "category": "初中1000 A-C"
   },
@@ -1572,7 +1572,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[klʌb]",
     "meaning": "n. 俱乐部；纸牌中的梅花",
     "phrase": "a club / the club",
-    "example": "The article uses the word \"club\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the club to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“俱乐部”有关的画面，再把英文 club 放进词块“a club / the club”。",
     "category": "初中1000 A-C"
   },
@@ -1581,7 +1581,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kəʊst]",
     "meaning": "n. 海岸；海滨",
     "phrase": "a coast / the coast",
-    "example": "The article uses the word \"coast\" in a real situation, so readers can connect it with the topic.",
+    "example": "A change in the coast can affect people, plants, and animals around us.",
     "mnemonic": "场景钩子：先想一个和“海岸”有关的画面，再把英文 coast 放进词块“a coast / the coast”。",
     "category": "初中1000 A-C"
   },
@@ -1590,7 +1590,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kɔk]",
     "meaning": "n. 公鸡",
     "phrase": "a cock / the cock",
-    "example": "The article uses the word \"cock\" in a real situation, so readers can connect it with the topic.",
+    "example": "The cock becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“公鸡”有关的画面，再把英文 cock 放进词块“a cock / the cock”。",
     "category": "初中1000 A-C"
   },
@@ -1599,7 +1599,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkɔfɪ; (US) ˈkɔːfɪ]",
     "meaning": "n. 咖啡",
     "phrase": "a coffee / the coffee",
-    "example": "The article uses the word \"coffee\" in a real situation, so readers can connect it with the topic.",
+    "example": "The coffee becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“咖啡”有关的画面，再把英文 coffee 放进词块“a coffee / the coffee”。",
     "category": "初中1000 A-C"
   },
@@ -1607,9 +1607,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "cold",
     "phonetic": "[kəʊld]",
     "meaning": "a. 冷的，寒的 n. 寒冷；感冒，伤风",
-    "phrase": "a cold situation",
-    "example": "The passage describes a cold situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“冷的”有关的画面，再把英文 cold 放进词块“a cold situation”。",
+    "phrase": "a cold morning",
+    "example": "A cold morning is a good time for a walk or a short review.",
+    "mnemonic": "场景钩子：先想一个和“冷的”有关的画面，再把英文 cold 放进词块“a cold morning”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1617,7 +1617,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kəˈlekt]",
     "meaning": "vt. 收集，搜集",
     "phrase": "learn to collect",
-    "example": "The writer uses \"collect\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"collect\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“收集”有关的画面，再把英文 collect 放进词块“learn to collect”。",
     "category": "初中1000 A-C"
   },
@@ -1635,7 +1635,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kəˈmɑːnd; (US) kəˈmænd]",
     "meaning": "n. & v. 命令",
     "phrase": "learn to command",
-    "example": "The writer uses \"command\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"command\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "词形钩子：con/com 表示“一起/共同”。把 command 放进“learn to command”里记，核心义锁定为“命令”。",
     "category": "初中1000 A-C"
   },
@@ -1644,7 +1644,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kəˈmɪtɪ]",
     "meaning": "n. 委员会",
     "phrase": "a committee / the committee",
-    "example": "The article uses the word \"committee\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the committee helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：con/com 表示“一起/共同”。把 committee 放进“a committee / the committee”里记，核心义锁定为“委员会”。",
     "category": "初中1000 A-C"
   },
@@ -1652,9 +1652,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "common",
     "phonetic": "[ˈkɔmən]",
     "meaning": "a. 普通，一般；共有的",
-    "phrase": "a common situation",
-    "example": "The passage describes a common situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“普通”有关的画面，再把英文 common 放进词块“a common situation”。",
+    "phrase": "a common problem",
+    "example": "A common problem appears in many exams, so students should know the method.",
+    "mnemonic": "场景钩子：先想一个和“普通”有关的画面，再把英文 common 放进词块“a common problem”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1662,7 +1662,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kəˈmjuːnɪkeɪt]",
     "meaning": "v. 交际；传达（感情，信息等）",
     "phrase": "learn to communicate",
-    "example": "The writer uses \"communicate\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"communicate\", they should ask who does the action and why it matters.",
     "mnemonic": "词形钩子：con/com 表示“一起/共同”。把 communicate 放进“learn to communicate”里记，核心义锁定为“交际”。",
     "category": "初中1000 A-C"
   },
@@ -1671,7 +1671,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkʌmpənɪ]",
     "meaning": "n. 公司",
     "phrase": "a company / the company",
-    "example": "The article uses the word \"company\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the company helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：con/com 表示“一起/共同”。把 company 放进“a company / the company”里记，核心义锁定为“公司”。",
     "category": "初中1000 A-C"
   },
@@ -1688,9 +1688,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "complete",
     "phonetic": "[kəmˈpliːt]",
     "meaning": "a. 完成vt. 完成，结束",
-    "phrase": "a complete situation",
-    "example": "The passage describes a complete situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：con/com 表示“一起/共同”。把 complete 放进“a complete situation”里记，核心义锁定为“完成vt.完成”。",
+    "phrase": "a complete detail",
+    "example": "A complete detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：con/com 表示“一起/共同”。把 complete 放进“a complete detail”里记，核心义锁定为“完成vt.完成”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1698,7 +1698,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kəmˈpjuːtə(r)]",
     "meaning": "n. 电子计算机",
     "phrase": "a computer / the computer",
-    "example": "The article uses the word \"computer\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the computer helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：con/com 表示“一起/共同”。把 computer 放进“a computer / the computer”里记，核心义锁定为“电子计算机”。",
     "category": "初中1000 A-C"
   },
@@ -1707,7 +1707,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kənˈdɪʃ(ə)n]",
     "meaning": "n. 条件，状况",
     "phrase": "a condition / the condition",
-    "example": "The article uses the word \"condition\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the condition helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：con/com 表示“一起/共同”；tion 常把动词变名词。把 condition 放进“a condition / the condition”里记，核心义锁定为“条件”。",
     "category": "初中1000 A-C"
   },
@@ -1724,9 +1724,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "content",
     "phonetic": "[kənˈtent]",
     "meaning": "a.甘愿的,满意的 n.内容",
-    "phrase": "a content situation",
-    "example": "The passage describes a content situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：con/com 表示“一起/共同”。把 content 放进“a content situation”里记，核心义锁定为“甘愿的”。",
+    "phrase": "a content smile",
+    "example": "She looked content after finishing the difficult project.",
+    "mnemonic": "词形钩子：con/com 表示“一起/共同”。把 content 放进“a content smile”里记，核心义锁定为“甘愿的”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1743,7 +1743,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kənˈtrol]",
     "meaning": "vt.& n. 控制",
     "phrase": "learn to control",
-    "example": "The writer uses \"control\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"control\", they should ask who does the action and why it matters.",
     "mnemonic": "词形钩子：con/com 表示“一起/共同”。把 control 放进“learn to control”里记，核心义锁定为“控制”。",
     "category": "初中1000 A-C"
   },
@@ -1751,9 +1751,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "cool",
     "phonetic": "[kuːl]",
     "meaning": "a. 凉的，凉爽的；酷",
-    "phrase": "a cool situation",
-    "example": "The passage describes a cool situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“凉的”有关的画面，再把英文 cool 放进词块“a cool situation”。",
+    "phrase": "a cool morning",
+    "example": "A cool morning is a good time for a walk or a short review.",
+    "mnemonic": "场景钩子：先想一个和“凉的”有关的画面，再把英文 cool 放进词块“a cool morning”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1761,7 +1761,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkɔpɪ]",
     "meaning": "n. 抄本，副本；一本（份，册……） v. 抄写；复印；（计算机用语）拷（备 份盘）",
     "phrase": "learn to copy",
-    "example": "The writer uses \"copy\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"copy\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“抄本”有关的画面，再把英文 copy 放进词块“learn to copy”。",
     "category": "初中1000 A-C"
   },
@@ -1769,9 +1769,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "correct",
     "phonetic": "[kəˈrekt]",
     "meaning": "v. 改正；纠正 a. 正确的，对的；恰当的",
-    "phrase": "a correct situation",
-    "example": "The passage describes a correct situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“改正”有关的画面，再把英文 correct 放进词块“a correct situation”。",
+    "phrase": "a correct answer",
+    "example": "A correct answer shows that the student has understood the question.",
+    "mnemonic": "场景钩子：先想一个和“改正”有关的画面，再把英文 correct 放进词块“a correct answer”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1779,7 +1779,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kaʊnt]",
     "meaning": "vt. 数，点数",
     "phrase": "learn to count",
-    "example": "The writer uses \"count\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"count\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“数”有关的画面，再把英文 count 放进词块“learn to count”。",
     "category": "初中1000 A-C"
   },
@@ -1788,7 +1788,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkʌntrɪ]",
     "meaning": "n. 国家；农村，乡下",
     "phrase": "a country / the country",
-    "example": "The article uses the word \"country\" in a real situation, so readers can connect it with the topic.",
+    "example": "The map shows the country and explains why it matters to the journey.",
     "mnemonic": "场景钩子：先想一个和“国家”有关的画面，再把英文 country 放进词块“a country / the country”。",
     "category": "初中1000 A-C"
   },
@@ -1797,7 +1797,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkʌp(ə)l]",
     "meaning": "n. 夫妇，一对",
     "phrase": "a couple / the couple",
-    "example": "The article uses the word \"couple\" in a real situation, so readers can connect it with the topic.",
+    "example": "The couple becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“夫妇”有关的画面，再把英文 couple 放进词块“a couple / the couple”。",
     "category": "初中1000 A-C"
   },
@@ -1806,7 +1806,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kɔːs]",
     "meaning": "n. 过程；经过；课程",
     "phrase": "a course / the course",
-    "example": "The article uses the word \"course\" in a real situation, so readers can connect it with the topic.",
+    "example": "The course in this lesson helps students understand the main idea.",
     "mnemonic": "场景钩子：先想一个和“过程”有关的画面，再把英文 course 放进词块“a course / the course”。",
     "category": "初中1000 A-C"
   },
@@ -1815,7 +1815,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kɔːt]",
     "meaning": "n. 法庭；法院",
     "phrase": "a court / the court",
-    "example": "The article uses the word \"court\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the court because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“法庭”有关的画面，再把英文 court 放进词块“a court / the court”。",
     "category": "初中1000 A-C"
   },
@@ -1824,7 +1824,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkʌvə(r)]",
     "meaning": "n. 盖子；罩 v. 覆盖，遮盖；掩盖",
     "phrase": "learn to cover",
-    "example": "The writer uses \"cover\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"cover\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“盖子”有关的画面，再把英文 cover 放进词块“learn to cover”。",
     "category": "初中1000 A-C"
   },
@@ -1842,7 +1842,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkredɪt]",
     "meaning": "n. 信用；信赖；信誉",
     "phrase": "a credit / the credit",
-    "example": "The article uses the word \"credit\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the credit helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“信用”有关的画面，再把英文 credit 放进词块“a credit / the credit”。",
     "category": "初中1000 A-C"
   },
@@ -1851,7 +1851,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kraɪm]",
     "meaning": "n. （法律上的）罪，犯罪",
     "phrase": "a crime / the crime",
-    "example": "The article uses the word \"crime\" in a real situation, so readers can connect it with the topic.",
+    "example": "The crime becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“法律上的罪”有关的画面，再把英文 crime 放进词块“a crime / the crime”。",
     "category": "初中1000 A-C"
   },
@@ -1859,9 +1859,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "cross",
     "phonetic": "[krɔs]",
     "meaning": "a. 脾气不好的，易怒的 n. 十字形的东西 vt. 越过；穿过",
-    "phrase": "a cross situation",
-    "example": "The passage describes a cross situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“脾气不好的”有关的画面，再把英文 cross 放进词块“a cross situation”。",
+    "phrase": "a cross detail",
+    "example": "A cross detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“脾气不好的”有关的画面，再把英文 cross 放进词块“a cross detail”。",
     "category": "初中1000 A-C"
   },
   {
@@ -1869,7 +1869,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkʌltʃə(r)]",
     "meaning": "n. 文化",
     "phrase": "a culture / the culture",
-    "example": "The article uses the word \"culture\" in a real situation, so readers can connect it with the topic.",
+    "example": "Through the culture, readers understand the culture behind the story.",
     "mnemonic": "场景钩子：先想一个和“文化”有关的画面，再把英文 culture 放进词块“a culture / the culture”。",
     "category": "初中1000 A-C"
   },
@@ -1878,7 +1878,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kʌp]",
     "meaning": "n. 茶杯",
     "phrase": "a cup / the cup",
-    "example": "The article uses the word \"cup\" in a real situation, so readers can connect it with the topic.",
+    "example": "The cup becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“茶杯”有关的画面，再把英文 cup 放进词块“a cup / the cup”。",
     "category": "初中1000 A-C"
   },
@@ -1887,7 +1887,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkʌstəm]",
     "meaning": "n. 习惯，习俗，风俗习惯",
     "phrase": "a custom / the custom",
-    "example": "The article uses the word \"custom\" in a real situation, so readers can connect it with the topic.",
+    "example": "A change in the custom can affect people, plants, and animals around us.",
     "mnemonic": "场景钩子：先想一个和“习惯”有关的画面，再把英文 custom 放进词块“a custom / the custom”。",
     "category": "初中1000 A-C"
   },
@@ -1896,7 +1896,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkʌstəmə(r)]",
     "meaning": "n. （商店）顾客，主顾",
     "phrase": "a customer / the customer",
-    "example": "The article uses the word \"customer\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the customer to connect a small detail with a bigger idea.",
     "mnemonic": "拆音节钩子：把 customer 拆成 cus-tom-er，边读边写，再回到词块“a customer / the customer”。",
     "category": "初中1000 A-C"
   },
@@ -1905,7 +1905,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdeɪlɪ]",
     "meaning": "a. 每日的；日常的 ad. 每天 n. 日报",
     "phrase": "daily + action",
-    "example": "The speaker acted daily, and the listener noticed the change at once.",
+    "example": "She answers daily after listening to the whole question.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 daily 放进“daily + action”里记，核心义锁定为“每日的”。",
     "category": "初中1000 D-F"
   },
@@ -1914,7 +1914,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdeɪndʒə(r)]",
     "meaning": "n. 危险",
     "phrase": "a danger / the danger",
-    "example": "The article uses the word \"danger\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the danger because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“危险”有关的画面，再把英文 danger 放进词块“a danger / the danger”。",
     "category": "初中1000 D-F"
   },
@@ -1922,9 +1922,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "dark",
     "phonetic": "[dɑːk]",
     "meaning": "n. 黑暗；暗处；日暮 a. 黑暗的；暗淡的；深色的",
-    "phrase": "a dark situation",
-    "example": "The passage describes a dark situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“黑暗”有关的画面，再把英文 dark 放进词块“a dark situation”。",
+    "phrase": "a dark coat",
+    "example": "A dark coat is easy to notice in a crowd.",
+    "mnemonic": "场景钩子：先想一个和“黑暗”有关的画面，再把英文 dark 放进词块“a dark coat”。",
     "category": "初中1000 D-F"
   },
   {
@@ -1932,7 +1932,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdeɪtə, ˈdɑːtə; (US) ˈdætə]",
     "meaning": "n. 资料，数据",
     "phrase": "a data / the data",
-    "example": "The article uses the word \"data\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the data to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“资料”有关的画面，再把英文 data 放进词块“a data / the data”。",
     "category": "初中1000 D-F"
   },
@@ -1941,7 +1941,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdeɪtbeɪs]",
     "meaning": "n. 资料库，数据库",
     "phrase": "a database / the database",
-    "example": "The article uses the word \"database\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the database because it changes the direction of the story.",
     "mnemonic": "拆音节钩子：把 database 拆成 dat-aba-se，边读边写，再回到词块“a database / the database”。",
     "category": "初中1000 D-F"
   },
@@ -1950,7 +1950,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[deɪt]",
     "meaning": "n. 日期；约会 n.枣",
     "phrase": "a date / the date",
-    "example": "The article uses the word \"date\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the date to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“日期”有关的画面，再把英文 date 放进词块“a date / the date”。",
     "category": "初中1000 D-F"
   },
@@ -1959,7 +1959,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[deɪ]",
     "meaning": "n.（一）天，（一）日；白天",
     "phrase": "a day / the day",
-    "example": "The article uses the word \"day\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the day to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“一天”有关的画面，再把英文 day 放进词块“a day / the day”。",
     "category": "初中1000 D-F"
   },
@@ -1967,9 +1967,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "dead",
     "phonetic": "[ded]",
     "meaning": "a. 死的；无生命的",
-    "phrase": "a dead situation",
-    "example": "The passage describes a dead situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“死的”有关的画面，再把英文 dead 放进词块“a dead situation”。",
+    "phrase": "a dead leaf",
+    "example": "A dead leaf falls from the tree after the cold night.",
+    "mnemonic": "场景钩子：先想一个和“死的”有关的画面，再把英文 dead 放进词块“a dead leaf”。",
     "category": "初中1000 D-F"
   },
   {
@@ -1977,7 +1977,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[diːl]",
     "meaning": "n. 量，数额；交易",
     "phrase": "a deal / the deal",
-    "example": "The article uses the word \"deal\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the deal to connect a small detail with a bigger idea.",
     "mnemonic": "词形钩子：al 常把名词变形容词。把 deal 放进“a deal / the deal”里记，核心义锁定为“量”。",
     "category": "初中1000 D-F"
   },
@@ -1986,7 +1986,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[deθ]",
     "meaning": "n. 死",
     "phrase": "a death / the death",
-    "example": "The article uses the word \"death\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the death to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“死”有关的画面，再把英文 death 放进词块“a death / the death”。",
     "category": "初中1000 D-F"
   },
@@ -1995,7 +1995,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[det]",
     "meaning": "n. 债务；欠款",
     "phrase": "a debt / the debt",
-    "example": "The article uses the word \"debt\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the debt helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“债务”有关的画面，再把英文 debt 放进词块“a debt / the debt”。",
     "category": "初中1000 D-F"
   },
@@ -2013,7 +2013,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[diːp]",
     "meaning": "a. 深 ad. 深；深厚",
     "phrase": "deep + action",
-    "example": "The speaker acted deep, and the listener noticed the change at once.",
+    "example": "She answers deep after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“深深”有关的画面，再把英文 deep 放进词块“deep + action”。",
     "category": "初中1000 D-F"
   },
@@ -2022,7 +2022,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dɪˈɡriː]",
     "meaning": "n. 程度；度数；学位",
     "phrase": "a degree / the degree",
-    "example": "The article uses the word \"degree\" in a real situation, so readers can connect it with the topic.",
+    "example": "The degree becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“程度”有关的画面，再把英文 degree 放进词块“a degree / the degree”。",
     "category": "初中1000 D-F"
   },
@@ -2031,7 +2031,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dɪˈmɑːnd; (US) dɪˈmænd]",
     "meaning": "vt. 要求",
     "phrase": "learn to demand",
-    "example": "The writer uses \"demand\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"demand\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“要求”有关的画面，再把英文 demand 放进词块“learn to demand”。",
     "category": "初中1000 D-F"
   },
@@ -2040,7 +2040,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dɪˈzaɪn]",
     "meaning": "n.& vt. n. 设计，策划 图案，图样，样式",
     "phrase": "learn to design",
-    "example": "The writer uses \"design\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"design\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“n.设计”有关的画面，再把英文 design 放进词块“learn to design”。",
     "category": "初中1000 D-F"
   },
@@ -2067,7 +2067,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[daɪ]",
     "meaning": "v. 死",
     "phrase": "learn to die",
-    "example": "The writer uses \"die\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"die\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“死”有关的画面，再把英文 die 放进词块“learn to die”。",
     "category": "初中1000 D-F"
   },
@@ -2076,7 +2076,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[daɪ]",
     "meaning": "n. 饮食",
     "phrase": "a diet / the diet",
-    "example": "The article uses the word \"diet\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the diet to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“饮食”有关的画面，再把英文 diet 放进词块“a diet / the diet”。",
     "category": "初中1000 D-F"
   },
@@ -2102,18 +2102,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "digital",
     "phonetic": "[ˈdɪdʒɪt(ə)l]",
     "meaning": "a. .数字的，数码的",
-    "phrase": "a digital situation",
-    "example": "The passage describes a digital situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 digital 放进“a digital situation”里记，核心义锁定为“.数字的”。",
+    "phrase": "a digital tool",
+    "example": "A digital tool helps people work faster and share information.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 digital 放进“a digital tool”里记，核心义锁定为“.数字的”。",
     "category": "初中1000 D-F"
   },
   {
     "word": "direct",
     "phonetic": "[dɪˈrekt, daɪˈrekt]",
     "meaning": "a. / vt. 直接的；直达的；直截了当的 指挥；指导；监督；管理；指挥（演奏）；导演（电影）",
-    "phrase": "a direct situation",
-    "example": "The passage describes a direct situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“直接的”有关的画面，再把英文 direct 放进词块“a direct situation”。",
+    "phrase": "a direct answer",
+    "example": "A direct answer shows that the student has understood the question.",
+    "mnemonic": "场景钩子：先想一个和“直接的”有关的画面，再把英文 direct 放进词块“a direct answer”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2121,7 +2121,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dɪˈrektə(r)]",
     "meaning": "n. 所长，处长，主任；董事；导演",
     "phrase": "a director / the director",
-    "example": "The article uses the word \"director\" in a real situation, so readers can connect it with the topic.",
+    "example": "The director becomes important when the characters have to make a difficult choice.",
     "mnemonic": "拆音节钩子：把 director 拆成 dir-ect-or，边读边写，再回到词块“a director / the director”。",
     "category": "初中1000 D-F"
   },
@@ -2130,7 +2130,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dɪˈrektərɪ]",
     "meaning": "n. 姓名地址录",
     "phrase": "a directory / the directory",
-    "example": "The article uses the word \"directory\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the directory because it changes the direction of the story.",
     "mnemonic": "拆音节钩子：把 directory 拆成 dir-ect-ory，边读边写，再回到词块“a directory / the directory”。",
     "category": "初中1000 D-F"
   },
@@ -2139,7 +2139,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdɪskaʊnt]",
     "meaning": "n. 折扣",
     "phrase": "a discount / the discount",
-    "example": "The article uses the word \"discount\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the discount because it changes the direction of the story.",
     "mnemonic": "词形钩子：dis 表示“分开/否定”。把 discount 放进“a discount / the discount”里记，核心义锁定为“折扣”。",
     "category": "初中1000 D-F"
   },
@@ -2148,7 +2148,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dɪˈskʌvə(r)]",
     "meaning": "vt. 发现",
     "phrase": "learn to discover",
-    "example": "The writer uses \"discover\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"discover\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "词形钩子：dis 表示“分开/否定”。把 discover 放进“learn to discover”里记，核心义锁定为“发现”。",
     "category": "初中1000 D-F"
   },
@@ -2157,7 +2157,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdɪstrɪkt]",
     "meaning": "n. 区；地区；区域",
     "phrase": "a district / the district",
-    "example": "The article uses the word \"district\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the district to connect a small detail with a bigger idea.",
     "mnemonic": "词形钩子：dis 表示“分开/否定”。把 district 放进“a district / the district”里记，核心义锁定为“区”。",
     "category": "初中1000 D-F"
   },
@@ -2166,7 +2166,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dɔɡ; (US) dɔːɡ]",
     "meaning": "n. 狗",
     "phrase": "a dog / the dog",
-    "example": "The article uses the word \"dog\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the dog to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“狗”有关的画面，再把英文 dog 放进词块“a dog / the dog”。",
     "category": "初中1000 D-F"
   },
@@ -2175,7 +2175,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dɔː(r)]",
     "meaning": "n. 门",
     "phrase": "a door / the door",
-    "example": "The article uses the word \"door\" in a real situation, so readers can connect it with the topic.",
+    "example": "The door becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“门”有关的画面，再把英文 door 放进词块“a door / the door”。",
     "category": "初中1000 D-F"
   },
@@ -2183,9 +2183,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "double",
     "phonetic": "[ˈdʌb(ə)l]",
     "meaning": "a. 两倍.双的 n. 两个.双",
-    "phrase": "a double situation",
-    "example": "The passage describes a double situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“两倍.双的两个.双”有关的画面，再把英文 double 放进词块“a double situation”。",
+    "phrase": "a double room",
+    "example": "A double room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“两倍.双的两个.双”有关的画面，再把英文 double 放进词块“a double room”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2193,7 +2193,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[daʊn]",
     "meaning": "prep. 沿着，沿…而下 ad. 向下",
     "phrase": "grammar signal: down",
-    "example": "Read the whole sentence, because \"down\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"down\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“沿着”有关的画面，再把英文 down 放进词块“grammar signal: down”。",
     "category": "初中1000 D-F"
   },
@@ -2202,7 +2202,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdaunləud]",
     "meaning": "n.& v. 下载",
     "phrase": "learn to download",
-    "example": "The writer uses \"download\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"download\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "拆音节钩子：把 download 拆成 dow-nlo-ad，边读边写，再回到词块“learn to download”。",
     "category": "初中1000 D-F"
   },
@@ -2211,7 +2211,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdraɪvə(r)]",
     "meaning": "n. 司机，驾驶员",
     "phrase": "a driver / the driver",
-    "example": "The article uses the word \"driver\" in a real situation, so readers can connect it with the topic.",
+    "example": "The driver becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“司机”有关的画面，再把英文 driver 放进词块“a driver / the driver”。",
     "category": "初中1000 D-F"
   },
@@ -2220,7 +2220,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[drɔp]",
     "meaning": "n.滴 v.掉下.落下.投递.放弃",
     "phrase": "learn to drop",
-    "example": "The writer uses \"drop\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"drop\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“滴掉下.落下.投递.放弃”有关的画面，再把英文 drop 放进词块“learn to drop”。",
     "category": "初中1000 D-F"
   },
@@ -2229,7 +2229,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[drʌɡ]",
     "meaning": "n. 药，药物；毒品",
     "phrase": "a drug / the drug",
-    "example": "The article uses the word \"drug\" in a real situation, so readers can connect it with the topic.",
+    "example": "A small change in the drug can make daily life much better.",
     "mnemonic": "场景钩子：先想一个和“药”有关的画面，再把英文 drug 放进词块“a drug / the drug”。",
     "category": "初中1000 D-F"
   },
@@ -2237,18 +2237,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "dry",
     "phonetic": "[draɪ]",
     "meaning": "v. 使…干；弄干；擦干 a. 干的；干燥的",
-    "phrase": "a dry situation",
-    "example": "The passage describes a dry situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“使…干”有关的画面，再把英文 dry 放进词块“a dry situation”。",
+    "phrase": "dry clothes",
+    "example": "Dry clothes are more comfortable after a sunny afternoon.",
+    "mnemonic": "场景钩子：先想一个和“使…干”有关的画面，再把英文 dry 放进词块“dry clothes”。",
     "category": "初中1000 D-F"
   },
   {
     "word": "due",
     "phonetic": "[djuː; (US) duː]",
     "meaning": "a. 预期的；约定的",
-    "phrase": "a due situation",
-    "example": "The passage describes a due situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“预期的”有关的画面，再把英文 due 放进词块“a due situation”。",
+    "phrase": "a due detail",
+    "example": "A due detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“预期的”有关的画面，再把英文 due 放进词块“a due detail”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2256,7 +2256,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdjʊərɪŋ; (US) ˈdʊərɪŋ]",
     "meaning": "prep. 在…期间；在…过程中",
     "phrase": "grammar signal: during",
-    "example": "Read the whole sentence, because \"during\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"during\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“在…期间”有关的画面，再把英文 during 放进词块“grammar signal: during”。",
     "category": "初中1000 D-F"
   },
@@ -2265,7 +2265,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdjuːtɪ; (US) ˈduːtɪ]",
     "meaning": "n. 责任，义务",
     "phrase": "a duty / the duty",
-    "example": "The article uses the word \"duty\" in a real situation, so readers can connect it with the topic.",
+    "example": "A true duty is shown through action, not just through words.",
     "mnemonic": "场景钩子：先想一个和“责任”有关的画面，再把英文 duty 放进词块“a duty / the duty”。",
     "category": "初中1000 D-F"
   },
@@ -2274,7 +2274,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[iːtʃ]",
     "meaning": "a.& pron.每人.每个.每件",
     "phrase": "grammar signal: each",
-    "example": "Read the whole sentence, because \"each\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"each\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“每人.每个.每件”有关的画面，再把英文 each 放进词块“grammar signal: each”。",
     "category": "初中1000 D-F"
   },
@@ -2283,7 +2283,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɜːlɪ]",
     "meaning": "a. 早的 ad. 早地",
     "phrase": "early + action",
-    "example": "The speaker acted early, and the listener noticed the change at once.",
+    "example": "The boy walks early across the room so he will not wake the baby.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 early 放进“early + action”里记，核心义锁定为“早的早地”。",
     "category": "初中1000 D-F"
   },
@@ -2292,7 +2292,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɜːθ]",
     "meaning": "n. 地球；土，泥；大地",
     "phrase": "an earth / the earth",
-    "example": "The article uses the word \"earth\" in a real situation, so readers can connect it with the topic.",
+    "example": "A change in the earth can affect people, plants, and animals around us.",
     "mnemonic": "场景钩子：先想一个和“地球”有关的画面，再把英文 earth 放进词块“an earth / the earth”。",
     "category": "初中1000 D-F"
   },
@@ -2301,7 +2301,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈiːzɪlɪ]",
     "meaning": "ad. 容易地",
     "phrase": "easily + action",
-    "example": "The speaker acted easily, and the listener noticed the change at once.",
+    "example": "Good writers use details easily to guide readers through the passage.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 easily 放进“easily + action”里记，核心义锁定为“容易地”。",
     "category": "初中1000 D-F"
   },
@@ -2310,7 +2310,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[iːst]",
     "meaning": "a. 东方；东部的；朝东的；从东方来 ad. 在东方；向东方；从东方 n. 东，东方；东部",
     "phrase": "east + action",
-    "example": "The speaker acted east, and the listener noticed the change at once.",
+    "example": "She answers east after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“东方”有关的画面，再把英文 east 放进词块“east + action”。",
     "category": "初中1000 D-F"
   },
@@ -2319,7 +2319,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈiːzɪ]",
     "meaning": "a. 容易的，不费力的",
     "phrase": "an easy question",
-    "example": "The passage describes an easy question and gives details to support the idea.",
+    "example": "An easy question needs careful reading before students answer.",
     "mnemonic": "场景钩子：先想一个和“容易的”有关的画面，再把英文 easy 放进词块“an easy question”。",
     "category": "初中1000 D-F"
   },
@@ -2328,7 +2328,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[edʒ]",
     "meaning": "n. 边缘",
     "phrase": "an edge / the edge",
-    "example": "The article uses the word \"edge\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the edge because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“边缘”有关的画面，再把英文 edge 放进词块“an edge / the edge”。",
     "category": "初中1000 D-F"
   },
@@ -2337,7 +2337,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈedɪtə(r)]",
     "meaning": "n. 编辑",
     "phrase": "an editor / the editor",
-    "example": "The article uses the word \"editor\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the editor helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“编辑”有关的画面，再把英文 editor 放进词块“an editor / the editor”。",
     "category": "初中1000 D-F"
   },
@@ -2346,7 +2346,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[edjʊˈkeɪʃ(ə)n]",
     "meaning": "n. 教育，培养",
     "phrase": "an education / the education",
-    "example": "The article uses the word \"education\" in a real situation, so readers can connect it with the topic.",
+    "example": "A good education can turn a difficult topic into something clear.",
     "mnemonic": "词形钩子：tion 常把动词变名词。把 education 放进“an education / the education”里记，核心义锁定为“教育”。",
     "category": "初中1000 D-F"
   },
@@ -2355,7 +2355,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪˈfekt]",
     "meaning": "n. 效果；作用",
     "phrase": "an effect / the effect",
-    "example": "The article uses the word \"effect\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the effect because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“效果”有关的画面，再把英文 effect 放进词块“an effect / the effect”。",
     "category": "初中1000 D-F"
   },
@@ -2364,7 +2364,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈefət]",
     "meaning": "n. 努力，艰难的尝试",
     "phrase": "an effort / the effort",
-    "example": "The article uses the word \"effort\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the effort to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“努力”有关的画面，再把英文 effort 放进词块“an effort / the effort”。",
     "category": "初中1000 D-F"
   },
@@ -2373,7 +2373,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈaɪðə(r)]",
     "meaning": "a. 两方任一方的；二者之一 conj. 二者之一；要么……",
     "phrase": "grammar signal: either",
-    "example": "Read the whole sentence, because \"either\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"either\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“两方任一方的”有关的画面，再把英文 either 放进词块“grammar signal: either”。",
     "category": "初中1000 D-F"
   },
@@ -2382,7 +2382,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[els]",
     "meaning": "ad. 别的，其他的",
     "phrase": "else + action",
-    "example": "The speaker acted else, and the listener noticed the change at once.",
+    "example": "Good writers use details else to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“别的”有关的画面，再把英文 else 放进词块“else + action”。",
     "category": "初中1000 D-F"
   },
@@ -2391,7 +2391,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[end]",
     "meaning": "n. 末尾；终点；结束 v. 结束，终止",
     "phrase": "learn to end",
-    "example": "The writer uses \"end\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"end\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“末尾”有关的画面，再把英文 end 放进词块“learn to end”。",
     "category": "初中1000 D-F"
   },
@@ -2400,7 +2400,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈendɪŋ]",
     "meaning": "n. 结局；结尾，最后",
     "phrase": "an ending / the ending",
-    "example": "The article uses the word \"ending\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the ending because it changes the direction of the story.",
     "mnemonic": "词形钩子：en 表示“使……”。把 ending 放进“an ending / the ending”里记，核心义锁定为“结局”。",
     "category": "初中1000 D-F"
   },
@@ -2409,7 +2409,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈendʒɪn]",
     "meaning": "n. 发动机，引擎",
     "phrase": "an engine / the engine",
-    "example": "The article uses the word \"engine\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the engine to connect a small detail with a bigger idea.",
     "mnemonic": "词形钩子：en 表示“使……”。把 engine 放进“an engine / the engine”里记，核心义锁定为“发动机”。",
     "category": "初中1000 D-F"
   },
@@ -2418,7 +2418,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪnˈdʒɔɪ]",
     "meaning": "vt.欣赏；享受乐趣；喜欢",
     "phrase": "learn to enjoy",
-    "example": "The writer uses \"enjoy\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"enjoy\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“欣赏”有关的画面，再把英文 enjoy 放进词块“learn to enjoy”。",
     "category": "初中1000 D-F"
   },
@@ -2427,7 +2427,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪˈnʌf]",
     "meaning": "n. 足够；充足 a. 足够；充分的 ad. 足够地；充分地",
     "phrase": "enough + action",
-    "example": "The speaker acted enough, and the listener noticed the change at once.",
+    "example": "The boy walks enough across the room so he will not wake the baby.",
     "mnemonic": "词形钩子：en 表示“使……”。把 enough 放进“enough + action”里记，核心义锁定为“足够”。",
     "category": "初中1000 D-F"
   },
@@ -2436,7 +2436,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈentə(r)]",
     "meaning": "vt. 进入",
     "phrase": "learn to enter",
-    "example": "The writer uses \"enter\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"enter\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“进入”有关的画面，再把英文 enter 放进词块“learn to enter”。",
     "category": "初中1000 D-F"
   },
@@ -2445,7 +2445,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈentəpraɪz]",
     "meaning": "n.公司，企，事业单位",
     "phrase": "an enterprise / the enterprise",
-    "example": "The article uses the word \"enterprise\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the enterprise because it changes the direction of the story.",
     "mnemonic": "词形钩子：en 表示“使……”。把 enterprise 放进“an enterprise / the enterprise”里记，核心义锁定为“公司”。",
     "category": "初中1000 D-F"
   },
@@ -2453,9 +2453,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "entire",
     "phonetic": "[ɪnˈtaɪə(r)]",
     "meaning": "a. 整个的，全部的",
-    "phrase": "an entire situation",
-    "example": "The passage describes an entire situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：en 表示“使……”。把 entire 放进“an entire situation”里记，核心义锁定为“整个的”。",
+    "phrase": "an entire story",
+    "example": "An entire story is easier to understand after you find the main clue.",
+    "mnemonic": "词形钩子：en 表示“使……”。把 entire 放进“an entire story”里记，核心义锁定为“整个的”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2463,7 +2463,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈentrɪ]",
     "meaning": "n. 进入",
     "phrase": "an entry / the entry",
-    "example": "The article uses the word \"entry\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the entry to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“进入”有关的画面，再把英文 entry 放进词块“an entry / the entry”。",
     "category": "初中1000 D-F"
   },
@@ -2481,7 +2481,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈerə(r)]",
     "meaning": "n. 错误；差错",
     "phrase": "an error / the error",
-    "example": "The article uses the word \"error\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the error to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“错误”有关的画面，再把英文 error 放进词块“an error / the error”。",
     "category": "初中1000 D-F"
   },
@@ -2490,7 +2490,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪˈspeʃəlɪ]",
     "meaning": "ad. 特别，尤其",
     "phrase": "especially + action",
-    "example": "The speaker acted especially, and the listener noticed the change at once.",
+    "example": "Good writers use details especially to guide readers through the passage.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 especially 放进“especially + action”里记，核心义锁定为“特别”。",
     "category": "初中1000 D-F"
   },
@@ -2499,7 +2499,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈiːv(ə)n]",
     "meaning": "ad. 甚至，连（…都）；更",
     "phrase": "even + action",
-    "example": "The speaker acted even, and the listener noticed the change at once.",
+    "example": "The boy walks even across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“甚至”有关的画面，再把英文 even 放进词块“even + action”。",
     "category": "初中1000 D-F"
   },
@@ -2508,7 +2508,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ ɪˈvent]",
     "meaning": "n. 事件，大事",
     "phrase": "an event / the event",
-    "example": "The article uses the word \"event\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the event to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“事件”有关的画面，再把英文 event 放进词块“an event / the event”。",
     "category": "初中1000 D-F"
   },
@@ -2517,7 +2517,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈevə(r)]",
     "meaning": "ad. 曾经；无论何时",
     "phrase": "ever + action",
-    "example": "The speaker acted ever, and the listener noticed the change at once.",
+    "example": "Good writers use details ever to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“曾经”有关的画面，再把英文 ever 放进词块“ever + action”。",
     "category": "初中1000 D-F"
   },
@@ -2525,9 +2525,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "every",
     "phonetic": "[ˈevrɪ]",
     "meaning": "a. 每一，每个的",
-    "phrase": "an every situation",
-    "example": "The passage describes an every situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“每一”有关的画面，再把英文 every 放进词块“an every situation”。",
+    "phrase": "every day / every student",
+    "example": "Every student can make progress by reviewing a little each day.",
+    "mnemonic": "范围钩子：every 强调整体里的每一个。",
     "category": "初中1000 D-F"
   },
   {
@@ -2535,7 +2535,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈevrɪwʌn]",
     "meaning": "pron. 每人，人人",
     "phrase": "grammar signal: everyone",
-    "example": "Read the whole sentence, because \"everyone\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"everyone\" shows the relationship between two parts of the sentence.",
     "mnemonic": "拆音节钩子：把 everyone 拆成 eve-ryo-ne，边读边写，再回到词块“grammar signal: everyone”。",
     "category": "初中1000 D-F"
   },
@@ -2544,7 +2544,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈevrɪθɪŋ]",
     "meaning": "pron. 每件事，事事",
     "phrase": "grammar signal: everything",
-    "example": "Read the whole sentence, because \"everything\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"everything\" shows the relationship between two parts of the sentence.",
     "mnemonic": "拆音节钩子：把 everything 拆成 eve-ryt-hin-g，边读边写，再回到词块“grammar signal: everything”。",
     "category": "初中1000 D-F"
   },
@@ -2553,7 +2553,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪɡˈzɑːmp(ə)l; (US) ɪɡˈzæmpl]",
     "meaning": "n. 例子；榜样",
     "phrase": "an example / the example",
-    "example": "The article uses the word \"example\" in a real situation, so readers can connect it with the topic.",
+    "example": "The example becomes important when the characters have to make a difficult choice.",
     "mnemonic": "词形钩子：ex 表示“向外”。把 example 放进“an example / the example”里记，核心义锁定为“例子”。",
     "category": "初中1000 D-F"
   },
@@ -2562,7 +2562,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪkˈsept]",
     "meaning": "prep. 除……之外",
     "phrase": "grammar signal: except",
-    "example": "Read the whole sentence, because \"except\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"except\" shows the relationship between two parts of the sentence.",
     "mnemonic": "词形钩子：ex 表示“向外”。把 except 放进“grammar signal: except”里记，核心义锁定为“除……之外”。",
     "category": "初中1000 D-F"
   },
@@ -2571,7 +2571,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪksˈtʃeɪndʒ]",
     "meaning": "n. 交换，掉换；交流",
     "phrase": "an exchange / the exchange",
-    "example": "The article uses the word \"exchange\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the exchange helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：ex 表示“向外”。把 exchange 放进“an exchange / the exchange”里记，核心义锁定为“交换”。",
     "category": "初中1000 D-F"
   },
@@ -2589,7 +2589,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪksˈpleɪn]",
     "meaning": "vt. 解释，说明",
     "phrase": "explain the reason",
-    "example": "In a difficult moment, people may need to explain the reason carefully.",
+    "example": "A careful student will explain the reason before writing the final answer.",
     "mnemonic": "词形钩子：ex 表示“向外”。把 explain 放进“explain the reason”里记，核心义锁定为“解释”。",
     "category": "初中1000 D-F"
   },
@@ -2598,7 +2598,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪkˈspres]",
     "meaning": "vt. 表达；表示；表情 n. 快车，特快专递",
     "phrase": "learn to express",
-    "example": "The writer uses \"express\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"express\" helps describe what happens next.",
     "mnemonic": "词形钩子：ex 表示“向外”。把 express 放进“learn to express”里记，核心义锁定为“表达”。",
     "category": "初中1000 D-F"
   },
@@ -2606,9 +2606,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "extra",
     "phonetic": "[ˈekstrə]",
     "meaning": "a. 额外的，外加的",
-    "phrase": "an extra situation",
-    "example": "The passage describes an extra situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“额外的”有关的画面，再把英文 extra 放进词块“an extra situation”。",
+    "phrase": "extra time",
+    "example": "Extra time lets students check mistakes before handing in work.",
+    "mnemonic": "场景钩子：先想一个和“额外的”有关的画面，再把英文 extra 放进词块“extra time”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2616,7 +2616,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[aɪ]",
     "meaning": "n. 眼睛",
     "phrase": "an eye / the eye",
-    "example": "The article uses the word \"eye\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the eye helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“眼睛”有关的画面，再把英文 eye 放进词块“an eye / the eye”。",
     "category": "初中1000 D-F"
   },
@@ -2625,7 +2625,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[feɪs]",
     "meaning": "n. 脸 vt. 面向；面对",
     "phrase": "learn to face",
-    "example": "The writer uses \"face\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"face\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“脸面向”有关的画面，再把英文 face 放进词块“learn to face”。",
     "category": "初中1000 D-F"
   },
@@ -2634,7 +2634,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fækt]",
     "meaning": "n. 事实，现实",
     "phrase": "a fact / the fact",
-    "example": "The article uses the word \"fact\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the fact to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“事实”有关的画面，再把英文 fact 放进词块“a fact / the fact”。",
     "category": "初中1000 D-F"
   },
@@ -2643,7 +2643,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[feɪl]",
     "meaning": "v. 失败；不及格；衰退",
     "phrase": "learn to fail",
-    "example": "The writer uses \"fail\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"fail\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“失败”有关的画面，再把英文 fail 放进词块“learn to fail”。",
     "category": "初中1000 D-F"
   },
@@ -2651,9 +2651,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "fair",
     "phonetic": "[feə(r)]",
     "meaning": "a. 公平的，合理的 a. (肤色)白皙的； （人）白肤金发的 n. 集市；庙会；展览会",
-    "phrase": "a fair situation",
-    "example": "The passage describes a fair situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“公平的”有关的画面，再把英文 fair 放进词块“a fair situation”。",
+    "phrase": "a fair coat",
+    "example": "A fair coat is easy to notice in a crowd.",
+    "mnemonic": "场景钩子：先想一个和“公平的”有关的画面，再把英文 fair 放进词块“a fair coat”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2661,7 +2661,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɔːl]",
     "meaning": "n. （美）秋季",
     "phrase": "a fall / the fall",
-    "example": "The article uses the word \"fall\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the fall helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“美秋季”有关的画面，再把英文 fall 放进词块“a fall / the fall”。",
     "category": "初中1000 D-F"
   },
@@ -2678,9 +2678,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "famous",
     "phonetic": "[ˈfeɪməs]",
     "meaning": "a. 著名的",
-    "phrase": "a famous situation",
-    "example": "The passage describes a famous situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：ous 常表示“具有……性质”。把 famous 放进“a famous situation”里记，核心义锁定为“著名的”。",
+    "phrase": "a famous writer",
+    "example": "A famous writer can influence readers far beyond one classroom.",
+    "mnemonic": "词形钩子：ous 常表示“具有……性质”。把 famous 放进“a famous writer”里记，核心义锁定为“著名的”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2697,7 +2697,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɑː(r)]",
     "meaning": "(farther, farthest 或further , furthest) a.& ad. 远的；远地",
     "phrase": "far + action",
-    "example": "The speaker acted far, and the listener noticed the change at once.",
+    "example": "The boy walks far across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“farther”有关的画面，再把英文 far 放进词块“far + action”。",
     "category": "初中1000 D-F"
   },
@@ -2706,7 +2706,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɑːm]",
     "meaning": "n. 农场；农庄",
     "phrase": "a farm / the farm",
-    "example": "The article uses the word \"farm\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the farm to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“农场”有关的画面，再把英文 farm 放进词块“a farm / the farm”。",
     "category": "初中1000 D-F"
   },
@@ -2715,7 +2715,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɑːst; (US) fæst]",
     "meaning": "a. 快的，迅速的；紧密的 ad. 快地，迅速地；紧密地",
     "phrase": "fast + action",
-    "example": "The speaker acted fast, and the listener noticed the change at once.",
+    "example": "The boy walks fast across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“快的”有关的画面，再把英文 fast 放进词块“fast + action”。",
     "category": "初中1000 D-F"
   },
@@ -2723,9 +2723,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "fat",
     "phonetic": "[fæt]",
     "meaning": "n. 脂肪 a. 胖的；肥的",
-    "phrase": "a fat situation",
-    "example": "The passage describes a fat situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“脂肪胖的”有关的画面，再把英文 fat 放进词块“a fat situation”。",
+    "phrase": "a fat cat",
+    "example": "A fat cat sleeps under the chair after lunch.",
+    "mnemonic": "场景钩子：先想一个和“脂肪胖的”有关的画面，再把英文 fat 放进词块“a fat cat”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2733,7 +2733,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfɑːðə(r)]",
     "meaning": "n. 父亲",
     "phrase": "a father / the father",
-    "example": "The article uses the word \"father\" in a real situation, so readers can connect it with the topic.",
+    "example": "A true father is shown through action, not just through words.",
     "mnemonic": "场景钩子：先想一个和“父亲”有关的画面，再把英文 father 放进词块“a father / the father”。",
     "category": "初中1000 D-F"
   },
@@ -2742,7 +2742,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fæks]",
     "meaning": "n. 传真",
     "phrase": "a fax / the fax",
-    "example": "The article uses the word \"fax\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the fax helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“传真”有关的画面，再把英文 fax 放进词块“a fax / the fax”。",
     "category": "初中1000 D-F"
   },
@@ -2751,7 +2751,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɪə(r)]",
     "meaning": "n. 害怕；恐惧； 担忧",
     "phrase": "a fear / the fear",
-    "example": "The article uses the word \"fear\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the fear to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“害怕”有关的画面，再把英文 fear 放进词块“a fear / the fear”。",
     "category": "初中1000 D-F"
   },
@@ -2760,7 +2760,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fiː]",
     "meaning": "n. 费，费用",
     "phrase": "a fee / the fee",
-    "example": "The article uses the word \"fee\" in a real situation, so readers can connect it with the topic.",
+    "example": "The fee becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“费”有关的画面，再把英文 fee 放进词块“a fee / the fee”。",
     "category": "初中1000 D-F"
   },
@@ -2768,18 +2768,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "female",
     "phonetic": "[ˈfiːmeɪl]",
     "meaning": "a. 女的；女性的；雌性的",
-    "phrase": "a female situation",
-    "example": "The passage describes a female situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“女的”有关的画面，再把英文 female 放进词块“a female situation”。",
+    "phrase": "a female writer",
+    "example": "A female writer can influence readers far beyond one classroom.",
+    "mnemonic": "场景钩子：先想一个和“女的”有关的画面，再把英文 female 放进词块“a female writer”。",
     "category": "初中1000 D-F"
   },
   {
     "word": "festival",
     "phonetic": "[ˈfestɪvəl]",
     "meaning": "a. 节日的，喜庆的",
-    "phrase": "a festival situation",
-    "example": "The passage describes a festival situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 festival 放进“a festival situation”里记，核心义锁定为“节日的”。",
+    "phrase": "a festival detail",
+    "example": "A festival detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 festival 放进“a festival detail”里记，核心义锁定为“节日的”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2787,7 +2787,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fjuː]",
     "meaning": "pron. 不多；少数 不多的；少数的",
     "phrase": "grammar signal: few",
-    "example": "Read the whole sentence, because \"few\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"few\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“不多”有关的画面，再把英文 few 放进词块“grammar signal: few”。",
     "category": "初中1000 D-F"
   },
@@ -2796,7 +2796,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fiːld]",
     "meaning": "n. 田地；牧场；场地",
     "phrase": "a field / the field",
-    "example": "The article uses the word \"field\" in a real situation, so readers can connect it with the topic.",
+    "example": "The field becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“田地”有关的画面，再把英文 field 放进词块“a field / the field”。",
     "category": "初中1000 D-F"
   },
@@ -2805,7 +2805,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfɪɡə(r); (US) ˈfɪgjər]",
     "meaning": "n.数字；数目；图；图形；（人的）身型；人物；（绘画、雕刻）人物像 vt.（美口语）认为，判断.（在心里）想像，描绘",
     "phrase": "learn to figure",
-    "example": "The writer uses \"figure\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"figure\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“数字”有关的画面，再把英文 figure 放进词块“learn to figure”。",
     "category": "初中1000 D-F"
   },
@@ -2814,7 +2814,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[faɪl]",
     "meaning": "n.公文柜；档案(计算机)文档",
     "phrase": "a file / the file",
-    "example": "The article uses the word \"file\" in a real situation, so readers can connect it with the topic.",
+    "example": "The file becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“公文柜”有关的画面，再把英文 file 放进词块“a file / the file”。",
     "category": "初中1000 D-F"
   },
@@ -2823,7 +2823,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɪl]",
     "meaning": "vt. 填空，装满",
     "phrase": "learn to fill",
-    "example": "The writer uses \"fill\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"fill\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“填空”有关的画面，再把英文 fill 放进词块“learn to fill”。",
     "category": "初中1000 D-F"
   },
@@ -2840,9 +2840,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "final",
     "phonetic": "[ˈfaɪn(ə)l]",
     "meaning": "a. 最后的；终极的",
-    "phrase": "a final situation",
-    "example": "The passage describes a final situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 final 放进“a final situation”里记，核心义锁定为“最后的”。",
+    "phrase": "a final detail",
+    "example": "A final detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 final 放进“a final detail”里记，核心义锁定为“最后的”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2850,7 +2850,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[faɪnd]",
     "meaning": "(found, found) vt. 找到，发现，感到",
     "phrase": "learn to find",
-    "example": "The writer uses \"find\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"find\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“found”有关的画面，再把英文 find 放进词块“learn to find”。",
     "category": "初中1000 D-F"
   },
@@ -2858,9 +2858,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "fine",
     "phonetic": "[faɪn]",
     "meaning": "a. 细的；晴朗的；美好的；（身体）健康的 n.& v. 罚款",
-    "phrase": "a fine situation",
-    "example": "The passage describes a fine situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“细的”有关的画面，再把英文 fine 放进词块“a fine situation”。",
+    "phrase": "a fine habit",
+    "example": "A fine habit grows from small choices repeated every day.",
+    "mnemonic": "场景钩子：先想一个和“细的”有关的画面，再把英文 fine 放进词块“a fine habit”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2868,7 +2868,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfaɪə(r)]",
     "meaning": "n. 火；火炉；火灾 vi. 开火，开（枪，炮等），射击",
     "phrase": "fire naturally / fire in a situation",
-    "example": "In the story, people fire when the situation suddenly changes.",
+    "example": "In a story or report, \"fire\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“火”有关的画面，再把英文 fire 放进词块“fire naturally / fire in a situation”。",
     "category": "初中1000 D-F"
   },
@@ -2876,9 +2876,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "firm",
     "phonetic": "[fɜːm]",
     "meaning": "n.公司;企业 a.坚固的,坚定的",
-    "phrase": "a firm situation",
-    "example": "The passage describes a firm situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“公司”有关的画面，再把英文 firm 放进词块“a firm situation”。",
+    "phrase": "a firm detail",
+    "example": "A firm detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“公司”有关的画面，再把英文 firm 放进词块“a firm detail”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2886,7 +2886,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɜːst]",
     "meaning": "num. 第一 a.& ad. 第一；首次；最初 n. 开始；开端",
     "phrase": "grammar signal: first",
-    "example": "Read the whole sentence, because \"first\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"first\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“第一第一”有关的画面，再把英文 first 放进词块“grammar signal: first”。",
     "category": "初中1000 D-F"
   },
@@ -2895,7 +2895,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɪʃ]",
     "meaning": "n. 鱼；鱼肉 vi. 钓鱼；捕鱼",
     "phrase": "fish naturally / fish in a situation",
-    "example": "In the story, people fish when the situation suddenly changes.",
+    "example": "In a story or report, \"fish\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“鱼”有关的画面，再把英文 fish 放进词块“fish naturally / fish in a situation”。",
     "category": "初中1000 D-F"
   },
@@ -2904,7 +2904,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɪt]",
     "meaning": "a. 健康的, 适合的 v. （使）适合，安装",
     "phrase": "a fit habit",
-    "example": "The passage describes a fit habit and gives details to support the idea.",
+    "example": "A fit habit grows from small choices repeated every day.",
     "mnemonic": "场景钩子：先想一个和“健康的”有关的画面，再把英文 fit 放进词块“a fit habit”。",
     "category": "初中1000 D-F"
   },
@@ -2913,7 +2913,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[faɪv]",
     "meaning": "num. 五",
     "phrase": "grammar signal: five",
-    "example": "Read the whole sentence, because \"five\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"five\" to understand how the ideas are connected.",
     "mnemonic": "词形钩子：ive 常表示倾向/性质。把 five 放进“grammar signal: five”里记，核心义锁定为“五”。",
     "category": "初中1000 D-F"
   },
@@ -2922,7 +2922,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɪks]",
     "meaning": "vt. 修理；安装；确定，决定",
     "phrase": "learn to fix",
-    "example": "The writer uses \"fix\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"fix\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“修理”有关的画面，再把英文 fix 放进词块“learn to fix”。",
     "category": "初中1000 D-F"
   },
@@ -2931,7 +2931,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[flæɡ]",
     "meaning": "n. 旗；标志；旗舰",
     "phrase": "a flag / the flag",
-    "example": "The article uses the word \"flag\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the flag to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“旗”有关的画面，再把英文 flag 放进词块“a flag / the flag”。",
     "category": "初中1000 D-F"
   },
@@ -2940,7 +2940,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[flæʃ]",
     "meaning": "n. 闪；闪光； 转瞬间",
     "phrase": "a flash / the flash",
-    "example": "The article uses the word \"flash\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the flash to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“闪”有关的画面，再把英文 flash 放进词块“a flash / the flash”。",
     "category": "初中1000 D-F"
   },
@@ -2948,9 +2948,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "flat",
     "phonetic": "[flæt]",
     "meaning": "a. 平的 n. 楼中一套房间； 公寓(常用复数)",
-    "phrase": "a flat situation",
-    "example": "The passage describes a flat situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“平的楼中一套房间”有关的画面，再把英文 flat 放进词块“a flat situation”。",
+    "phrase": "a flat detail",
+    "example": "A flat detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“平的楼中一套房间”有关的画面，再把英文 flat 放进词块“a flat detail”。",
     "category": "初中1000 D-F"
   },
   {
@@ -2958,7 +2958,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[flɔː(r)]",
     "meaning": "n.地面，地板.（楼房的）层",
     "phrase": "a floor / the floor",
-    "example": "The article uses the word \"floor\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the floor to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“地面”有关的画面，再把英文 floor 放进词块“a floor / the floor”。",
     "category": "初中1000 D-F"
   },
@@ -2967,7 +2967,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fləʊ]",
     "meaning": "vi. 流动",
     "phrase": "flow naturally / flow in a situation",
-    "example": "In the story, people flow when the situation suddenly changes.",
+    "example": "The sentence uses \"flow\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“流动”有关的画面，再把英文 flow 放进词块“flow naturally / flow in a situation”。",
     "category": "初中1000 D-F"
   },
@@ -2976,7 +2976,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfluːənt]",
     "meaning": "n. 飞行；苍蝇",
     "phrase": "a fly / the fly",
-    "example": "The article uses the word \"fly\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the fly helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 fly 放进“a fly / the fly”里记，核心义锁定为“飞行”。",
     "category": "初中1000 D-F"
   },
@@ -2985,7 +2985,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfəʊkəs]",
     "meaning": "v. / n.集中（注意力，精力）于，焦点，中心点",
     "phrase": "focus details",
-    "example": "In a difficult moment, people may need to focus details carefully.",
+    "example": "During the discussion, the group tries to focus details with clear reasons.",
     "mnemonic": "场景钩子：先想一个和“集中注意力”有关的画面，再把英文 focus 放进词块“focus details”。",
     "category": "初中1000 D-F"
   },
@@ -2994,7 +2994,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfɔləʊ]",
     "meaning": "vt. 跟随；仿效；跟得上",
     "phrase": "learn to follow",
-    "example": "The writer uses \"follow\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"follow\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“跟随”有关的画面，再把英文 follow 放进词块“learn to follow”。",
     "category": "初中1000 D-F"
   },
@@ -3002,9 +3002,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "following",
     "phonetic": "[ˈfɔləʊwɪŋ]",
     "meaning": "a. 接着的；以下的",
-    "phrase": "a following situation",
-    "example": "The passage describes a following situation and gives details to support the idea.",
-    "mnemonic": "拆音节钩子：把 following 拆成 fol-low-ing，边读边写，再回到词块“a following situation”。",
+    "phrase": "a following detail",
+    "example": "A following detail helps readers picture the scene more clearly.",
+    "mnemonic": "拆音节钩子：把 following 拆成 fol-low-ing，边读边写，再回到词块“a following detail”。",
     "category": "初中1000 D-F"
   },
   {
@@ -3021,7 +3021,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfʊtbɔːl]",
     "meaning": "n. （英式）足球；（美式）橄榄球",
     "phrase": "a football / the football",
-    "example": "The article uses the word \"football\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the football helps explain what happened and why it matters.",
     "mnemonic": "拆音节钩子：把 football 拆成 foo-tba-ll，边读边写，再回到词块“a football / the football”。",
     "category": "初中1000 D-F"
   },
@@ -3030,7 +3030,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fə(r), fɔː(r)]",
     "meaning": "prep. 为了…；向…，往…；与…交换；防备…；适合…；因为…；在…期 间；对于…；对…来说 conj. 因为，由于",
     "phrase": "grammar signal: for",
-    "example": "Read the whole sentence, because \"for\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"for\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“为了…”有关的画面，再把英文 for 放进词块“grammar signal: for”。",
     "category": "初中1000 D-F"
   },
@@ -3039,7 +3039,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɔːs]",
     "meaning": "vt. 强迫，迫使",
     "phrase": "learn to force",
-    "example": "The writer uses \"force\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"force\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“强迫”有关的画面，再把英文 force 放进词块“learn to force”。",
     "category": "初中1000 D-F"
   },
@@ -3047,9 +3047,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "foreign",
     "phonetic": "[ˈfɔrən; (US) ˈfɔːrɪn]",
     "meaning": "a. 外国的",
-    "phrase": "a foreign situation",
-    "example": "The passage describes a foreign situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“外国的”有关的画面，再把英文 foreign 放进词块“a foreign situation”。",
+    "phrase": "a foreign detail",
+    "example": "A foreign detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“外国的”有关的画面，再把英文 foreign 放进词块“a foreign detail”。",
     "category": "初中1000 D-F"
   },
   {
@@ -3057,7 +3057,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfɔrɪst; (US) ˈfɔːrɪst]",
     "meaning": "n. 森林",
     "phrase": "a forest / the forest",
-    "example": "The article uses the word \"forest\" in a real situation, so readers can connect it with the topic.",
+    "example": "The writer describes the forest so clearly that readers can picture the scene.",
     "mnemonic": "场景钩子：先想一个和“森林”有关的画面，再把英文 forest 放进词块“a forest / the forest”。",
     "category": "初中1000 D-F"
   },
@@ -3066,7 +3066,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɔːm]",
     "meaning": "n. 表格；形式；结构",
     "phrase": "a form / the form",
-    "example": "The article uses the word \"form\" in a real situation, so readers can connect it with the topic.",
+    "example": "The form becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“表格”有关的画面，再把英文 form 放进词块“a form / the form”。",
     "category": "初中1000 D-F"
   },
@@ -3075,7 +3075,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfɔːmæt]",
     "meaning": "n.安排，计划，设计",
     "phrase": "a format / the format",
-    "example": "The article uses the word \"format\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the format because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“安排”有关的画面，再把英文 format 放进词块“a format / the format”。",
     "category": "初中1000 D-F"
   },
@@ -3083,9 +3083,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "former",
     "phonetic": "[ˈfɔːmə(r)]",
     "meaning": "a. 以前的，从前的；（两者之中的）前者",
-    "phrase": "a former situation",
-    "example": "The passage describes a former situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“以前的”有关的画面，再把英文 former 放进词块“a former situation”。",
+    "phrase": "a former detail",
+    "example": "A former detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“以前的”有关的画面，再把英文 former 放进词块“a former detail”。",
     "category": "初中1000 D-F"
   },
   {
@@ -3093,7 +3093,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfɔːwəd]",
     "meaning": "ad.将来.今后.向前，前进",
     "phrase": "forward + action",
-    "example": "The speaker acted forward, and the listener noticed the change at once.",
+    "example": "The boy walks forward across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“将来.今后.向前”有关的画面，再把英文 forward 放进词块“forward + action”。",
     "category": "初中1000 D-F"
   },
@@ -3102,7 +3102,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[faʊnd]",
     "meaning": "vt. 成立，建立",
     "phrase": "learn to found",
-    "example": "The writer uses \"found\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"found\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“成立”有关的画面，再把英文 found 放进词块“learn to found”。",
     "category": "初中1000 D-F"
   },
@@ -3111,7 +3111,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fɔː(r)]",
     "meaning": "num. 四",
     "phrase": "grammar signal: four",
-    "example": "Read the whole sentence, because \"four\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"four\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“四”有关的画面，再把英文 four 放进词块“grammar signal: four”。",
     "category": "初中1000 D-F"
   },
@@ -3119,9 +3119,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "free",
     "phonetic": "[friː]",
     "meaning": "a. 自由，空闲的；免费的",
-    "phrase": "a free situation",
-    "example": "The passage describes a free situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“自由”有关的画面，再把英文 free 放进词块“a free situation”。",
+    "phrase": "a free detail",
+    "example": "A free detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“自由”有关的画面，再把英文 free 放进词块“a free detail”。",
     "category": "初中1000 D-F"
   },
   {
@@ -3138,7 +3138,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfrendlɪ]",
     "meaning": "a. 友好的",
     "phrase": "a friendly person",
-    "example": "The passage describes a friendly person and gives details to support the idea.",
+    "example": "A friendly person is remembered for actions more than words.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 friendly 放进“a friendly person”里记，核心义锁定为“友好的”。",
     "category": "初中1000 D-F"
   },
@@ -3156,7 +3156,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[frəm, frɔm]",
     "meaning": "prep.从；从…起.距.来自",
     "phrase": "grammar signal: from",
-    "example": "Read the whole sentence, because \"from\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"from\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“从”有关的画面，再把英文 from 放进词块“grammar signal: from”。",
     "category": "初中1000 D-F"
   },
@@ -3164,9 +3164,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "front",
     "phonetic": "[frʌnt]",
     "meaning": "a. 前面的；前部的 n. 前面；前部；前线",
-    "phrase": "a front situation",
-    "example": "The passage describes a front situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“前面的”有关的画面，再把英文 front 放进词块“a front situation”。",
+    "phrase": "a front detail",
+    "example": "A front detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“前面的”有关的画面，再把英文 front 放进词块“a front detail”。",
     "category": "初中1000 D-F"
   },
   {
@@ -3174,7 +3174,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fjuːəl]",
     "meaning": "n. 燃料",
     "phrase": "a fuel / the fuel",
-    "example": "The article uses the word \"fuel\" in a real situation, so readers can connect it with the topic.",
+    "example": "The fuel becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“燃料”有关的画面，再把英文 fuel 放进词块“a fuel / the fuel”。",
     "category": "初中1000 D-F"
   },
@@ -3182,9 +3182,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "full",
     "phonetic": "[fʊl]",
     "meaning": "a. 满的，充满的；完全的",
-    "phrase": "a full situation",
-    "example": "The passage describes a full situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“满的”有关的画面，再把英文 full 放进词块“a full situation”。",
+    "phrase": "a full answer",
+    "example": "A full answer shows that the student has understood the question.",
+    "mnemonic": "场景钩子：先想一个和“满的”有关的画面，再把英文 full 放进词块“a full answer”。",
     "category": "初中1000 D-F"
   },
   {
@@ -3192,7 +3192,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[fʌn]",
     "meaning": "n. 有趣的事，娱乐，玩笑",
     "phrase": "a fun / the fun",
-    "example": "The article uses the word \"fun\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the fun because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“有趣的事”有关的画面，再把英文 fun 放进词块“a fun / the fun”。",
     "category": "初中1000 D-F"
   },
@@ -3201,7 +3201,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfɜːnɪtʃə(r)]",
     "meaning": "n. （总称）家具",
     "phrase": "a furniture / the furniture",
-    "example": "The article uses the word \"furniture\" in a real situation, so readers can connect it with the topic.",
+    "example": "The furniture is where the main character first meets a stranger.",
     "mnemonic": "拆音节钩子：把 furniture 拆成 fur-nit-ure，边读边写，再回到词块“a furniture / the furniture”。",
     "category": "初中1000 D-F"
   },
@@ -3210,7 +3210,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈfjuːtʃə(r)]",
     "meaning": "n. 将来",
     "phrase": "a future / the future",
-    "example": "The article uses the word \"future\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the future helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“将来”有关的画面，再把英文 future 放进词块“a future / the future”。",
     "category": "初中1000 D-F"
   },
@@ -3219,7 +3219,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡeɪn]",
     "meaning": "vt. 赢得；挣得",
     "phrase": "learn to gain",
-    "example": "The writer uses \"gain\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"gain\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“赢得”有关的画面，再把英文 gain 放进词块“learn to gain”。",
     "category": "初中1000 G-I"
   },
@@ -3228,7 +3228,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɡælərɪ]",
     "meaning": "n. 画廊；美术品陈列室",
     "phrase": "a gallery / the gallery",
-    "example": "The article uses the word \"gallery\" in a real situation, so readers can connect it with the topic.",
+    "example": "The gallery becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“画廊”有关的画面，再把英文 gallery 放进词块“a gallery / the gallery”。",
     "category": "初中1000 G-I"
   },
@@ -3237,7 +3237,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡeɪm]",
     "meaning": "n. 游戏；运动；比赛",
     "phrase": "a game / the game",
-    "example": "The article uses the word \"game\" in a real situation, so readers can connect it with the topic.",
+    "example": "A small change in the game can make daily life much better.",
     "mnemonic": "场景钩子：先想一个和“游戏”有关的画面，再把英文 game 放进词块“a game / the game”。",
     "category": "初中1000 G-I"
   },
@@ -3246,7 +3246,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɡɑːd(ə)n]",
     "meaning": "n. 花园，果园，菜园",
     "phrase": "a garden / the garden",
-    "example": "The article uses the word \"garden\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the garden because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“花园”有关的画面，再把英文 garden 放进词块“a garden / the garden”。",
     "category": "初中1000 G-I"
   },
@@ -3255,7 +3255,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡæs]",
     "meaning": "n. 煤气",
     "phrase": "a gas / the gas",
-    "example": "The article uses the word \"gas\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the gas helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“煤气”有关的画面，再把英文 gas 放进词块“a gas / the gas”。",
     "category": "初中1000 G-I"
   },
@@ -3263,18 +3263,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "gay",
     "phonetic": "[ɡeɪ]",
     "meaning": "a. （男）同性恋的；快活的，愉快的",
-    "phrase": "a gay situation",
-    "example": "The passage describes a gay situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“男同性恋的”有关的画面，再把英文 gay 放进词块“a gay situation”。",
+    "phrase": "a gay detail",
+    "example": "A gay detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“男同性恋的”有关的画面，再把英文 gay 放进词块“a gay detail”。",
     "category": "初中1000 G-I"
   },
   {
     "word": "general",
     "phonetic": "[ˈdʒenər(ə)l]",
     "meaning": "a. 大体，笼统的，总的",
-    "phrase": "a general situation",
-    "example": "The passage describes a general situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 general 放进“a general situation”里记，核心义锁定为“大体”。",
+    "phrase": "a general room",
+    "example": "A general room changes how people feel when they walk in.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 general 放进“a general room”里记，核心义锁定为“大体”。",
     "category": "初中1000 G-I"
   },
   {
@@ -3282,7 +3282,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡɪft]",
     "meaning": "n. 赠品；礼物",
     "phrase": "a gift / the gift",
-    "example": "The article uses the word \"gift\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the gift to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“赠品”有关的画面，再把英文 gift 放进词块“a gift / the gift”。",
     "category": "初中1000 G-I"
   },
@@ -3291,7 +3291,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡɜːl]",
     "meaning": "n. 女孩",
     "phrase": "a girl / the girl",
-    "example": "The article uses the word \"girl\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the girl to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“女孩”有关的画面，再把英文 girl 放进词块“a girl / the girl”。",
     "category": "初中1000 G-I"
   },
@@ -3300,7 +3300,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡlɑːs; (US) ɡlæs]",
     "meaning": "n.玻璃杯,玻璃；(复)眼镜",
     "phrase": "a glass / the glass",
-    "example": "The article uses the word \"glass\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the glass to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“玻璃杯”有关的画面，再把英文 glass 放进词块“a glass / the glass”。",
     "category": "初中1000 G-I"
   },
@@ -3309,7 +3309,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡəʊl]",
     "meaning": "n. （足球）球门，目标",
     "phrase": "a goal / the goal",
-    "example": "The article uses the word \"goal\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the goal helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：al 常把名词变形容词。把 goal 放进“a goal / the goal”里记，核心义锁定为“足球球门”。",
     "category": "初中1000 G-I"
   },
@@ -3318,7 +3318,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡɔd]",
     "meaning": "n. 神，（大写）上帝",
     "phrase": "a god / the god",
-    "example": "The article uses the word \"god\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the god to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“神”有关的画面，再把英文 god 放进词块“a god / the god”。",
     "category": "初中1000 G-I"
   },
@@ -3327,7 +3327,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡəʊld]",
     "meaning": "n. 黄金 a 金的，黄金的",
     "phrase": "a gold / the gold",
-    "example": "The article uses the word \"gold\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the gold to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“黄金金的”有关的画面，再把英文 gold 放进词块“a gold / the gold”。",
     "category": "初中1000 G-I"
   },
@@ -3336,7 +3336,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡɔlf]",
     "meaning": "n. 高尔夫球",
     "phrase": "a golf / the golf",
-    "example": "The article uses the word \"golf\" in a real situation, so readers can connect it with the topic.",
+    "example": "The golf becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“高尔夫球”有关的画面，再把英文 golf 放进词块“a golf / the golf”。",
     "category": "初中1000 G-I"
   },
@@ -3345,7 +3345,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡʊd]",
     "meaning": "n. 商品，货物",
     "phrase": "a goods / the goods",
-    "example": "The article uses the word \"goods\" in a real situation, so readers can connect it with the topic.",
+    "example": "The goods becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“商品”有关的画面，再把英文 goods 放进词块“a goods / the goods”。",
     "category": "初中1000 G-I"
   },
@@ -3354,7 +3354,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡreɪd]",
     "meaning": "n. 等级；（中小学的）学年；成绩，分数",
     "phrase": "a grade / the grade",
-    "example": "The article uses the word \"grade\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the grade helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“等级”有关的画面，再把英文 grade 放进词块“a grade / the grade”。",
     "category": "初中1000 G-I"
   },
@@ -3362,9 +3362,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "grand",
     "phonetic": "[ɡrænd]",
     "meaning": "a. 宏伟的",
-    "phrase": "a grand situation",
-    "example": "The passage describes a grand situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“宏伟的”有关的画面，再把英文 grand 放进词块“a grand situation”。",
+    "phrase": "a grand detail",
+    "example": "A grand detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“宏伟的”有关的画面，再把英文 grand 放进词块“a grand detail”。",
     "category": "初中1000 G-I"
   },
   {
@@ -3372,7 +3372,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡreɪt]",
     "meaning": "a. 伟大的,重要的,好极了 ad. （口语）好极了，很好",
     "phrase": "great + action",
-    "example": "The speaker acted great, and the listener noticed the change at once.",
+    "example": "She answers great after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“伟大的”有关的画面，再把英文 great 放进词块“great + action”。",
     "category": "初中1000 G-I"
   },
@@ -3380,9 +3380,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "green",
     "phonetic": "[ɡriːn]",
     "meaning": "a. 绿色的；青的 n. 绿色",
-    "phrase": "a green situation",
-    "example": "The passage describes a green situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“绿色的”有关的画面，再把英文 green 放进词块“a green situation”。",
+    "phrase": "a green coat",
+    "example": "A green coat is easy to notice in a crowd.",
+    "mnemonic": "场景钩子：先想一个和“绿色的”有关的画面，再把英文 green 放进词块“a green coat”。",
     "category": "初中1000 G-I"
   },
   {
@@ -3390,7 +3390,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡraʊnd]",
     "meaning": "n. 地面",
     "phrase": "a ground / the ground",
-    "example": "The article uses the word \"ground\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the ground helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“地面”有关的画面，再把英文 ground 放进词块“a ground / the ground”。",
     "category": "初中1000 G-I"
   },
@@ -3399,7 +3399,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡruːp]",
     "meaning": "n. 组，群",
     "phrase": "a group / the group",
-    "example": "The article uses the word \"group\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the group because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“组”有关的画面，再把英文 group 放进词块“a group / the group”。",
     "category": "初中1000 G-I"
   },
@@ -3408,7 +3408,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡrəʊθ]",
     "meaning": "n. 生长，增长",
     "phrase": "a growth / the growth",
-    "example": "The article uses the word \"growth\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the growth helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“生长”有关的画面，再把英文 growth 放进词块“a growth / the growth”。",
     "category": "初中1000 G-I"
   },
@@ -3417,7 +3417,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡest]",
     "meaning": "n. 客人，宾客",
     "phrase": "a guest / the guest",
-    "example": "The article uses the word \"guest\" in a real situation, so readers can connect it with the topic.",
+    "example": "The guest becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“客人”有关的画面，再把英文 guest 放进词块“a guest / the guest”。",
     "category": "初中1000 G-I"
   },
@@ -3426,7 +3426,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɡaɪd]",
     "meaning": "n. 向导，导游者",
     "phrase": "a guide / the guide",
-    "example": "The article uses the word \"guide\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the guide to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“向导”有关的画面，再把英文 guide 放进词块“a guide / the guide”。",
     "category": "初中1000 G-I"
   },
@@ -3435,7 +3435,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈhæbɪt]",
     "meaning": "n. 习惯，习性",
     "phrase": "a habit / the habit",
-    "example": "The article uses the word \"habit\" in a real situation, so readers can connect it with the topic.",
+    "example": "The habit becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“习惯”有关的画面，再把英文 habit 放进词块“a habit / the habit”。",
     "category": "初中1000 G-I"
   },
@@ -3444,7 +3444,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[heə(r)]",
     "meaning": "n. 头发",
     "phrase": "a hair / the hair",
-    "example": "The article uses the word \"hair\" in a real situation, so readers can connect it with the topic.",
+    "example": "The hair becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“头发”有关的画面，再把英文 hair 放进词块“a hair / the hair”。",
     "category": "初中1000 G-I"
   },
@@ -3452,9 +3452,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "half",
     "phonetic": "[hɑːf; (US) hæf]",
     "meaning": "a.& n. 半，一半，半个",
-    "phrase": "a half situation",
-    "example": "The passage describes a half situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“半”有关的画面，再把英文 half 放进词块“a half situation”。",
+    "phrase": "a half detail",
+    "example": "A half detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“半”有关的画面，再把英文 half 放进词块“a half detail”。",
     "category": "初中1000 G-I"
   },
   {
@@ -3462,7 +3462,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[hɔːl]",
     "meaning": "n. 大厅,会堂,礼堂;过道",
     "phrase": "a hall / the hall",
-    "example": "The article uses the word \"hall\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the hall because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“大厅”有关的画面，再把英文 hall 放进词块“a hall / the hall”。",
     "category": "初中1000 G-I"
   },
@@ -3471,7 +3471,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[hænd]",
     "meaning": "n. 手；指针 v. 递；给；交付 交上；交进",
     "phrase": "learn to hand",
-    "example": "The writer uses \"hand\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"hand\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“手”有关的画面，再把英文 hand 放进词块“learn to hand”。",
     "category": "初中1000 G-I"
   },
@@ -3480,7 +3480,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈhæpən]",
     "meaning": "vi.（偶然）发生",
     "phrase": "happen naturally / happen in a situation",
-    "example": "In the story, people happen when the situation suddenly changes.",
+    "example": "The sentence uses \"happen\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“偶然发生”有关的画面，再把英文 happen 放进词块“happen naturally / happen in a situation”。",
     "category": "初中1000 G-I"
   },
@@ -3488,9 +3488,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "happy",
     "phonetic": "[ˈhæpɪ]",
     "meaning": "a.幸福；快乐的，高兴的",
-    "phrase": "a happy situation",
-    "example": "The passage describes a happy situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“幸福”有关的画面，再把英文 happy 放进词块“a happy situation”。",
+    "phrase": "a happy room",
+    "example": "A happy room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“幸福”有关的画面，再把英文 happy 放进词块“a happy room”。",
     "category": "初中1000 G-I"
   },
   {
@@ -3498,7 +3498,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[hɑːd]",
     "meaning": "ad. 努力地；使劲；猛烈地 a.硬的；困难的；艰难的",
     "phrase": "hard + action",
-    "example": "The speaker acted hard, and the listener noticed the change at once.",
+    "example": "The boy walks hard across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“努力地”有关的画面，再把英文 hard 放进词块“hard + action”。",
     "category": "初中1000 G-I"
   },
@@ -3507,7 +3507,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[heɪ]",
     "meaning": "pron. 他",
     "phrase": "grammar signal: he",
-    "example": "Read the whole sentence, because \"he\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"he\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“他”有关的画面，再把英文 he 放进词块“grammar signal: he”。",
     "category": "初中1000 G-I"
   },
@@ -3515,9 +3515,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "head",
     "phonetic": "[hed]",
     "meaning": "n. 头；头脑(像)；才智；首脑；源头；标题 a. 头部的；主要的；首席的 v. 率领；加标题；用头顶；出发；(船等)驶向",
-    "phrase": "a head situation",
-    "example": "The passage describes a head situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“头”有关的画面，再把英文 head 放进词块“a head situation”。",
+    "phrase": "a head idea",
+    "example": "A head idea can guide the whole paragraph.",
+    "mnemonic": "场景钩子：先想一个和“头”有关的画面，再把英文 head 放进词块“a head idea”。",
     "category": "初中1000 G-I"
   },
   {
@@ -3525,7 +3525,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[helθ]",
     "meaning": "n. 健康，卫生",
     "phrase": "a health / the health",
-    "example": "The article uses the word \"health\" in a real situation, so readers can connect it with the topic.",
+    "example": "The health reminds us that healthy habits are built day by day.",
     "mnemonic": "场景钩子：先想一个和“健康”有关的画面，再把英文 health 放进词块“a health / the health”。",
     "category": "初中1000 G-I"
   },
@@ -3534,7 +3534,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈhelθɪ]",
     "meaning": "a. 健康的，健壮的",
     "phrase": "a healthy habit",
-    "example": "The passage describes a healthy habit and gives details to support the idea.",
+    "example": "A healthy habit grows from small choices repeated every day.",
     "mnemonic": "场景钩子：先想一个和“健康的”有关的画面，再把英文 healthy 放进词块“a healthy habit”。",
     "category": "初中1000 G-I"
   },
@@ -3543,7 +3543,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[hɑːt]",
     "meaning": "n.心.心脏, 纸牌中的红桃",
     "phrase": "a heart / the heart",
-    "example": "The article uses the word \"heart\" in a real situation, so readers can connect it with the topic.",
+    "example": "The heart becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“心.心脏”有关的画面，再把英文 heart 放进词块“a heart / the heart”。",
     "category": "初中1000 G-I"
   },
@@ -3552,7 +3552,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[hiːt]",
     "meaning": "n. 热 vt. 把……加热",
     "phrase": "learn to heat",
-    "example": "The writer uses \"heat\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"heat\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“热把……加热”有关的画面，再把英文 heat 放进词块“learn to heat”。",
     "category": "初中1000 G-I"
   },
@@ -3561,7 +3561,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[help]",
     "meaning": "n. & vt. 帮助，帮忙",
     "phrase": "learn to help",
-    "example": "The writer uses \"help\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"help\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“帮助”有关的画面，再把英文 help 放进词块“learn to help”。",
     "category": "初中1000 G-I"
   },
@@ -3570,7 +3570,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[hɜː(r)]",
     "meaning": "pron. 她(宾格),她的",
     "phrase": "grammar signal: her",
-    "example": "Read the whole sentence, because \"her\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"her\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“她宾格”有关的画面，再把英文 her 放进词块“grammar signal: her”。",
     "category": "初中1000 G-I"
   },
@@ -3579,7 +3579,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[hɪə(r)]",
     "meaning": "ad. 这里，在这里；向这里",
     "phrase": "here + action",
-    "example": "The speaker acted here, and the listener noticed the change at once.",
+    "example": "She answers here after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“这里”有关的画面，再把英文 here 放进词块“here + action”。",
     "category": "初中1000 G-I"
   },
@@ -3588,7 +3588,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[haɪ]",
     "meaning": "int. 你好（表示打招呼、问候或唤起注 意）",
     "phrase": "hi in a real sentence",
-    "example": "Use \"hi\" in one short sentence, then explain the sentence in your own words.",
+    "example": "The sentence with \"hi\" gives a clear clue to the meaning, so read it aloud before answering.",
     "mnemonic": "场景钩子：先想一个和“你好表示打招呼”有关的画面，再把英文 hi 放进词块“hi in a real sentence”。",
     "category": "初中1000 G-I"
   },
@@ -3597,7 +3597,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[haɪ]",
     "meaning": "a. 高的;高度的 ad. 高地",
     "phrase": "high + action",
-    "example": "The speaker acted high, and the listener noticed the change at once.",
+    "example": "Good writers use details high to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“高的”有关的画面，再把英文 high 放进词块“high + action”。",
     "category": "初中1000 G-I"
   },
@@ -3606,7 +3606,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[hɪl]",
     "meaning": "n. 小山;丘陵;土堆;斜坡",
     "phrase": "a hill / the hill",
-    "example": "The article uses the word \"hill\" in a real situation, so readers can connect it with the topic.",
+    "example": "The writer describes the hill so clearly that readers can picture the scene.",
     "mnemonic": "场景钩子：先想一个和“小山”有关的画面，再把英文 hill 放进词块“a hill / the hill”。",
     "category": "初中1000 G-I"
   },
@@ -3615,7 +3615,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[hɪm]",
     "meaning": "pron. 他（宾格）",
     "phrase": "grammar signal: him",
-    "example": "Read the whole sentence, because \"him\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"him\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“他宾格”有关的画面，再把英文 him 放进词块“grammar signal: him”。",
     "category": "初中1000 G-I"
   },
@@ -3624,7 +3624,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈhaɪə(r)]",
     "meaning": "vt. 租用",
     "phrase": "learn to hire",
-    "example": "The writer uses \"hire\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"hire\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“租用”有关的画面，再把英文 hire 放进词块“learn to hire”。",
     "category": "初中1000 G-I"
   },
@@ -3633,7 +3633,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[hɪz]",
     "meaning": "pron. 他的",
     "phrase": "grammar signal: his",
-    "example": "Read the whole sentence, because \"his\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"his\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“他的”有关的画面，再把英文 his 放进词块“grammar signal: his”。",
     "category": "初中1000 G-I"
   },
@@ -3642,7 +3642,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈhɪstərɪ]",
     "meaning": "n. 历史，历史学",
     "phrase": "a history / the history",
-    "example": "The article uses the word \"history\" in a real situation, so readers can connect it with the topic.",
+    "example": "The history carries memories from the past and gives the passage a warm tone.",
     "mnemonic": "场景钩子：先想一个和“历史”有关的画面，再把英文 history 放进词块“a history / the history”。",
     "category": "初中1000 G-I"
   },
@@ -3651,7 +3651,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈhɔlɪdɪ]",
     "meaning": "n. 假日；假期",
     "phrase": "a holiday / the holiday",
-    "example": "The article uses the word \"holiday\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the holiday to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“假日”有关的画面，再把英文 holiday 放进词块“a holiday / the holiday”。",
     "category": "初中1000 G-I"
   },
@@ -3660,7 +3660,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[həʊm]",
     "meaning": "n. 家 ad. 到家；回家",
     "phrase": "home + action",
-    "example": "The speaker acted home, and the listener noticed the change at once.",
+    "example": "Good writers use details home to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“家到家”有关的画面，再把英文 home 放进词块“home + action”。",
     "category": "初中1000 G-I"
   },
@@ -3669,7 +3669,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[həʊp]",
     "meaning": "n.& v. 希望",
     "phrase": "learn to hope",
-    "example": "The writer uses \"hope\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"hope\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“希望”有关的画面，再把英文 hope 放进词块“learn to hope”。",
     "category": "初中1000 G-I"
   },
@@ -3678,7 +3678,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[hɔːs]",
     "meaning": "n. 马",
     "phrase": "a horse / the horse",
-    "example": "The article uses the word \"horse\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the horse because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“马”有关的画面，再把英文 horse 放进词块“a horse / the horse”。",
     "category": "初中1000 G-I"
   },
@@ -3687,7 +3687,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[həʊst]",
     "meaning": "n. 主人；节目主持人 v. 做主人招待",
     "phrase": "learn to host",
-    "example": "The writer uses \"host\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"host\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“主人”有关的画面，再把英文 host 放进词块“learn to host”。",
     "category": "初中1000 G-I"
   },
@@ -3695,9 +3695,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "hot",
     "phonetic": "[hɔt,hɑt]",
     "meaning": "a. 热的",
-    "phrase": "a hot situation",
-    "example": "The passage describes a hot situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“热的”有关的画面，再把英文 hot 放进词块“a hot situation”。",
+    "phrase": "a hot morning",
+    "example": "A hot morning is a good time for a walk or a short review.",
+    "mnemonic": "场景钩子：先想一个和“热的”有关的画面，再把英文 hot 放进词块“a hot morning”。",
     "category": "初中1000 G-I"
   },
   {
@@ -3705,7 +3705,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[həʊˈtel]",
     "meaning": "n. 旅馆，饭店，宾馆",
     "phrase": "a hotel / the hotel",
-    "example": "The article uses the word \"hotel\" in a real situation, so readers can connect it with the topic.",
+    "example": "The hotel becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“旅馆”有关的画面，再把英文 hotel 放进词块“a hotel / the hotel”。",
     "category": "初中1000 G-I"
   },
@@ -3714,7 +3714,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈaʊə(r)]",
     "meaning": "n. 小时",
     "phrase": "a hour / the hour",
-    "example": "The article uses the word \"hour\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the hour to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“小时”有关的画面，再把英文 hour 放进词块“a hour / the hour”。",
     "category": "初中1000 G-I"
   },
@@ -3723,7 +3723,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[haʊs]",
     "meaning": "n. 房子；住宅",
     "phrase": "a house / the house",
-    "example": "The article uses the word \"house\" in a real situation, so readers can connect it with the topic.",
+    "example": "The house becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“房子”有关的画面，再把英文 house 放进词块“a house / the house”。",
     "category": "初中1000 G-I"
   },
@@ -3732,7 +3732,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[haʊ]",
     "meaning": "ad.怎样,如何；多少；多么",
     "phrase": "how + action",
-    "example": "The speaker acted how, and the listener noticed the change at once.",
+    "example": "The boy walks how across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“怎样”有关的画面，再把英文 how 放进词块“how + action”。",
     "category": "初中1000 G-I"
   },
@@ -3741,7 +3741,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[haʊˈevə(r)]",
     "meaning": "ad. 可是 conj. 然而，可是，尽管如此",
     "phrase": "grammar signal: however",
-    "example": "Read the whole sentence, because \"however\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"however\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“可是然而”有关的画面，再把英文 however 放进词块“grammar signal: however”。",
     "category": "初中1000 G-I"
   },
@@ -3749,18 +3749,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "huge",
     "phonetic": "[hjuːdʒ]",
     "meaning": "a. 巨大的，庞大的",
-    "phrase": "a huge situation",
-    "example": "The passage describes a huge situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“巨大的”有关的画面，再把英文 huge 放进词块“a huge situation”。",
+    "phrase": "a huge room",
+    "example": "A huge room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“巨大的”有关的画面，再把英文 huge 放进词块“a huge room”。",
     "category": "初中1000 G-I"
   },
   {
     "word": "human",
     "phonetic": "[ˈhjuːmən]",
     "meaning": "a. 人的，人类的",
-    "phrase": "a human situation",
-    "example": "The passage describes a human situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“人的”有关的画面，再把英文 human 放进词块“a human situation”。",
+    "phrase": "a human detail",
+    "example": "A human detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“人的”有关的画面，再把英文 human 放进词块“a human detail”。",
     "category": "初中1000 G-I"
   },
   {
@@ -3768,7 +3768,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[aɪs]",
     "meaning": "n. 冰",
     "phrase": "an ice / the ice",
-    "example": "The article uses the word \"ice\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the ice because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“冰”有关的画面，再把英文 ice 放进词块“an ice / the ice”。",
     "category": "初中1000 G-I"
   },
@@ -3777,7 +3777,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[aɪˈdɪə]",
     "meaning": "n. 主意,意见,打算,想法",
     "phrase": "an idea / the idea",
-    "example": "The article uses the word \"idea\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the idea helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“主意”有关的画面，再把英文 idea 放进词块“an idea / the idea”。",
     "category": "初中1000 G-I"
   },
@@ -3786,7 +3786,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪf]",
     "meaning": "conj.如果,假使,是否,是不是",
     "phrase": "grammar signal: if",
-    "example": "Read the whole sentence, because \"if\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"if\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“如果”有关的画面，再把英文 if 放进词块“grammar signal: if”。",
     "category": "初中1000 G-I"
   },
@@ -3813,7 +3813,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪn]",
     "meaning": "prep. 在…里(内)；在…；以… ad. 在家，在内，向内",
     "phrase": "grammar signal: in",
-    "example": "Read the whole sentence, because \"in\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"in\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“在…里内”有关的画面，再把英文 in 放进词块“grammar signal: in”。",
     "category": "初中1000 G-I"
   },
@@ -3822,7 +3822,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪntʃ]",
     "meaning": "n. 英寸",
     "phrase": "an inch / the inch",
-    "example": "The article uses the word \"inch\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the inch to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“英寸”有关的画面，再把英文 inch 放进词块“an inch / the inch”。",
     "category": "初中1000 G-I"
   },
@@ -3840,7 +3840,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɪnkʌm]",
     "meaning": "n. 收入，所得",
     "phrase": "an income / the income",
-    "example": "The article uses the word \"income\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the income helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：in/im 表示“进入/否定”。把 income 放进“an income / the income”里记，核心义锁定为“收入”。",
     "category": "初中1000 G-I"
   },
@@ -3849,7 +3849,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪnˈkriːs]",
     "meaning": "v. & n. 增加，繁殖",
     "phrase": "increase the number",
-    "example": "In a difficult moment, people may need to increase the number carefully.",
+    "example": "The teacher asks us to increase the number and explain each step.",
     "mnemonic": "词形钩子：in/im 表示“进入/否定”。把 increase 放进“increase the number”里记，核心义锁定为“增加”。",
     "category": "初中1000 G-I"
   },
@@ -3858,7 +3858,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɪndəstrɪ]",
     "meaning": "n. 工业，产业",
     "phrase": "an industry / the industry",
-    "example": "The article uses the word \"industry\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the industry to connect a small detail with a bigger idea.",
     "mnemonic": "词形钩子：in/im 表示“进入/否定”。把 industry 放进“an industry / the industry”里记，核心义锁定为“工业”。",
     "category": "初中1000 G-I"
   },
@@ -3876,7 +3876,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪn]",
     "meaning": "n. 小旅店；小饭店",
     "phrase": "an inn / the inn",
-    "example": "The article uses the word \"inn\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the inn because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“小旅店”有关的画面，再把英文 inn 放进词块“an inn / the inn”。",
     "category": "初中1000 G-I"
   },
@@ -3885,7 +3885,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪnˈsaɪd]",
     "meaning": "prep.在…里面 ad.在里面",
     "phrase": "grammar signal: inside",
-    "example": "Read the whole sentence, because \"inside\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"inside\" to understand how the ideas are connected.",
     "mnemonic": "词形钩子：in/im 表示“进入/否定”。把 inside 放进“grammar signal: inside”里记，核心义锁定为“在…里面在里面”。",
     "category": "初中1000 G-I"
   },
@@ -3894,7 +3894,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪnˈsted]",
     "meaning": "ad. 代替，顶替",
     "phrase": "instead + action",
-    "example": "The speaker acted instead, and the listener noticed the change at once.",
+    "example": "She answers instead after listening to the whole question.",
     "mnemonic": "词形钩子：in/im 表示“进入/否定”。把 instead 放进“instead + action”里记，核心义锁定为“代替”。",
     "category": "初中1000 G-I"
   },
@@ -3903,7 +3903,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɪnstɪtjuːt; (US) ˈɪnstətuːt]",
     "meaning": "n. (研究)所, 院，学院",
     "phrase": "an institute / the institute",
-    "example": "The article uses the word \"institute\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the institute because it changes the direction of the story.",
     "mnemonic": "词形钩子：in/im 表示“进入/否定”。把 institute 放进“an institute / the institute”里记，核心义锁定为“研究所”。",
     "category": "初中1000 G-I"
   },
@@ -3912,7 +3912,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɪntrəst]",
     "meaning": "n. 兴趣，趣味;利息",
     "phrase": "an interest / the interest",
-    "example": "The article uses the word \"interest\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the interest to connect a small detail with a bigger idea.",
     "mnemonic": "词形钩子：in/im 表示“进入/否定”。把 interest 放进“an interest / the interest”里记，核心义锁定为“兴趣”。",
     "category": "初中1000 G-I"
   },
@@ -3921,7 +3921,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɪntənet]",
     "meaning": "n. 互联网，英特网",
     "phrase": "an internet / the internet",
-    "example": "The article uses the word \"internet\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the internet because it changes the direction of the story.",
     "mnemonic": "词形钩子：in/im 表示“进入/否定”。把 internet 放进“an internet / the internet”里记，核心义锁定为“互联网”。",
     "category": "初中1000 G-I"
   },
@@ -3930,7 +3930,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɪntʊ, ˈɪntə]",
     "meaning": "prep. 到…里;向内；变成",
     "phrase": "grammar signal: into",
-    "example": "Read the whole sentence, because \"into\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"into\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“到…里”有关的画面，再把英文 into 放进词块“grammar signal: into”。",
     "category": "初中1000 G-I"
   },
@@ -3939,7 +3939,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪntrəˈdjuːs; (US) -duːs]",
     "meaning": "vt. 介绍",
     "phrase": "learn to introduce",
-    "example": "The writer uses \"introduce\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"introduce\", they should ask who does the action and why it matters.",
     "mnemonic": "词形钩子：in/im 表示“进入/否定”。把 introduce 放进“learn to introduce”里记，核心义锁定为“介绍”。",
     "category": "初中1000 G-I"
   },
@@ -3948,7 +3948,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪnˈvent]",
     "meaning": "vt. 发明，创造",
     "phrase": "learn to invent",
-    "example": "The writer uses \"invent\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"invent\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "词形钩子：in/im 表示“进入/否定”。把 invent 放进“learn to invent”里记，核心义锁定为“发明”。",
     "category": "初中1000 G-I"
   },
@@ -3957,7 +3957,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈaɪən; (US) ˈaɪərn]",
     "meaning": "n. 铁，熨斗 vt. 熨烫",
     "phrase": "learn to iron",
-    "example": "The writer uses \"iron\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"iron\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“铁”有关的画面，再把英文 iron 放进词块“learn to iron”。",
     "category": "初中1000 G-I"
   },
@@ -3966,7 +3966,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈaɪlənd]",
     "meaning": "n. 岛",
     "phrase": "an island / the island",
-    "example": "The article uses the word \"island\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the island helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“岛”有关的画面，再把英文 island 放进词块“an island / the island”。",
     "category": "初中1000 G-I"
   },
@@ -3975,7 +3975,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪt]",
     "meaning": "pron. 它",
     "phrase": "grammar signal: it",
-    "example": "Read the whole sentence, because \"it\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"it\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“它”有关的画面，再把英文 it 放进词块“grammar signal: it”。",
     "category": "初中1000 G-I"
   },
@@ -3984,7 +3984,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪts]",
     "meaning": "pron. 它的",
     "phrase": "grammar signal: its",
-    "example": "Read the whole sentence, because \"its\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"its\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“它的”有关的画面，再把英文 its 放进词块“grammar signal: its”。",
     "category": "初中1000 G-I"
   },
@@ -3993,7 +3993,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɪtˈself]",
     "meaning": "pron. 它自己",
     "phrase": "grammar signal: itself",
-    "example": "Read the whole sentence, because \"itself\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"itself\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“它自己”有关的画面，再把英文 itself 放进词块“grammar signal: itself”。",
     "category": "初中1000 G-I"
   },
@@ -4011,7 +4011,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdʒuːəlrɪ]",
     "meaning": "n. （总称）珠宝",
     "phrase": "a jewelry / the jewelry",
-    "example": "The article uses the word \"jewelry\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the jewelry to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“总称珠宝”有关的画面，再把英文 jewelry 放进词块“a jewelry / the jewelry”。",
     "category": "初中1000 J-L"
   },
@@ -4020,7 +4020,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dʒɔb]",
     "meaning": "n. （一份）工作",
     "phrase": "a job / the job",
-    "example": "The article uses the word \"job\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the job helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“一份工作”有关的画面，再把英文 job 放进词块“a job / the job”。",
     "category": "初中1000 J-L"
   },
@@ -4029,7 +4029,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dʒɔɪn]",
     "meaning": "v.参加,加入;连接;会合",
     "phrase": "learn to join",
-    "example": "The writer uses \"join\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"join\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“参加”有关的画面，再把英文 join 放进词块“learn to join”。",
     "category": "初中1000 J-L"
   },
@@ -4038,7 +4038,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈdʒɜːnɪ]",
     "meaning": "n. 旅行，路程",
     "phrase": "a journey / the journey",
-    "example": "The article uses the word \"journey\" in a real situation, so readers can connect it with the topic.",
+    "example": "The journey is where the main character first meets a stranger.",
     "mnemonic": "场景钩子：先想一个和“旅行”有关的画面，再把英文 journey 放进词块“a journey / the journey”。",
     "category": "初中1000 J-L"
   },
@@ -4047,7 +4047,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dʒʌmp]",
     "meaning": "n. 跳跃；跳变 v. 跳跃；惊起；猛扑",
     "phrase": "learn to jump",
-    "example": "The writer uses \"jump\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"jump\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“跳跃”有关的画面，再把英文 jump 放进词块“learn to jump”。",
     "category": "初中1000 J-L"
   },
@@ -4056,7 +4056,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[dʒʌst]",
     "meaning": "ad. 刚才；恰好；不过；仅 a. 公正的",
     "phrase": "just + action",
-    "example": "The speaker acted just, and the listener noticed the change at once.",
+    "example": "The boy walks just across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“刚才”有关的画面，再把英文 just 放进词块“just + action”。",
     "category": "初中1000 J-L"
   },
@@ -4065,7 +4065,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kiː]",
     "meaning": "n. 钥匙;答案;键;关键",
     "phrase": "a key / the key",
-    "example": "The article uses the word \"key\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the key because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“钥匙”有关的画面，再把英文 key 放进词块“a key / the key”。",
     "category": "初中1000 J-L"
   },
@@ -4073,9 +4073,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "kind",
     "phonetic": "[kaɪnd]",
     "meaning": "n. 种;类 a. 善良,友好的",
-    "phrase": "a kind situation",
-    "example": "The passage describes a kind situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“种”有关的画面，再把英文 kind 放进词块“a kind situation”。",
+    "phrase": "a kind person",
+    "example": "A kind person is remembered for actions more than words.",
+    "mnemonic": "场景钩子：先想一个和“种”有关的画面，再把英文 kind 放进词块“a kind person”。",
     "category": "初中1000 J-L"
   },
   {
@@ -4083,7 +4083,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kɪŋ]",
     "meaning": "n. 国王",
     "phrase": "a king / the king",
-    "example": "The article uses the word \"king\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the king because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“国王”有关的画面，再把英文 king 放进词块“a king / the king”。",
     "category": "初中1000 J-L"
   },
@@ -4092,7 +4092,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkɪŋdəm]",
     "meaning": "n. 王国",
     "phrase": "a kingdom / the kingdom",
-    "example": "The article uses the word \"kingdom\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the kingdom because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“王国”有关的画面，再把英文 kingdom 放进词块“a kingdom / the kingdom”。",
     "category": "初中1000 J-L"
   },
@@ -4101,7 +4101,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈkɪtʃɪn]",
     "meaning": "n. 厨房",
     "phrase": "a kitchen / the kitchen",
-    "example": "The article uses the word \"kitchen\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the kitchen to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“厨房”有关的画面，再把英文 kitchen 放进词块“a kitchen / the kitchen”。",
     "category": "初中1000 J-L"
   },
@@ -4119,7 +4119,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈnɔlɪdʒ]",
     "meaning": "= laboratory n. 实验室",
     "phrase": "a lab / the lab",
-    "example": "The article uses the word \"lab\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the lab helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“=laboratory实验室”有关的画面，再把英文 lab 放进词块“a lab / the lab”。",
     "category": "初中1000 J-L"
   },
@@ -4128,7 +4128,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[læk]",
     "meaning": "n.& vt. 缺乏，缺少",
     "phrase": "learn to lack",
-    "example": "The writer uses \"lack\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"lack\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“缺乏”有关的画面，再把英文 lack 放进词块“learn to lack”。",
     "category": "初中1000 J-L"
   },
@@ -4137,7 +4137,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈleɪdɪ]",
     "meaning": "n. 女士，夫人",
     "phrase": "a lady / the lady",
-    "example": "The article uses the word \"lady\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the lady to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“女士”有关的画面，再把英文 lady 放进词块“a lady / the lady”。",
     "category": "初中1000 J-L"
   },
@@ -4146,7 +4146,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[leɪk]",
     "meaning": "n. 湖",
     "phrase": "a lake / the lake",
-    "example": "The article uses the word \"lake\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the lake because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“湖”有关的画面，再把英文 lake 放进词块“a lake / the lake”。",
     "category": "初中1000 J-L"
   },
@@ -4155,7 +4155,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[lænd]",
     "meaning": "n.陆地,土地v.登岸(陆)降落",
     "phrase": "learn to land",
-    "example": "The writer uses \"land\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"land\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“陆地”有关的画面，再把英文 land 放进词块“learn to land”。",
     "category": "初中1000 J-L"
   },
@@ -4172,9 +4172,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "large",
     "phonetic": "[lɑːdʒ]",
     "meaning": "a. 大的；巨大的",
-    "phrase": "a large situation",
-    "example": "The passage describes a large situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“大的”有关的画面，再把英文 large 放进词块“a large situation”。",
+    "phrase": "a large room",
+    "example": "A large room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“大的”有关的画面，再把英文 large 放进词块“a large room”。",
     "category": "初中1000 J-L"
   },
   {
@@ -4182,7 +4182,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[lɑːst; (US) læst]",
     "meaning": "a.最近刚过去;最后的ad.最近刚过去;最后地 n.最后v.持续",
     "phrase": "last + action",
-    "example": "The speaker acted last, and the listener noticed the change at once.",
+    "example": "The boy walks last across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“最近刚过去”有关的画面，再把英文 last 放进词块“last + action”。",
     "category": "初中1000 J-L"
   },
@@ -4191,7 +4191,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[leɪt]",
     "meaning": "a.晚的,迟的ad.晚地,迟地",
     "phrase": "late + action",
-    "example": "The speaker acted late, and the listener noticed the change at once.",
+    "example": "Good writers use details late to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“晚的”有关的画面，再把英文 late 放进词块“late + action”。",
     "category": "初中1000 J-L"
   },
@@ -4199,18 +4199,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "later",
     "phonetic": "[ˈleɪtə(r)]",
     "meaning": "a. 晚些的，迟些的",
-    "phrase": "a later situation",
-    "example": "The passage describes a later situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“晚些的”有关的画面，再把英文 later 放进词块“a later situation”。",
+    "phrase": "a later detail",
+    "example": "A later detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“晚些的”有关的画面，再把英文 later 放进词块“a later detail”。",
     "category": "初中1000 J-L"
   },
   {
     "word": "latest",
     "phonetic": "[ˈleɪtɪst]",
     "meaning": "a.最近，最新的；最晚的",
-    "phrase": "a latest situation",
-    "example": "The passage describes a latest situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“最近”有关的画面，再把英文 latest 放进词块“a latest situation”。",
+    "phrase": "a latest detail",
+    "example": "A latest detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“最近”有关的画面，再把英文 latest 放进词块“a latest detail”。",
     "category": "初中1000 J-L"
   },
   {
@@ -4218,7 +4218,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[lɔː]",
     "meaning": "n. 法律，法令；定律",
     "phrase": "a law / the law",
-    "example": "The article uses the word \"law\" in a real situation, so readers can connect it with the topic.",
+    "example": "The law becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“法律”有关的画面，再把英文 law 放进词块“a law / the law”。",
     "category": "初中1000 J-L"
   },
@@ -4226,9 +4226,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "leading",
     "phonetic": "[ˈliːdɪŋ]",
     "meaning": "a. 最主要的，第一位的",
-    "phrase": "a leading situation",
-    "example": "The passage describes a leading situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“最主要的”有关的画面，再把英文 leading 放进词块“a leading situation”。",
+    "phrase": "a leading idea",
+    "example": "A leading idea can guide the whole paragraph.",
+    "mnemonic": "场景钩子：先想一个和“最主要的”有关的画面，再把英文 leading 放进词块“a leading idea”。",
     "category": "初中1000 J-L"
   },
   {
@@ -4236,7 +4236,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[liːɡ]",
     "meaning": "n. 联盟，社团",
     "phrase": "a league / the league",
-    "example": "The article uses the word \"league\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the league helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“联盟”有关的画面，再把英文 league 放进词块“a league / the league”。",
     "category": "初中1000 J-L"
   },
@@ -4245,7 +4245,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[liːst]",
     "meaning": "n.最少，最少量",
     "phrase": "a least / the least",
-    "example": "The article uses the word \"least\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the least because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“最少”有关的画面，再把英文 least 放进词块“a least / the least”。",
     "category": "初中1000 J-L"
   },
@@ -4254,7 +4254,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[left]",
     "meaning": "a.左边的 ad.向左 n.左,左边",
     "phrase": "left + action",
-    "example": "The speaker acted left, and the listener noticed the change at once.",
+    "example": "The boy walks left across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“左边的向左左”有关的画面，再把英文 left 放进词块“left + action”。",
     "category": "初中1000 J-L"
   },
@@ -4262,9 +4262,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "legal",
     "phonetic": "[ˈliːɡ(ə)l]",
     "meaning": "a.与法律有关的，法律的",
-    "phrase": "a legal situation",
-    "example": "The passage describes a legal situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 legal 放进“a legal situation”里记，核心义锁定为“与法律有关的”。",
+    "phrase": "a legal detail",
+    "example": "A legal detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 legal 放进“a legal detail”里记，核心义锁定为“与法律有关的”。",
     "category": "初中1000 J-L"
   },
   {
@@ -4272,7 +4272,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[leŋθ]",
     "meaning": "n. 长，长度，段，节",
     "phrase": "a length / the length",
-    "example": "The article uses the word \"length\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the length to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“长”有关的画面，再把英文 length 放进词块“a length / the length”。",
     "category": "初中1000 J-L"
   },
@@ -4281,7 +4281,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈletə(r)]",
     "meaning": "n. 信；字母",
     "phrase": "a letter / the letter",
-    "example": "The article uses the word \"letter\" in a real situation, so readers can connect it with the topic.",
+    "example": "The writer uses the letter to show kindness, courage, or responsibility.",
     "mnemonic": "场景钩子：先想一个和“信”有关的画面，再把英文 letter 放进词块“a letter / the letter”。",
     "category": "初中1000 J-L"
   },
@@ -4290,7 +4290,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈlev(ə)l]",
     "meaning": "n. 水平线，水平",
     "phrase": "a level / the level",
-    "example": "The article uses the word \"level\" in a real situation, so readers can connect it with the topic.",
+    "example": "The writer describes the level so clearly that readers can picture the scene.",
     "mnemonic": "场景钩子：先想一个和“水平线”有关的画面，再把英文 level 放进词块“a level / the level”。",
     "category": "初中1000 J-L"
   },
@@ -4308,7 +4308,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈlaɪsəns]",
     "meaning": "n. 执照，许可证",
     "phrase": "a license / the license",
-    "example": "The article uses the word \"license\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the license helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“执照”有关的画面，再把英文 license 放进词块“a license / the license”。",
     "category": "初中1000 J-L"
   },
@@ -4316,9 +4316,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "light",
     "phonetic": "[laɪt]",
     "meaning": "n. 光，光亮；灯，灯光 vt. 点（火），点燃 a. 明亮的；轻的；浅色的",
-    "phrase": "a light situation",
-    "example": "The passage describes a light situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“光”有关的画面，再把英文 light 放进词块“a light situation”。",
+    "phrase": "a light detail",
+    "example": "A light detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“光”有关的画面，再把英文 light 放进词块“a light detail”。",
     "category": "初中1000 J-L"
   },
   {
@@ -4326,7 +4326,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[laɪk]",
     "meaning": "prep. 像，跟…一样 vt. 喜欢，喜爱",
     "phrase": "grammar signal: like",
-    "example": "Read the whole sentence, because \"like\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"like\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“像”有关的画面，再把英文 like 放进词块“grammar signal: like”。",
     "category": "初中1000 J-L"
   },
@@ -4335,7 +4335,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈlaɪklɪ]",
     "meaning": "a.很可能的",
     "phrase": "a likely question",
-    "example": "The passage describes a likely question and gives details to support the idea.",
+    "example": "A likely question needs careful reading before students answer.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 likely 放进“a likely question”里记，核心义锁定为“很可能的”。",
     "category": "初中1000 J-L"
   },
@@ -4344,7 +4344,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[laɪn]",
     "meaning": "n. 绳索，线，排，行，线路 v. 画线于，（使）成行",
     "phrase": "learn to line",
-    "example": "The writer uses \"line\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"line\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“绳索”有关的画面，再把英文 line 放进词块“learn to line”。",
     "category": "初中1000 J-L"
   },
@@ -4353,7 +4353,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[lɪŋk]",
     "meaning": "v. 连接； 联系",
     "phrase": "learn to link",
-    "example": "The writer uses \"link\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"link\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“连接”有关的画面，再把英文 link 放进词块“learn to link”。",
     "category": "初中1000 J-L"
   },
@@ -4362,7 +4362,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[lɪst]",
     "meaning": "n. 一览表，清单",
     "phrase": "a list / the list",
-    "example": "The article uses the word \"list\" in a real situation, so readers can connect it with the topic.",
+    "example": "The list becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“一览表”有关的画面，再把英文 list 放进词块“a list / the list”。",
     "category": "初中1000 J-L"
   },
@@ -4371,7 +4371,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈlɪs(ə)n]",
     "meaning": "vi. 听,仔细听",
     "phrase": "listen naturally / listen in a situation",
-    "example": "In the story, people listen when the situation suddenly changes.",
+    "example": "Read the words around \"listen\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“听”有关的画面，再把英文 listen 放进词块“listen naturally / listen in a situation”。",
     "category": "初中1000 J-L"
   },
@@ -4379,18 +4379,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "live",
     "phonetic": "[lɪv]",
     "meaning": "vi. 生活;居住;活着 a. 活的,活着的;实况,现场（直播）的",
-    "phrase": "a live situation",
-    "example": "The passage describes a live situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：ive 常表示倾向/性质。把 live 放进“a live situation”里记，核心义锁定为“生活”。",
+    "phrase": "a live detail",
+    "example": "A live detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：ive 常表示倾向/性质。把 live 放进“a live detail”里记，核心义锁定为“生活”。",
     "category": "初中1000 J-L"
   },
   {
     "word": "living",
     "phonetic": "[ˈlɪvɪŋ]",
     "meaning": "a. 活着的 n. 生计",
-    "phrase": "a living situation",
-    "example": "The passage describes a living situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“活着的生计”有关的画面，再把英文 living 放进词块“a living situation”。",
+    "phrase": "a living detail",
+    "example": "A living detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“活着的生计”有关的画面，再把英文 living 放进词块“a living detail”。",
     "category": "初中1000 J-L"
   },
   {
@@ -4398,7 +4398,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ləʊd]",
     "meaning": "n. 担子，货物",
     "phrase": "a load / the load",
-    "example": "The article uses the word \"load\" in a real situation, so readers can connect it with the topic.",
+    "example": "The load becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“担子”有关的画面，再把英文 load 放进词块“a load / the load”。",
     "category": "初中1000 J-L"
   },
@@ -4406,9 +4406,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "local",
     "phonetic": "[ˈləʊk(ə)l]",
     "meaning": "a. 当地的；地方的",
-    "phrase": "a local situation",
-    "example": "The passage describes a local situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 local 放进“a local situation”里记，核心义锁定为“当地的”。",
+    "phrase": "a local detail",
+    "example": "A local detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 local 放进“a local detail”里记，核心义锁定为“当地的”。",
     "category": "初中1000 J-L"
   },
   {
@@ -4416,7 +4416,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[lɔŋ; (US) lɔːŋ]",
     "meaning": "a. 长的，远 ad. 长久",
     "phrase": "long + action",
-    "example": "The speaker acted long, and the listener noticed the change at once.",
+    "example": "She answers long after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“长的”有关的画面，再把英文 long 放进词块“long + action”。",
     "category": "初中1000 J-L"
   },
@@ -4425,7 +4425,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[lʊk]",
     "meaning": "n. 看，瞧 v. 看，观看 v. link 看起来",
     "phrase": "learn to look",
-    "example": "The writer uses \"look\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"look\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“看”有关的画面，再把英文 look 放进词块“learn to look”。",
     "category": "初中1000 J-L"
   },
@@ -4434,7 +4434,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[lɔs; (US) lɔːs]",
     "meaning": "n. 丧失；损耗",
     "phrase": "a loss / the loss",
-    "example": "The article uses the word \"loss\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the loss because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“丧失”有关的画面，再把英文 loss 放进词块“a loss / the loss”。",
     "category": "初中1000 J-L"
   },
@@ -4443,7 +4443,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[lɔt]",
     "meaning": "n. 许多，好些",
     "phrase": "a lot / the lot",
-    "example": "The article uses the word \"lot\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the lot helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“许多”有关的画面，再把英文 lot 放进词块“a lot / the lot”。",
     "category": "初中1000 J-L"
   },
@@ -4452,7 +4452,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[lʌv]",
     "meaning": "n.& vt. 爱；热爱;很喜欢",
     "phrase": "learn to love",
-    "example": "The writer uses \"love\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"love\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“爱”有关的画面，再把英文 love 放进词块“learn to love”。",
     "category": "初中1000 J-L"
   },
@@ -4461,7 +4461,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ləʊ]",
     "meaning": "a.& ad. 低；矮",
     "phrase": "low + action",
-    "example": "The speaker acted low, and the listener noticed the change at once.",
+    "example": "Good writers use details low to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“低”有关的画面，再把英文 low 放进词块“low + action”。",
     "category": "初中1000 J-L"
   },
@@ -4470,7 +4470,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[məˈʃiːn]",
     "meaning": "n. 机器",
     "phrase": "a machine / the machine",
-    "example": "The article uses the word \"machine\" in a real situation, so readers can connect it with the topic.",
+    "example": "A new machine can be helpful, but it also requires careful use.",
     "mnemonic": "场景钩子：先想一个和“机器”有关的画面，再把英文 machine 放进词块“a machine / the machine”。",
     "category": "初中1000 M-O"
   },
@@ -4479,7 +4479,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[mæɡəˈziːn]",
     "meaning": "n. 杂志",
     "phrase": "a magazine / the magazine",
-    "example": "The article uses the word \"magazine\" in a real situation, so readers can connect it with the topic.",
+    "example": "The magazine becomes important when the characters have to make a difficult choice.",
     "mnemonic": "拆音节钩子：把 magazine 拆成 mag-azi-ne，边读边写，再回到词块“a magazine / the magazine”。",
     "category": "初中1000 M-O"
   },
@@ -4488,7 +4488,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[meɪl]",
     "meaning": "n. 邮政,邮递 v. (美)邮寄",
     "phrase": "learn to mail",
-    "example": "The writer uses \"mail\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"mail\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“邮政”有关的画面，再把英文 mail 放进词块“learn to mail”。",
     "category": "初中1000 M-O"
   },
@@ -4496,27 +4496,27 @@ window.ENGLISH_WORD_BANK = [
     "word": "main",
     "phonetic": "[meɪn]",
     "meaning": "a. 主要的",
-    "phrase": "a main situation",
-    "example": "The passage describes a main situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“主要的”有关的画面，再把英文 main 放进词块“a main situation”。",
+    "phrase": "a main idea",
+    "example": "A main idea can guide the whole paragraph.",
+    "mnemonic": "场景钩子：先想一个和“主要的”有关的画面，再把英文 main 放进词块“a main idea”。",
     "category": "初中1000 M-O"
   },
   {
     "word": "major",
     "phonetic": "[ˈmeɪdʒə(r)]",
     "meaning": "a. 较大的；主要的",
-    "phrase": "a major situation",
-    "example": "The passage describes a major situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“较大的”有关的画面，再把英文 major 放进词块“a major situation”。",
+    "phrase": "a major room",
+    "example": "A major room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“较大的”有关的画面，再把英文 major 放进词块“a major room”。",
     "category": "初中1000 M-O"
   },
   {
     "word": "male",
     "phonetic": "[meɪl]",
     "meaning": "a. 男（性）的；雄的",
-    "phrase": "a male situation",
-    "example": "The passage describes a male situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“男性的”有关的画面，再把英文 male 放进词块“a male situation”。",
+    "phrase": "a male detail",
+    "example": "A male detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“男性的”有关的画面，再把英文 male 放进词块“a male detail”。",
     "category": "初中1000 M-O"
   },
   {
@@ -4524,7 +4524,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmænɪdʒə(r)]",
     "meaning": "n. 经理",
     "phrase": "a manager / the manager",
-    "example": "The article uses the word \"manager\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the manager helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“经理”有关的画面，再把英文 manager 放进词块“a manager / the manager”。",
     "category": "初中1000 M-O"
   },
@@ -4533,7 +4533,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[mæp]",
     "meaning": "n. 地图",
     "phrase": "a map / the map",
-    "example": "The article uses the word \"map\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the map to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“地图”有关的画面，再把英文 map 放进词块“a map / the map”。",
     "category": "初中1000 M-O"
   },
@@ -4542,7 +4542,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[mɑːtʃ]",
     "meaning": "n. 游行，行进",
     "phrase": "a march / the march",
-    "example": "The article uses the word \"march\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the march helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“游行”有关的画面，再把英文 march 放进词块“a march / the march”。",
     "category": "初中1000 M-O"
   },
@@ -4551,7 +4551,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[mɑːk]",
     "meaning": "n.标记 vt.标明,作记号于",
     "phrase": "learn to mark",
-    "example": "The writer uses \"mark\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"mark\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“标记标明”有关的画面，再把英文 mark 放进词块“learn to mark”。",
     "category": "初中1000 M-O"
   },
@@ -4560,7 +4560,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmɑːkɪt]",
     "meaning": "n. 市场，集市",
     "phrase": "a market / the market",
-    "example": "The article uses the word \"market\" in a real situation, so readers can connect it with the topic.",
+    "example": "The market becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“市场”有关的画面，再把英文 market 放进词块“a market / the market”。",
     "category": "初中1000 M-O"
   },
@@ -4569,7 +4569,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[mæs]",
     "meaning": "n. 众多;大量;（复）群众",
     "phrase": "a mass / the mass",
-    "example": "The article uses the word \"mass\" in a real situation, so readers can connect it with the topic.",
+    "example": "The mass becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“众多”有关的画面，再把英文 mass 放进词块“a mass / the mass”。",
     "category": "初中1000 M-O"
   },
@@ -4578,7 +4578,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmɑːstə(r); (US) ˈmæstər]",
     "meaning": "vt. 精通，掌握",
     "phrase": "learn to master",
-    "example": "The writer uses \"master\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"master\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“精通”有关的画面，再把英文 master 放进词块“learn to master”。",
     "category": "初中1000 M-O"
   },
@@ -4587,7 +4587,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[mætʃ]",
     "meaning": "vt. 使相配，使成对 n. 比赛，竞赛 n. 火柴",
     "phrase": "learn to match",
-    "example": "The writer uses \"match\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"match\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“使相配”有关的画面，再把英文 match 放进词块“learn to match”。",
     "category": "初中1000 M-O"
   },
@@ -4596,7 +4596,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[məˈtɪərɪəl]",
     "meaning": "n. 材料，原料",
     "phrase": "a material / the material",
-    "example": "The article uses the word \"material\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the material helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：al 常把名词变形容词。把 material 放进“a material / the material”里记，核心义锁定为“材料”。",
     "category": "初中1000 M-O"
   },
@@ -4605,7 +4605,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmætə(r)]",
     "meaning": "n. 要紧事，要紧, 事情；问题 vi. 要紧，有重大关系",
     "phrase": "matter naturally / matter in a situation",
-    "example": "In the story, people matter when the situation suddenly changes.",
+    "example": "When readers meet \"matter\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“要紧事”有关的画面，再把英文 matter 放进词块“matter naturally / matter in a situation”。",
     "category": "初中1000 M-O"
   },
@@ -4613,18 +4613,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "mature",
     "phonetic": "[məˈtjʊə(r); (US) məˈtʊər]",
     "meaning": "a. 成熟的",
-    "phrase": "a mature situation",
-    "example": "The passage describes a mature situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“成熟的”有关的画面，再把英文 mature 放进词块“a mature situation”。",
+    "phrase": "a mature detail",
+    "example": "A mature detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“成熟的”有关的画面，再把英文 mature 放进词块“a mature detail”。",
     "category": "初中1000 M-O"
   },
   {
     "word": "maximum",
     "phonetic": "[ˈmæksɪməm]",
     "meaning": "a.& n. 最大量(的)； 最大限度(的)",
-    "phrase": "maximum resources",
-    "example": "The passage describes maximum resources and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“最大量的”有关的画面，再把英文 maximum 放进词块“maximum resources”。",
+    "phrase": "a maximum room",
+    "example": "A maximum room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“最大量的”有关的画面，再把英文 maximum 放进词块“a maximum room”。",
     "category": "初中1000 M-O"
   },
   {
@@ -4632,7 +4632,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmeɪbiː]",
     "meaning": "ad. 可能，大概，也许",
     "phrase": "maybe + action",
-    "example": "The speaker acted maybe, and the listener noticed the change at once.",
+    "example": "The boy walks maybe across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“可能”有关的画面，再把英文 maybe 放进词块“maybe + action”。",
     "category": "初中1000 M-O"
   },
@@ -4641,7 +4641,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[miː, mɪ]",
     "meaning": "pron. 我（宾格）",
     "phrase": "grammar signal: me",
-    "example": "Read the whole sentence, because \"me\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"me\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“我宾格”有关的画面，再把英文 me 放进词块“grammar signal: me”。",
     "category": "初中1000 M-O"
   },
@@ -4650,7 +4650,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[miːnz]",
     "meaning": "n. 方法，手段；财产",
     "phrase": "a means / the means",
-    "example": "The article uses the word \"means\" in a real situation, so readers can connect it with the topic.",
+    "example": "The means becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“方法”有关的画面，再把英文 means 放进词块“a means / the means”。",
     "category": "初中1000 M-O"
   },
@@ -4659,7 +4659,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmiːdɪə]",
     "meaning": "n. 大众传播媒介",
     "phrase": "a media / the media",
-    "example": "The article uses the word \"media\" in a real situation, so readers can connect it with the topic.",
+    "example": "The media becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“大众传播媒介”有关的画面，再把英文 media 放进词块“a media / the media”。",
     "category": "初中1000 M-O"
   },
@@ -4667,9 +4667,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "medical",
     "phonetic": "[ˈmedɪk(ə)l]",
     "meaning": "a. 医学的，医疗的",
-    "phrase": "a medical situation",
-    "example": "The passage describes a medical situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 medical 放进“a medical situation”里记，核心义锁定为“医学的”。",
+    "phrase": "a medical detail",
+    "example": "A medical detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 medical 放进“a medical detail”里记，核心义锁定为“医学的”。",
     "category": "初中1000 M-O"
   },
   {
@@ -4677,7 +4677,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmeds(ə)n; (US) ˈmedɪsn]",
     "meaning": "n. 药",
     "phrase": "a medicine / the medicine",
-    "example": "The article uses the word \"medicine\" in a real situation, so readers can connect it with the topic.",
+    "example": "A small change in the medicine can make daily life much better.",
     "mnemonic": "拆音节钩子：把 medicine 拆成 med-ici-ne，边读边写，再回到词块“a medicine / the medicine”。",
     "category": "初中1000 M-O"
   },
@@ -4686,7 +4686,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmiːdɪəm]",
     "meaning": "n.媒体,中间的,中等的",
     "phrase": "a medium / the medium",
-    "example": "The article uses the word \"medium\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the medium because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“媒体”有关的画面，再把英文 medium 放进词块“a medium / the medium”。",
     "category": "初中1000 M-O"
   },
@@ -4695,7 +4695,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmiːtɪŋ]",
     "meaning": "n.会,集会,会见,汇合点",
     "phrase": "a meeting / the meeting",
-    "example": "The article uses the word \"meeting\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the meeting because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“会”有关的画面，再把英文 meeting 放进词块“a meeting / the meeting”。",
     "category": "初中1000 M-O"
   },
@@ -4704,7 +4704,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmembə(r)]",
     "meaning": "n. 成员，会员",
     "phrase": "a member / the member",
-    "example": "The article uses the word \"member\" in a real situation, so readers can connect it with the topic.",
+    "example": "The member becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“成员”有关的画面，再把英文 member 放进词块“a member / the member”。",
     "category": "初中1000 M-O"
   },
@@ -4713,7 +4713,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmemərɪ]",
     "meaning": "n. 回忆，记忆",
     "phrase": "a memory / the memory",
-    "example": "The article uses the word \"memory\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the memory because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“回忆”有关的画面，再把英文 memory 放进词块“a memory / the memory”。",
     "category": "初中1000 M-O"
   },
@@ -4722,7 +4722,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmenʃ(ə)n]",
     "meaning": "n. 菜单",
     "phrase": "a menu / the menu",
-    "example": "The article uses the word \"menu\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the menu because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“菜单”有关的画面，再把英文 menu 放进词块“a menu / the menu”。",
     "category": "初中1000 M-O"
   },
@@ -4731,7 +4731,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmesɪdʒ]",
     "meaning": "n. 消息，音信",
     "phrase": "a message / the message",
-    "example": "The article uses the word \"message\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the message because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“消息”有关的画面，再把英文 message 放进词块“a message / the message”。",
     "category": "初中1000 M-O"
   },
@@ -4740,7 +4740,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmeθəd]",
     "meaning": "n. 方法，办法",
     "phrase": "a method / the method",
-    "example": "The article uses the word \"method\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the method because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“方法”有关的画面，再把英文 method 放进词块“a method / the method”。",
     "category": "初中1000 M-O"
   },
@@ -4749,7 +4749,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmɪd(ə)l]",
     "meaning": "n. 中间;当中;中级的",
     "phrase": "a middle / the middle",
-    "example": "The article uses the word \"middle\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the middle helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“中间”有关的画面，再把英文 middle 放进词块“a middle / the middle”。",
     "category": "初中1000 M-O"
   },
@@ -4758,7 +4758,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[maɪt]",
     "meaning": "v. aux. (may的过去式，助动词) 可能，也许，或许",
     "phrase": "grammar signal: might",
-    "example": "Read the whole sentence, because \"might\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"might\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“aux.may的过去式”有关的画面，再把英文 might 放进词块“grammar signal: might”。",
     "category": "初中1000 M-O"
   },
@@ -4767,7 +4767,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmɪlɪən]",
     "meaning": "num. 百万 n. 百万个（人或物）",
     "phrase": "grammar signal: million",
-    "example": "Read the whole sentence, because \"million\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"million\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“百万百万个人或物”有关的画面，再把英文 million 放进词块“grammar signal: million”。",
     "category": "初中1000 M-O"
   },
@@ -4776,7 +4776,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[maɪnd]",
     "meaning": "n. 思想,想法 v.介意,关心",
     "phrase": "learn to mind",
-    "example": "The writer uses \"mind\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"mind\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“思想”有关的画面，再把英文 mind 放进词块“learn to mind”。",
     "category": "初中1000 M-O"
   },
@@ -4785,7 +4785,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[maɪn]",
     "meaning": "n.矿藏,矿山vt.开采(矿物) pron. 我的",
     "phrase": "grammar signal: mine",
-    "example": "Read the whole sentence, because \"mine\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"mine\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“矿藏”有关的画面，再把英文 mine 放进词块“grammar signal: mine”。",
     "category": "初中1000 M-O"
   },
@@ -4794,7 +4794,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmɪnɪt]",
     "meaning": "n. 分钟;一会儿，瞬间",
     "phrase": "a minute / the minute",
-    "example": "The article uses the word \"minute\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the minute to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“分钟”有关的画面，再把英文 minute 放进词块“a minute / the minute”。",
     "category": "初中1000 M-O"
   },
@@ -4803,7 +4803,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[mɪs]",
     "meaning": "vt. 失去，错过，缺",
     "phrase": "learn to miss",
-    "example": "The writer uses \"miss\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"miss\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“失去”有关的画面，再把英文 miss 放进词块“learn to miss”。",
     "category": "初中1000 M-O"
   },
@@ -4812,7 +4812,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[mɪks]",
     "meaning": "v. 混合，搅拌",
     "phrase": "learn to mix",
-    "example": "The writer uses \"mix\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"mix\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“混合”有关的画面，再把英文 mix 放进词块“learn to mix”。",
     "category": "初中1000 M-O"
   },
@@ -4820,9 +4820,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "mobile",
     "phonetic": "[ˈməʊbaɪl; (US) məʊbl]",
     "meaning": "a. 活动的，可移动的",
-    "phrase": "a mobile situation",
-    "example": "The passage describes a mobile situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“活动的”有关的画面，再把英文 mobile 放进词块“a mobile situation”。",
+    "phrase": "a mobile detail",
+    "example": "A mobile detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“活动的”有关的画面，再把英文 mobile 放进词块“a mobile detail”。",
     "category": "初中1000 M-O"
   },
   {
@@ -4830,7 +4830,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmɔd(ə)l]",
     "meaning": "n.模型,原形,范例,模范",
     "phrase": "a model / the model",
-    "example": "The article uses the word \"model\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the model because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“模型”有关的画面，再把英文 model 放进词块“a model / the model”。",
     "category": "初中1000 M-O"
   },
@@ -4838,9 +4838,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "modern",
     "phonetic": "[ˈmɔd(ə)n]",
     "meaning": "a. 现代的",
-    "phrase": "a modern situation",
-    "example": "The passage describes a modern situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“现代的”有关的画面，再把英文 modern 放进词块“a modern situation”。",
+    "phrase": "a modern detail",
+    "example": "A modern detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“现代的”有关的画面，再把英文 modern 放进词块“a modern detail”。",
     "category": "初中1000 M-O"
   },
   {
@@ -4857,7 +4857,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[mʌnθ]",
     "meaning": "n. 月，月份",
     "phrase": "a month / the month",
-    "example": "The article uses the word \"month\" in a real situation, so readers can connect it with the topic.",
+    "example": "At the beginning of the month, the family makes a new plan.",
     "mnemonic": "场景钩子：先想一个和“月”有关的画面，再把英文 month 放进词块“a month / the month”。",
     "category": "初中1000 M-O"
   },
@@ -4866,7 +4866,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[muːn]",
     "meaning": "n. 月球；月光；月状物",
     "phrase": "a moon / the moon",
-    "example": "The article uses the word \"moon\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the moon because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“月球”有关的画面，再把英文 moon 放进词块“a moon / the moon”。",
     "category": "初中1000 M-O"
   },
@@ -4875,7 +4875,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmɔːnɪŋ]",
     "meaning": "n. 早晨，上午",
     "phrase": "a morning / the morning",
-    "example": "The article uses the word \"morning\" in a real situation, so readers can connect it with the topic.",
+    "example": "The morning passes quickly when everyone is busy preparing for the event.",
     "mnemonic": "场景钩子：先想一个和“早晨”有关的画面，再把英文 morning 放进词块“a morning / the morning”。",
     "category": "初中1000 M-O"
   },
@@ -4884,7 +4884,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈmʌðə(r)]",
     "meaning": "n. 母亲",
     "phrase": "a mother / the mother",
-    "example": "The article uses the word \"mother\" in a real situation, so readers can connect it with the topic.",
+    "example": "A true mother is shown through action, not just through words.",
     "mnemonic": "场景钩子：先想一个和“母亲”有关的画面，再把英文 mother 放进词块“a mother / the mother”。",
     "category": "初中1000 M-O"
   },
@@ -4893,7 +4893,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈməʊtə(r)]",
     "meaning": "n. 发动机，马达",
     "phrase": "a motor / the motor",
-    "example": "The article uses the word \"motor\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the motor because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“发动机”有关的画面，再把英文 motor 放进词块“a motor / the motor”。",
     "category": "初中1000 M-O"
   },
@@ -4902,7 +4902,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[muːv]",
     "meaning": "v. 移动，搬动，搬家",
     "phrase": "learn to move",
-    "example": "The writer uses \"move\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"move\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“移动”有关的画面，再把英文 move 放进词块“learn to move”。",
     "category": "初中1000 M-O"
   },
@@ -4920,7 +4920,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[mjuːˈzɪəm]",
     "meaning": "n. 博物馆，博物院",
     "phrase": "a museum / the museum",
-    "example": "The article uses the word \"museum\" in a real situation, so readers can connect it with the topic.",
+    "example": "The museum becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“博物馆”有关的画面，再把英文 museum 放进词块“a museum / the museum”。",
     "category": "初中1000 M-O"
   },
@@ -4938,7 +4938,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[maɪ]",
     "meaning": "pron. 我的",
     "phrase": "grammar signal: my",
-    "example": "Read the whole sentence, because \"my\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"my\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“我的”有关的画面，再把英文 my 放进词块“grammar signal: my”。",
     "category": "初中1000 M-O"
   },
@@ -4947,7 +4947,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[neɪm]",
     "meaning": "n. 名字,姓名,名称 vt. 命名,名叫",
     "phrase": "learn to name",
-    "example": "The writer uses \"name\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"name\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“名字”有关的画面，再把英文 name 放进词块“learn to name”。",
     "category": "初中1000 M-O"
   },
@@ -4955,18 +4955,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "national",
     "phonetic": "[ˈnæʃən(ə)l]",
     "meaning": "a. 国家的,全国性的，民族的",
-    "phrase": "a national situation",
-    "example": "The passage describes a national situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 national 放进“a national situation”里记，核心义锁定为“国家的”。",
+    "phrase": "a national detail",
+    "example": "A national detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 national 放进“a national detail”里记，核心义锁定为“国家的”。",
     "category": "初中1000 M-O"
   },
   {
     "word": "natural",
     "phonetic": "[ˈnætʃər(ə)l]",
     "meaning": "a. 自然的",
-    "phrase": "a natural situation",
-    "example": "The passage describes a natural situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 natural 放进“a natural situation”里记，核心义锁定为“自然的”。",
+    "phrase": "a natural detail",
+    "example": "A natural detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 natural 放进“a natural detail”里记，核心义锁定为“自然的”。",
     "category": "初中1000 M-O"
   },
   {
@@ -4974,7 +4974,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈneɪtʃə(r)]",
     "meaning": "n. 自然, 性质，种类",
     "phrase": "a nature / the nature",
-    "example": "The article uses the word \"nature\" in a real situation, so readers can connect it with the topic.",
+    "example": "A change in the nature can affect people, plants, and animals around us.",
     "mnemonic": "场景钩子：先想一个和“自然”有关的画面，再把英文 nature 放进词块“a nature / the nature”。",
     "category": "初中1000 M-O"
   },
@@ -4983,7 +4983,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[nɪə(r)]",
     "meaning": "a. 近的 ad. 附近，邻近 prep. 在……附近，靠近",
     "phrase": "grammar signal: near",
-    "example": "Read the whole sentence, because \"near\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"near\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“近的附近”有关的画面，再把英文 near 放进词块“grammar signal: near”。",
     "category": "初中1000 M-O"
   },
@@ -5001,7 +5001,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[niːd]",
     "meaning": "n. 需要,需求aux.& v.需要,必须",
     "phrase": "learn to need",
-    "example": "The writer uses \"need\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"need\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“需要”有关的画面，再把英文 need 放进词块“learn to need”。",
     "category": "初中1000 M-O"
   },
@@ -5010,7 +5010,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[net]",
     "meaning": "n. 网",
     "phrase": "a net / the net",
-    "example": "The article uses the word \"net\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the net helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“网”有关的画面，再把英文 net 放进词块“a net / the net”。",
     "category": "初中1000 M-O"
   },
@@ -5019,7 +5019,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈnetwɜːk]",
     "meaning": "n. 网络，网状系统",
     "phrase": "a network / the network",
-    "example": "The article uses the word \"network\" in a real situation, so readers can connect it with the topic.",
+    "example": "Students use the network to collect information and solve a real problem.",
     "mnemonic": "场景钩子：先想一个和“网络”有关的画面，再把英文 network 放进词块“a network / the network”。",
     "category": "初中1000 M-O"
   },
@@ -5028,7 +5028,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈnevə(r)]",
     "meaning": "ad. 决不，从来没有",
     "phrase": "never + action",
-    "example": "The speaker acted never, and the listener noticed the change at once.",
+    "example": "The boy walks never across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“决不”有关的画面，再把英文 never 放进词块“never + action”。",
     "category": "初中1000 M-O"
   },
@@ -5036,9 +5036,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "new",
     "phonetic": "[njuː; (US) nuː]",
     "meaning": "a. 新的；新鲜的",
-    "phrase": "a new situation",
-    "example": "The passage describes a new situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“新的”有关的画面，再把英文 new 放进词块“a new situation”。",
+    "phrase": "a new detail",
+    "example": "A new detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“新的”有关的画面，再把英文 new 放进词块“a new detail”。",
     "category": "初中1000 M-O"
   },
   {
@@ -5046,7 +5046,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[njuːz; (US) nuːz]",
     "meaning": "n. 新闻，消息",
     "phrase": "a news / the news",
-    "example": "The article uses the word \"news\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the news because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“新闻”有关的画面，再把英文 news 放进词块“a news / the news”。",
     "category": "初中1000 M-O"
   },
@@ -5055,7 +5055,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[nekst]",
     "meaning": "a. 最近的，紧挨着的，隔壁的；下一次 ad. 随后，然后，下一步 n. 下一个人（东西）",
     "phrase": "next + action",
-    "example": "The speaker acted next, and the listener noticed the change at once.",
+    "example": "She answers next after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“最近的”有关的画面，再把英文 next 放进词块“next + action”。",
     "category": "初中1000 M-O"
   },
@@ -5063,9 +5063,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "nice",
     "phonetic": "[naɪs]",
     "meaning": "a.令人愉快;好的漂亮的",
-    "phrase": "a nice situation",
-    "example": "The passage describes a nice situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“令人愉快”有关的画面，再把英文 nice 放进词块“a nice situation”。",
+    "phrase": "a nice view",
+    "example": "A nice view makes travelers stop and take photos.",
+    "mnemonic": "场景钩子：先想一个和“令人愉快”有关的画面，再把英文 nice 放进词块“a nice view”。",
     "category": "初中1000 M-O"
   },
   {
@@ -5073,7 +5073,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[naɪt]",
     "meaning": "n. 夜；夜间",
     "phrase": "a night / the night",
-    "example": "The article uses the word \"night\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the night to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“夜”有关的画面，再把英文 night 放进词块“a night / the night”。",
     "category": "初中1000 M-O"
   },
@@ -5082,7 +5082,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[nəʊ]",
     "meaning": "ad. 不,不是 a.没有,无,不",
     "phrase": "no + action",
-    "example": "The speaker acted no, and the listener noticed the change at once.",
+    "example": "Good writers use details no to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“不”有关的画面，再把英文 no 放进词块“no + action”。",
     "category": "初中1000 M-O"
   },
@@ -5091,7 +5091,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[nʌn]",
     "meaning": "pron.无任何东西, 无一人",
     "phrase": "grammar signal: none",
-    "example": "Read the whole sentence, because \"none\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"none\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“无任何东西”有关的画面，再把英文 none 放进词块“grammar signal: none”。",
     "category": "初中1000 M-O"
   },
@@ -5100,7 +5100,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[nɔː(r)]",
     "meaning": "conj. 也不",
     "phrase": "grammar signal: nor",
-    "example": "Read the whole sentence, because \"nor\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"nor\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“也不”有关的画面，再把英文 nor 放进词块“grammar signal: nor”。",
     "category": "初中1000 M-O"
   },
@@ -5109,7 +5109,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[nɔːθ]",
     "meaning": "a.北的;朝北的;从北来的 ad.向（在,从）北方 n.北;北方;北部",
     "phrase": "north + action",
-    "example": "The speaker acted north, and the listener noticed the change at once.",
+    "example": "She answers north after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“北的”有关的画面，再把英文 north 放进词块“north + action”。",
     "category": "初中1000 M-O"
   },
@@ -5117,9 +5117,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "northern",
     "phonetic": "[ˈnɔːð(ə)n]",
     "meaning": "a. 北方的，北部的",
-    "phrase": "a northern situation",
-    "example": "The passage describes a northern situation and gives details to support the idea.",
-    "mnemonic": "拆音节钩子：把 northern 拆成 nor-the-rn，边读边写，再回到词块“a northern situation”。",
+    "phrase": "a northern detail",
+    "example": "A northern detail helps readers picture the scene more clearly.",
+    "mnemonic": "拆音节钩子：把 northern 拆成 nor-the-rn，边读边写，再回到词块“a northern detail”。",
     "category": "初中1000 M-O"
   },
   {
@@ -5127,7 +5127,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[nɔt]",
     "meaning": "ad. 不，没",
     "phrase": "not + action",
-    "example": "The speaker acted not, and the listener noticed the change at once.",
+    "example": "The boy walks not across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“不”有关的画面，再把英文 not 放进词块“not + action”。",
     "category": "初中1000 M-O"
   },
@@ -5136,7 +5136,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[nəʊt]",
     "meaning": "n. 便条，笔记，注释；钞票，纸币；音符，音调 vt. 记下，记录；注意，留意",
     "phrase": "learn to note",
-    "example": "The writer uses \"note\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"note\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“便条”有关的画面，再把英文 note 放进词块“learn to note”。",
     "category": "初中1000 M-O"
   },
@@ -5145,7 +5145,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈnʌθɪŋ]",
     "meaning": "n. 没有东西,没有什么 adv.一点也不；并不",
     "phrase": "nothing + action",
-    "example": "The speaker acted nothing, and the listener noticed the change at once.",
+    "example": "She answers nothing after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“没有东西”有关的画面，再把英文 nothing 放进词块“nothing + action”。",
     "category": "初中1000 M-O"
   },
@@ -5154,7 +5154,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈnəʊtɪs]",
     "meaning": "n. 布告，通告；注意 vt. 注意，注意到",
     "phrase": "learn to notice",
-    "example": "The writer uses \"notice\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"notice\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“布告”有关的画面，再把英文 notice 放进词块“learn to notice”。",
     "category": "初中1000 M-O"
   },
@@ -5163,7 +5163,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[naʊ]",
     "meaning": "ad. 现在",
     "phrase": "now + action",
-    "example": "The speaker acted now, and the listener noticed the change at once.",
+    "example": "The boy walks now across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“现在”有关的画面，再把英文 now 放进词块“now + action”。",
     "category": "初中1000 M-O"
   },
@@ -5172,7 +5172,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈnʌmbə(r)]",
     "meaning": "n. 数,数字,号码,数量",
     "phrase": "a number / the number",
-    "example": "The article uses the word \"number\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the number because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“数”有关的画面，再把英文 number 放进词块“a number / the number”。",
     "category": "初中1000 M-O"
   },
@@ -5181,7 +5181,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[nɜːsɪŋ]",
     "meaning": "n.(职业性的）保育,护理",
     "phrase": "a nursing / the nursing",
-    "example": "The article uses the word \"nursing\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the nursing to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“职业性的保育”有关的画面，再把英文 nursing 放进词块“a nursing / the nursing”。",
     "category": "初中1000 M-O"
   },
@@ -5190,7 +5190,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɔbdʒɪkt]",
     "meaning": "n. 物，物体；宾语",
     "phrase": "an object / the object",
-    "example": "The article uses the word \"object\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the object helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“物”有关的画面，再把英文 object 放进词块“an object / the object”。",
     "category": "初中1000 M-O"
   },
@@ -5199,7 +5199,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɔv, əv; (US) ɔːf]",
     "meaning": "prep.(表所属,数量,) ….的",
     "phrase": "grammar signal: of",
-    "example": "Read the whole sentence, because \"of\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"of\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“表所属”有关的画面，再把英文 of 放进词块“grammar signal: of”。",
     "category": "初中1000 M-O"
   },
@@ -5208,7 +5208,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɔf; (US) ɔːf]",
     "meaning": "prep. 离开,脱离,（走）开",
     "phrase": "grammar signal: off",
-    "example": "Read the whole sentence, because \"off\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"off\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“离开”有关的画面，再把英文 off 放进词块“grammar signal: off”。",
     "category": "初中1000 M-O"
   },
@@ -5217,7 +5217,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɔfə(r); (US) ɔːfər]",
     "meaning": "n.& vt. 提供；建议",
     "phrase": "learn to offer",
-    "example": "The writer uses \"offer\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"offer\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“提供”有关的画面，再把英文 offer 放进词块“learn to offer”。",
     "category": "初中1000 M-O"
   },
@@ -5226,7 +5226,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɔfɪs; (US) ˈɔːfɪs]",
     "meaning": "n. 办公室",
     "phrase": "an office / the office",
-    "example": "The article uses the word \"office\" in a real situation, so readers can connect it with the topic.",
+    "example": "The office becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“办公室”有关的画面，再把英文 office 放进词块“an office / the office”。",
     "category": "初中1000 M-O"
   },
@@ -5234,9 +5234,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "official",
     "phonetic": "[əˈfɪʃ(ə)l; (US) ˈɔːf-]",
     "meaning": "n.（公司、团体或政府）官员 ,高级职员 a.官方,政府的",
-    "phrase": "an official situation",
-    "example": "The passage describes an official situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 official 放进“an official situation”里记，核心义锁定为“公司”。",
+    "phrase": "an official room",
+    "example": "An official room changes how people feel when they walk in.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 official 放进“an official room”里记，核心义锁定为“公司”。",
     "category": "初中1000 M-O"
   },
   {
@@ -5244,7 +5244,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɔf(ə)n; (US) ˈɔːfn]",
     "meaning": "ad. 经常，常常",
     "phrase": "often + action",
-    "example": "The speaker acted often, and the listener noticed the change at once.",
+    "example": "She answers often after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“经常”有关的画面，再把英文 often 放进词块“often + action”。",
     "category": "初中1000 M-O"
   },
@@ -5253,7 +5253,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əʊ]",
     "meaning": "int. 哦！啊！",
     "phrase": "oh in a real sentence",
-    "example": "Use \"oh\" in one short sentence, then explain the sentence in your own words.",
+    "example": "The sentence with \"oh\" gives a clear clue to the meaning, so read it aloud before answering.",
     "mnemonic": "场景钩子：先想一个和“哦！啊！”有关的画面，再把英文 oh 放进词块“oh in a real sentence”。",
     "category": "初中1000 M-O"
   },
@@ -5262,7 +5262,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɔɪl]",
     "meaning": "n. 油",
     "phrase": "an oil / the oil",
-    "example": "The article uses the word \"oil\" in a real situation, so readers can connect it with the topic.",
+    "example": "The oil becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“油”有关的画面，再把英文 oil 放进词块“an oil / the oil”。",
     "category": "初中1000 M-O"
   },
@@ -5270,9 +5270,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "old",
     "phonetic": "[əʊld]",
     "meaning": "a. 老的，旧的",
-    "phrase": "an old situation",
-    "example": "The passage describes an old situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“老的”有关的画面，再把英文 old 放进词块“an old situation”。",
+    "phrase": "an old detail",
+    "example": "An old detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“老的”有关的画面，再把英文 old 放进词块“an old detail”。",
     "category": "初中1000 M-O"
   },
   {
@@ -5280,7 +5280,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ɔn]",
     "meaning": "prep. 在…上（时），关于 ad. （穿，放…）上；接通；进行下 去；（电灯）开",
     "phrase": "grammar signal: on",
-    "example": "Read the whole sentence, because \"on\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"on\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“在…上时”有关的画面，再把英文 on 放进词块“grammar signal: on”。",
     "category": "初中1000 M-O"
   },
@@ -5289,7 +5289,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wʌns]",
     "meaning": "n.& ad. 一次,一度,从前 conj. 一旦",
     "phrase": "grammar signal: once",
-    "example": "Read the whole sentence, because \"once\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"once\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“一次”有关的画面，再把英文 once 放进词块“grammar signal: once”。",
     "category": "初中1000 M-O"
   },
@@ -5298,7 +5298,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wʌn]",
     "meaning": "pron. 一（个，只…）(pl. ones) num. 一",
     "phrase": "grammar signal: one",
-    "example": "Read the whole sentence, because \"one\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"one\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“一个”有关的画面，再把英文 one 放进词块“grammar signal: one”。",
     "category": "初中1000 M-O"
   },
@@ -5307,7 +5307,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈəʊnlɪ]",
     "meaning": "a. 惟一的，仅有的 ad. 仅仅，只，才",
     "phrase": "only + action",
-    "example": "The speaker acted only, and the listener noticed the change at once.",
+    "example": "She answers only after listening to the whole question.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 only 放进“only + action”里记，核心义锁定为“惟一的”。",
     "category": "初中1000 M-O"
   },
@@ -5315,9 +5315,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "open",
     "phonetic": "[ˈəʊpən]",
     "meaning": "a.开着的,开的 vt.开,打开",
-    "phrase": "an open situation",
-    "example": "The passage describes an open situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“开着的”有关的画面，再把英文 open 放进词块“an open situation”。",
+    "phrase": "an open detail",
+    "example": "An open detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“开着的”有关的画面，再把英文 open 放进词块“an open detail”。",
     "category": "初中1000 M-O"
   },
   {
@@ -5325,7 +5325,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈpɪnjən]",
     "meaning": "n. 看法，见解",
     "phrase": "an opinion / the opinion",
-    "example": "The article uses the word \"opinion\" in a real situation, so readers can connect it with the topic.",
+    "example": "The opinion becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“看法”有关的画面，再把英文 opinion 放进词块“an opinion / the opinion”。",
     "category": "初中1000 M-O"
   },
@@ -5334,7 +5334,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ə(r), ɔː(r)]",
     "meaning": "conj. 或；就是；否则",
     "phrase": "grammar signal: or",
-    "example": "Read the whole sentence, because \"or\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"or\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“或”有关的画面，再把英文 or 放进词块“grammar signal: or”。",
     "category": "初中1000 M-O"
   },
@@ -5342,9 +5342,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "oral",
     "phonetic": "[ˈɔːrəl]",
     "meaning": "a. 口述的，口头上的",
-    "phrase": "an oral situation",
-    "example": "The passage describes an oral situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 oral 放进“an oral situation”里记，核心义锁定为“口述的”。",
+    "phrase": "an oral detail",
+    "example": "An oral detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 oral 放进“an oral detail”里记，核心义锁定为“口述的”。",
     "category": "初中1000 M-O"
   },
   {
@@ -5352,7 +5352,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈɔːdə(r)]",
     "meaning": "n. 顺序",
     "phrase": "an order / the order",
-    "example": "The article uses the word \"order\" in a real situation, so readers can connect it with the topic.",
+    "example": "The order becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“顺序”有关的画面，再把英文 order 放进词块“an order / the order”。",
     "category": "初中1000 M-O"
   },
@@ -5361,7 +5361,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈʌðə(r)]",
     "meaning": "pron. 别人，别的东西 a. 别的,另外的",
     "phrase": "grammar signal: other",
-    "example": "Read the whole sentence, because \"other\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"other\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“别人”有关的画面，再把英文 other 放进词块“grammar signal: other”。",
     "category": "初中1000 M-O"
   },
@@ -5370,7 +5370,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈʌðəwaɪz]",
     "meaning": "ad.要不然,否则,另样",
     "phrase": "otherwise + action",
-    "example": "The speaker acted otherwise, and the listener noticed the change at once.",
+    "example": "Good writers use details otherwise to guide readers through the passage.",
     "mnemonic": "拆音节钩子：把 otherwise 拆成 oth-erw-ise，边读边写，再回到词块“otherwise + action”。",
     "category": "初中1000 M-O"
   },
@@ -5379,7 +5379,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈaʊə(r)]",
     "meaning": "pron.我们的",
     "phrase": "grammar signal: our",
-    "example": "Read the whole sentence, because \"our\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"our\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“我们的”有关的画面，再把英文 our 放进词块“grammar signal: our”。",
     "category": "初中1000 M-O"
   },
@@ -5388,7 +5388,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[aʊt]",
     "meaning": "ad. 出外;在外,向外;熄",
     "phrase": "out + action",
-    "example": "The speaker acted out, and the listener noticed the change at once.",
+    "example": "Good writers use details out to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“出外”有关的画面，再把英文 out 放进词块“out + action”。",
     "category": "初中1000 M-O"
   },
@@ -5397,7 +5397,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈaʊtpʊt]",
     "meaning": "n. 产量，输出量",
     "phrase": "an output / the output",
-    "example": "The article uses the word \"output\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the output because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“产量”有关的画面，再把英文 output 放进词块“an output / the output”。",
     "category": "初中1000 M-O"
   },
@@ -5406,7 +5406,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[aʊtˈsaɪd]",
     "meaning": "n. 外面 ad. 在外面；向外面 prep. 在…外面",
     "phrase": "grammar signal: outside",
-    "example": "Read the whole sentence, because \"outside\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"outside\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“外面在外面”有关的画面，再把英文 outside 放进词块“grammar signal: outside”。",
     "category": "初中1000 M-O"
   },
@@ -5415,7 +5415,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈəʊvə(r)]",
     "meaning": "prep. 在…上方,越过,遍及 ad. 翻倒,遍布,越过,结束",
     "phrase": "grammar signal: over",
-    "example": "Read the whole sentence, because \"over\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"over\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“在…上方”有关的画面，再把英文 over 放进词块“grammar signal: over”。",
     "category": "初中1000 M-O"
   },
@@ -5423,9 +5423,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "own",
     "phonetic": "[əʊn]",
     "meaning": "a. 自己的 v. 拥有,所有",
-    "phrase": "an own situation",
-    "example": "The passage describes an own situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“自己的拥有”有关的画面，再把英文 own 放进词块“an own situation”。",
+    "phrase": "own detail",
+    "example": "Own detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“自己的拥有”有关的画面，再把英文 own 放进词块“own detail”。",
     "category": "初中1000 M-O"
   },
   {
@@ -5433,7 +5433,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈəʊnə(r)]",
     "meaning": "n. 物主，所有人",
     "phrase": "an owner / the owner",
-    "example": "The article uses the word \"owner\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the owner helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“物主”有关的画面，再把英文 owner 放进词块“an owner / the owner”。",
     "category": "初中1000 M-O"
   },
@@ -5442,7 +5442,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pæk]",
     "meaning": "n. 包,捆;（猎犬、野兽的）一群 v.(为运输或储存而)打包",
     "phrase": "learn to pack",
-    "example": "The writer uses \"pack\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"pack\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“包”有关的画面，再把英文 pack 放进词块“learn to pack”。",
     "category": "初中1000 P-R"
   },
@@ -5451,7 +5451,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpækɪdʒ]",
     "meaning": "n. （尤指包装好或密封的容器）一包，一袋，一盒",
     "phrase": "a package / the package",
-    "example": "The article uses the word \"package\" in a real situation, so readers can connect it with the topic.",
+    "example": "The package becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“尤指包装好或密封的容器一包”有关的画面，再把英文 package 放进词块“a package / the package”。",
     "category": "初中1000 P-R"
   },
@@ -5460,7 +5460,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[peɪdʒ]",
     "meaning": "n. 页，页码",
     "phrase": "a page / the page",
-    "example": "The article uses the word \"page\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the page because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“页”有关的画面，再把英文 page 放进词块“a page / the page”。",
     "category": "初中1000 P-R"
   },
@@ -5469,7 +5469,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[peɪn]",
     "meaning": "n. 疼痛，疼",
     "phrase": "a pain / the pain",
-    "example": "The article uses the word \"pain\" in a real situation, so readers can connect it with the topic.",
+    "example": "The pain becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“疼痛”有关的画面，再把英文 pain 放进词块“a pain / the pain”。",
     "category": "初中1000 P-R"
   },
@@ -5478,7 +5478,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpeɪpə(r)]",
     "meaning": "n. 纸；报纸",
     "phrase": "a paper / the paper",
-    "example": "The article uses the word \"paper\" in a real situation, so readers can connect it with the topic.",
+    "example": "The paper becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“纸”有关的画面，再把英文 paper 放进词块“a paper / the paper”。",
     "category": "初中1000 P-R"
   },
@@ -5487,7 +5487,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpærɪs]",
     "meaning": "n. 公园",
     "phrase": "a park / the park",
-    "example": "The article uses the word \"park\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the park to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“公园”有关的画面，再把英文 park 放进词块“a park / the park”。",
     "category": "初中1000 P-R"
   },
@@ -5495,18 +5495,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "part",
     "phonetic": "[pɑːt]",
     "meaning": "n. 部分；成分；角色；部件；零件 a. 局部的；部分的 v. 分离；分开；分割",
-    "phrase": "a part situation",
-    "example": "The passage describes a part situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“部分”有关的画面，再把英文 part 放进词块“a part situation”。",
+    "phrase": "a part detail",
+    "example": "A part detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“部分”有关的画面，再把英文 part 放进词块“a part detail”。",
     "category": "初中1000 P-R"
   },
   {
     "word": "particular",
     "phonetic": "[pəˈtɪkjʊlə(r)]",
     "meaning": "a. 特殊的，个别的",
-    "phrase": "a particular situation",
-    "example": "The passage describes a particular situation and gives details to support the idea.",
-    "mnemonic": "拆音节钩子：把 particular 拆成 par-tic-ula-r，边读边写，再回到词块“a particular situation”。",
+    "phrase": "a particular detail",
+    "example": "A particular detail helps readers picture the scene more clearly.",
+    "mnemonic": "拆音节钩子：把 particular 拆成 par-tic-ula-r，边读边写，再回到词块“a particular detail”。",
     "category": "初中1000 P-R"
   },
   {
@@ -5514,7 +5514,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpɑːtnə(r)]",
     "meaning": "n. 搭档，合作者",
     "phrase": "a partner / the partner",
-    "example": "The article uses the word \"partner\" in a real situation, so readers can connect it with the topic.",
+    "example": "The partner becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“搭档”有关的画面，再把英文 partner 放进词块“a partner / the partner”。",
     "category": "初中1000 P-R"
   },
@@ -5523,7 +5523,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpɑːtɪ]",
     "meaning": "n. 聚会，晚会；党派",
     "phrase": "a party / the party",
-    "example": "The article uses the word \"party\" in a real situation, so readers can connect it with the topic.",
+    "example": "The party becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“聚会”有关的画面，再把英文 party 放进词块“a party / the party”。",
     "category": "初中1000 P-R"
   },
@@ -5532,7 +5532,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pɑːs; (US) pæs]",
     "meaning": "vt. 传，递；经过；通过",
     "phrase": "learn to pass",
-    "example": "The writer uses \"pass\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"pass\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“传”有关的画面，再把英文 pass 放进词块“learn to pass”。",
     "category": "初中1000 P-R"
   },
@@ -5541,7 +5541,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pɑːst; (US) pæst]",
     "meaning": "ad. 过 n.过去，昔日，往事 prep. 过…，走过某处",
     "phrase": "grammar signal: past",
-    "example": "Read the whole sentence, because \"past\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"past\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“过过去”有关的画面，再把英文 past 放进词块“grammar signal: past”。",
     "category": "初中1000 P-R"
   },
@@ -5550,7 +5550,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pɑːθ; (US) pæθ]",
     "meaning": "n. 小道，小径",
     "phrase": "a path / the path",
-    "example": "The article uses the word \"path\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the path because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“小道”有关的画面，再把英文 path 放进词块“a path / the path”。",
     "category": "初中1000 P-R"
   },
@@ -5559,7 +5559,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[peɪ]",
     "meaning": "(paid, paid) v. 付钱，给…报酬 n. 工资",
     "phrase": "learn to pay",
-    "example": "The writer uses \"pay\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"pay\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“paid”有关的画面，再把英文 pay 放进词块“learn to pay”。",
     "category": "初中1000 P-R"
   },
@@ -5568,7 +5568,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[piːs]",
     "meaning": "n. 和平",
     "phrase": "a peace / the peace",
-    "example": "The article uses the word \"peace\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the peace to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“和平”有关的画面，再把英文 peace 放进词块“a peace / the peace”。",
     "category": "初中1000 P-R"
   },
@@ -5577,7 +5577,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpiːp(ə)l]",
     "meaning": "n. 人，人们；人民",
     "phrase": "a people / the people",
-    "example": "The article uses the word \"people\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the people because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“人”有关的画面，再把英文 people 放进词块“a people / the people”。",
     "category": "初中1000 P-R"
   },
@@ -5586,7 +5586,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pə(r)]",
     "meaning": "prep. 每，每一",
     "phrase": "grammar signal: per",
-    "example": "Read the whole sentence, because \"per\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"per\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“每”有关的画面，再把英文 per 放进词块“grammar signal: per”。",
     "category": "初中1000 P-R"
   },
@@ -5595,7 +5595,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pəˈsent]",
     "meaning": "n. 百分之……",
     "phrase": "a percent / the percent",
-    "example": "The article uses the word \"percent\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the percent because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“百分之……”有关的画面，再把英文 percent 放进词块“a percent / the percent”。",
     "category": "初中1000 P-R"
   },
@@ -5603,9 +5603,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "perfect",
     "phonetic": "[kwestʃəˈneə(r)]",
     "meaning": "a. 完美的，极好的",
-    "phrase": "a perfect situation",
-    "example": "The passage describes a perfect situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“完美的”有关的画面，再把英文 perfect 放进词块“a perfect situation”。",
+    "phrase": "a perfect detail",
+    "example": "A perfect detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“完美的”有关的画面，再把英文 perfect 放进词块“a perfect detail”。",
     "category": "初中1000 P-R"
   },
   {
@@ -5613,7 +5613,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpɪərɪəd]",
     "meaning": "n. 时期，时代",
     "phrase": "a period / the period",
-    "example": "The article uses the word \"period\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the period helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“时期”有关的画面，再把英文 period 放进词块“a period / the period”。",
     "category": "初中1000 P-R"
   },
@@ -5622,7 +5622,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpɜːs(ə)n]",
     "meaning": "n. 人",
     "phrase": "a person / the person",
-    "example": "The article uses the word \"person\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the person helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“人”有关的画面，再把英文 person 放进词块“a person / the person”。",
     "category": "初中1000 P-R"
   },
@@ -5630,9 +5630,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "personal",
     "phonetic": "[ˈpɜːsən(ə)l]",
     "meaning": "a. 个人的，私人的",
-    "phrase": "a personal situation",
-    "example": "The passage describes a personal situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 personal 放进“a personal situation”里记，核心义锁定为“个人的”。",
+    "phrase": "a personal detail",
+    "example": "A personal detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 personal 放进“a personal detail”里记，核心义锁定为“个人的”。",
     "category": "初中1000 P-R"
   },
   {
@@ -5640,7 +5640,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pet]",
     "meaning": "n. 宠物，爱畜",
     "phrase": "a pet / the pet",
-    "example": "The article uses the word \"pet\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the pet because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“宠物”有关的画面，再把英文 pet 放进词块“a pet / the pet”。",
     "category": "初中1000 P-R"
   },
@@ -5648,9 +5648,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "physical",
     "phonetic": "[ˈfɪzɪk(ə)l]",
     "meaning": "a. 身体的；物理的",
-    "phrase": "a physical situation",
-    "example": "The passage describes a physical situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 physical 放进“a physical situation”里记，核心义锁定为“身体的”。",
+    "phrase": "a physical detail",
+    "example": "A physical detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 physical 放进“a physical detail”里记，核心义锁定为“身体的”。",
     "category": "初中1000 P-R"
   },
   {
@@ -5658,7 +5658,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pɪk]",
     "meaning": "v. 拾起，采集；挑选",
     "phrase": "learn to pick",
-    "example": "The writer uses \"pick\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"pick\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“拾起”有关的画面，再把英文 pick 放进词块“learn to pick”。",
     "category": "初中1000 P-R"
   },
@@ -5667,7 +5667,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpɪktʃə(r)]",
     "meaning": "n. 图片，画片，照片",
     "phrase": "a picture / the picture",
-    "example": "The article uses the word \"picture\" in a real situation, so readers can connect it with the topic.",
+    "example": "The picture becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“图片”有关的画面，再把英文 picture 放进词块“a picture / the picture”。",
     "category": "初中1000 P-R"
   },
@@ -5676,7 +5676,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[paɪ]",
     "meaning": "n. 一块（片，张，件…）",
     "phrase": "a piece / the piece",
-    "example": "The article uses the word \"piece\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the piece to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“一块片”有关的画面，再把英文 piece 放进词块“a piece / the piece”。",
     "category": "初中1000 P-R"
   },
@@ -5684,9 +5684,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "pink",
     "phonetic": "[]",
     "meaning": "a. 粉红色的",
-    "phrase": "a pink situation",
-    "example": "The passage describes a pink situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“粉红色的”有关的画面，再把英文 pink 放进词块“a pink situation”。",
+    "phrase": "a pink coat",
+    "example": "A pink coat is easy to notice in a crowd.",
+    "mnemonic": "场景钩子：先想一个和“粉红色的”有关的画面，再把英文 pink 放进词块“a pink coat”。",
     "category": "初中1000 P-R"
   },
   {
@@ -5694,7 +5694,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pleɪs]",
     "meaning": "n. 地方，处所 v. 放置，安置，安排",
     "phrase": "learn to place",
-    "example": "The writer uses \"place\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"place\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“地方”有关的画面，再把英文 place 放进词块“learn to place”。",
     "category": "初中1000 P-R"
   },
@@ -5703,7 +5703,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[plæn]",
     "meaning": "n.& v. 计划，打算",
     "phrase": "plan a plan",
-    "example": "In a difficult moment, people may need to plan a plan carefully.",
+    "example": "In the passage, one small choice helps the hero plan a plan.",
     "mnemonic": "场景钩子：先想一个和“计划”有关的画面，再把英文 plan 放进词块“plan a plan”。",
     "category": "初中1000 P-R"
   },
@@ -5712,7 +5712,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pleɪ]",
     "meaning": "v. 玩；打（球）；游戏；播放 n. 玩耍，戏剧",
     "phrase": "learn to play",
-    "example": "The writer uses \"play\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"play\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“玩”有关的画面，再把英文 play 放进词块“learn to play”。",
     "category": "初中1000 P-R"
   },
@@ -5721,7 +5721,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpleɪə(r)]",
     "meaning": "n. 比赛者，选手",
     "phrase": "a player / the player",
-    "example": "The article uses the word \"player\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the player because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“比赛者”有关的画面，再把英文 player 放进词块“a player / the player”。",
     "category": "初中1000 P-R"
   },
@@ -5730,7 +5730,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pliːz]",
     "meaning": "v. 请,使人高兴,使人满意",
     "phrase": "learn to please",
-    "example": "The writer uses \"please\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"please\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“请”有关的画面，再把英文 please 放进词块“learn to please”。",
     "category": "初中1000 P-R"
   },
@@ -5739,7 +5739,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[plʌs]",
     "meaning": "prep.加，加上",
     "phrase": "grammar signal: plus",
-    "example": "Read the whole sentence, because \"plus\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"plus\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“加”有关的画面，再把英文 plus 放进词块“grammar signal: plus”。",
     "category": "初中1000 P-R"
   },
@@ -5748,7 +5748,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pɔɪnt]",
     "meaning": "v. 指，指向 n. 点；分数",
     "phrase": "learn to point",
-    "example": "The writer uses \"point\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"point\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“指”有关的画面，再把英文 point 放进词块“learn to point”。",
     "category": "初中1000 P-R"
   },
@@ -5757,7 +5757,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pəˈliːs]",
     "meaning": "n. 警察，警务人员",
     "phrase": "a police / the police",
-    "example": "The article uses the word \"police\" in a real situation, so readers can connect it with the topic.",
+    "example": "The police becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“警察”有关的画面，再把英文 police 放进词块“a police / the police”。",
     "category": "初中1000 P-R"
   },
@@ -5766,7 +5766,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpɔlɪsɪ]",
     "meaning": "n. 政策，方针，原则",
     "phrase": "a policy / the policy",
-    "example": "The article uses the word \"policy\" in a real situation, so readers can connect it with the topic.",
+    "example": "The policy becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“政策”有关的画面，再把英文 policy 放进词块“a policy / the policy”。",
     "category": "初中1000 P-R"
   },
@@ -5775,7 +5775,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpɔlɪtɪks]",
     "meaning": "n. 政治",
     "phrase": "a politics / the politics",
-    "example": "The article uses the word \"politics\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the politics helps explain what happened and why it matters.",
     "mnemonic": "拆音节钩子：把 politics 拆成 pol-iti-cs，边读边写，再回到词块“a politics / the politics”。",
     "category": "初中1000 P-R"
   },
@@ -5784,7 +5784,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[puːl]",
     "meaning": "n. 水塘，水池",
     "phrase": "a pool / the pool",
-    "example": "The article uses the word \"pool\" in a real situation, so readers can connect it with the topic.",
+    "example": "A change in the pool can affect people, plants, and animals around us.",
     "mnemonic": "场景钩子：先想一个和“水塘”有关的画面，再把英文 pool 放进词块“a pool / the pool”。",
     "category": "初中1000 P-R"
   },
@@ -5792,18 +5792,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "poor",
     "phonetic": "[pʊə(r)]",
     "meaning": "a.贫穷；可怜；不好的,差的",
-    "phrase": "a poor situation",
-    "example": "The passage describes a poor situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“贫穷”有关的画面，再把英文 poor 放进词块“a poor situation”。",
+    "phrase": "a poor detail",
+    "example": "A poor detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“贫穷”有关的画面，再把英文 poor 放进词块“a poor detail”。",
     "category": "初中1000 P-R"
   },
   {
     "word": "popular",
     "phonetic": "[ˈpɔpjʊlə(r)]",
     "meaning": "a. 流行,大众,受欢迎的",
-    "phrase": "a popular situation",
-    "example": "The passage describes a popular situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“流行”有关的画面，再把英文 popular 放进词块“a popular situation”。",
+    "phrase": "a popular room",
+    "example": "A popular room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“流行”有关的画面，再把英文 popular 放进词块“a popular room”。",
     "category": "初中1000 P-R"
   },
   {
@@ -5811,7 +5811,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pɔːt]",
     "meaning": "n. 港口，码头",
     "phrase": "a port / the port",
-    "example": "The article uses the word \"port\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the port because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“港口”有关的画面，再把英文 port 放进词块“a port / the port”。",
     "category": "初中1000 P-R"
   },
@@ -5829,7 +5829,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[pəʊst]",
     "meaning": "n. 邮政，邮寄，邮件 v. 投寄； 邮寄",
     "phrase": "learn to post",
-    "example": "The writer uses \"post\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"post\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“邮政”有关的画面，再把英文 post 放进词块“learn to post”。",
     "category": "初中1000 P-R"
   },
@@ -5838,7 +5838,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpəʊstə(r)]",
     "meaning": "n. (贴在公共场所的大型)招贴；广告(画)",
     "phrase": "a poster / the poster",
-    "example": "The article uses the word \"poster\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the poster because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“贴在公共场所的大型招贴”有关的画面，再把英文 poster 放进词块“a poster / the poster”。",
     "category": "初中1000 P-R"
   },
@@ -5847,7 +5847,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpaʊdə(r)]",
     "meaning": "n. 力，动力，电力",
     "phrase": "a power / the power",
-    "example": "The article uses the word \"power\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the power because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“力”有关的画面，再把英文 power 放进词块“a power / the power”。",
     "category": "初中1000 P-R"
   },
@@ -5864,9 +5864,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "present",
     "phonetic": "[ˈprez(ə)nt]",
     "meaning": "a. 出现的，出席的 n. 礼物，赠品 vt. 呈奉，奉送",
-    "phrase": "a present situation",
-    "example": "The passage describes a present situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：pre 表示“提前/在前”。把 present 放进“a present situation”里记，核心义锁定为“出现的”。",
+    "phrase": "a present detail",
+    "example": "A present detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：pre 表示“提前/在前”。把 present 放进“a present detail”里记，核心义锁定为“出现的”。",
     "category": "初中1000 P-R"
   },
   {
@@ -5874,7 +5874,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈprezɪdənt]",
     "meaning": "n. 总统；主席",
     "phrase": "a president / the president",
-    "example": "The article uses the word \"president\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the president to connect a small detail with a bigger idea.",
     "mnemonic": "词形钩子：pre 表示“提前/在前”。把 president 放进“a president / the president”里记，核心义锁定为“总统”。",
     "category": "初中1000 P-R"
   },
@@ -5883,7 +5883,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈprezɪdənt]",
     "meaning": "vt.压,按 n.新闻界,出版社",
     "phrase": "learn to press",
-    "example": "The writer uses \"press\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"press\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“压”有关的画面，再把英文 press 放进词块“learn to press”。",
     "category": "初中1000 P-R"
   },
@@ -5892,7 +5892,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpreʃə(r)]",
     "meaning": "n. 压迫,压力,压强",
     "phrase": "a pressure / the pressure",
-    "example": "The article uses the word \"pressure\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the pressure because it changes the direction of the story.",
     "mnemonic": "词形钩子：pre 表示“提前/在前”。把 pressure 放进“a pressure / the pressure”里记，核心义锁定为“压迫”。",
     "category": "初中1000 P-R"
   },
@@ -5901,7 +5901,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈprɪtɪ]",
     "meaning": "a. 漂亮的，俊俏的",
     "phrase": "a pretty view",
-    "example": "The passage describes a pretty view and gives details to support the idea.",
+    "example": "A pretty view makes travelers stop and take photos.",
     "mnemonic": "场景钩子：先想一个和“漂亮的”有关的画面，再把英文 pretty 放进词块“a pretty view”。",
     "category": "初中1000 P-R"
   },
@@ -5910,7 +5910,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[praɪs]",
     "meaning": "n. 价格，价钱",
     "phrase": "a price / the price",
-    "example": "The article uses the word \"price\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the price helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“价格”有关的画面，再把英文 price 放进词块“a price / the price”。",
     "category": "初中1000 P-R"
   },
@@ -5919,7 +5919,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[prɪnt]",
     "meaning": "vt. 印刷",
     "phrase": "learn to print",
-    "example": "The writer uses \"print\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"print\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“印刷”有关的画面，再把英文 print 放进词块“learn to print”。",
     "category": "初中1000 P-R"
   },
@@ -5928,7 +5928,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈprɪntə(r)]",
     "meaning": "n. 打印机",
     "phrase": "a printer / the printer",
-    "example": "The article uses the word \"printer\" in a real situation, so readers can connect it with the topic.",
+    "example": "The printer becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“打印机”有关的画面，再把英文 printer 放进词块“a printer / the printer”。",
     "category": "初中1000 P-R"
   },
@@ -5936,9 +5936,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "private",
     "phonetic": "[ˈpraɪvɪt]",
     "meaning": "a. 私人的",
-    "phrase": "a private situation",
-    "example": "The passage describes a private situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“私人的”有关的画面，再把英文 private 放进词块“a private situation”。",
+    "phrase": "a private detail",
+    "example": "A private detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“私人的”有关的画面，再把英文 private 放进词块“a private detail”。",
     "category": "初中1000 P-R"
   },
   {
@@ -5946,7 +5946,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈprɔbəb(ə)lɪ]",
     "meaning": "ad. 很可能，大概",
     "phrase": "probably + action",
-    "example": "The speaker acted probably, and the listener noticed the change at once.",
+    "example": "The boy walks probably across the room so he will not wake the baby.",
     "mnemonic": "词形钩子：pro 表示“向前/支持”；ly 多为副词标志。把 probably 放进“probably + action”里记，核心义锁定为“很可能”。",
     "category": "初中1000 P-R"
   },
@@ -5955,7 +5955,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈprɔbləm]",
     "meaning": "n. 问题，难题",
     "phrase": "a problem / the problem",
-    "example": "The article uses the word \"problem\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the problem because it changes the direction of the story.",
     "mnemonic": "词形钩子：pro 表示“向前/支持”。把 problem 放进“a problem / the problem”里记，核心义锁定为“问题”。",
     "category": "初中1000 P-R"
   },
@@ -5964,7 +5964,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈprəʊses; (US) ˈprɔses]",
     "meaning": "n./ v. 过程,加工,处理",
     "phrase": "learn to process",
-    "example": "The writer uses \"process\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"process\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "词形钩子：pro 表示“向前/支持”。把 process 放进“learn to process”里记，核心义锁定为“过程”。",
     "category": "初中1000 P-R"
   },
@@ -5973,7 +5973,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈprɔdʌkt]",
     "meaning": "n. 产品，制品",
     "phrase": "a product / the product",
-    "example": "The article uses the word \"product\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the product because it changes the direction of the story.",
     "mnemonic": "词形钩子：pro 表示“向前/支持”。把 product 放进“a product / the product”里记，核心义锁定为“产品”。",
     "category": "初中1000 P-R"
   },
@@ -5982,7 +5982,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈprɔdʒekt]",
     "meaning": "n. 工程",
     "phrase": "a project / the project",
-    "example": "The article uses the word \"project\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the project helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：pro 表示“向前/支持”。把 project 放进“a project / the project”里记，核心义锁定为“工程”。",
     "category": "初中1000 P-R"
   },
@@ -5991,7 +5991,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈprɔmɪs]",
     "meaning": "n.& vi. 答应，允诺",
     "phrase": "promise naturally / promise in a situation",
-    "example": "In the story, people promise when the situation suddenly changes.",
+    "example": "Read the words around \"promise\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "词形钩子：pro 表示“向前/支持”。把 promise 放进“promise naturally / promise in a situation”里记，核心义锁定为“答应”。",
     "category": "初中1000 P-R"
   },
@@ -6009,7 +6009,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[prəˈvaɪd]",
     "meaning": "vt. 提供",
     "phrase": "learn to provide",
-    "example": "The writer uses \"provide\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"provide\", they should ask who does the action and why it matters.",
     "mnemonic": "词形钩子：pro 表示“向前/支持”。把 provide 放进“learn to provide”里记，核心义锁定为“提供”。",
     "category": "初中1000 P-R"
   },
@@ -6017,9 +6017,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "public",
     "phonetic": "[ˈpʌblɪk]",
     "meaning": "a.公共,公众的 n. 公众",
-    "phrase": "a public situation",
-    "example": "The passage describes a public situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“公共”有关的画面，再把英文 public 放进词块“a public situation”。",
+    "phrase": "a public detail",
+    "example": "A public detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“公共”有关的画面，再把英文 public 放进词块“a public detail”。",
     "category": "初中1000 P-R"
   },
   {
@@ -6027,7 +6027,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpɜːtʃəs]",
     "meaning": "v. 购买，采购",
     "phrase": "learn to purchase",
-    "example": "The writer uses \"purchase\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"purchase\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "拆音节钩子：把 purchase 拆成 pur-cha-se，边读边写，再回到词块“learn to purchase”。",
     "category": "初中1000 P-R"
   },
@@ -6036,7 +6036,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈpɜːpəs]",
     "meaning": "n. 目的，意图",
     "phrase": "a purpose / the purpose",
-    "example": "The article uses the word \"purpose\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the purpose to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“目的”有关的画面，再把英文 purpose 放进词块“a purpose / the purpose”。",
     "category": "初中1000 P-R"
   },
@@ -6045,7 +6045,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kwɪk]",
     "meaning": "a. 快；敏捷的；急剧的 ad. 快地；敏捷地；急剧地",
     "phrase": "quick + action",
-    "example": "The speaker acted quick, and the listener noticed the change at once.",
+    "example": "The boy walks quick across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“快”有关的画面，再把英文 quick 放进词块“quick + action”。",
     "category": "初中1000 P-R"
   },
@@ -6054,7 +6054,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[kwaɪt]",
     "meaning": "ad. 完全，十分",
     "phrase": "quite + action",
-    "example": "The speaker acted quite, and the listener noticed the change at once.",
+    "example": "She answers quite after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“完全”有关的画面，再把英文 quite 放进词块“quite + action”。",
     "category": "初中1000 P-R"
   },
@@ -6063,7 +6063,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[reɪs]",
     "meaning": "n. 种族，民族 v. （速度）竞赛，比赛 n. 赛跑，竞赛",
     "phrase": "learn to race",
-    "example": "The writer uses \"race\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"race\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“种族”有关的画面，再把英文 race 放进词块“learn to race”。",
     "category": "初中1000 P-R"
   },
@@ -6072,7 +6072,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[reɪdɪəʊ]",
     "meaning": "n. 无线电，收音机",
     "phrase": "a radio / the radio",
-    "example": "The article uses the word \"radio\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the radio helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“无线电”有关的画面，再把英文 radio 放进词块“a radio / the radio”。",
     "category": "初中1000 P-R"
   },
@@ -6080,9 +6080,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "random",
     "phonetic": "[ˈrændəm]",
     "meaning": "a.随意,未经事先考虑的",
-    "phrase": "a random situation",
-    "example": "The passage describes a random situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“随意”有关的画面，再把英文 random 放进词块“a random situation”。",
+    "phrase": "a random / the random",
+    "example": "A careful reader notices the random because it changes the direction of the story.",
+    "mnemonic": "场景钩子：先想一个和“随意”有关的画面，再把英文 random 放进词块“a random / the random”。",
     "category": "初中1000 P-R"
   },
   {
@@ -6090,7 +6090,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[reɪndʒ]",
     "meaning": "n./ v. 变化，变动，排序",
     "phrase": "range the situation",
-    "example": "In a difficult moment, people may need to range the situation carefully.",
+    "example": "A careful student will range the situation before writing the final answer.",
     "mnemonic": "场景钩子：先想一个和“变化”有关的画面，再把英文 range 放进词块“range the situation”。",
     "category": "初中1000 P-R"
   },
@@ -6099,7 +6099,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ræŋk]",
     "meaning": "n. 职衔，军衔",
     "phrase": "a rank / the rank",
-    "example": "The article uses the word \"rank\" in a real situation, so readers can connect it with the topic.",
+    "example": "The rank becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“职衔”有关的画面，再把英文 rank 放进词块“a rank / the rank”。",
     "category": "初中1000 P-R"
   },
@@ -6107,9 +6107,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "rare",
     "phonetic": "[reə(r)]",
     "meaning": "a. 罕见的，稀有的",
-    "phrase": "a rare situation",
-    "example": "The passage describes a rare situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“罕见的”有关的画面，再把英文 rare 放进词块“a rare situation”。",
+    "phrase": "a rare detail",
+    "example": "A rare detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“罕见的”有关的画面，再把英文 rare 放进词块“a rare detail”。",
     "category": "初中1000 P-R"
   },
   {
@@ -6117,7 +6117,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[reɪt]",
     "meaning": "n./ v. 率，评估，评价",
     "phrase": "learn to rate",
-    "example": "The writer uses \"rate\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"rate\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“率”有关的画面，再把英文 rate 放进词块“learn to rate”。",
     "category": "初中1000 P-R"
   },
@@ -6126,7 +6126,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈrɑːðə; (US) ˈræðər]",
     "meaning": "ad. 相当，宁可",
     "phrase": "rather + action",
-    "example": "The speaker acted rather, and the listener noticed the change at once.",
+    "example": "The boy walks rather across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“相当”有关的画面，再把英文 rather 放进词块“rather + action”。",
     "category": "初中1000 P-R"
   },
@@ -6135,7 +6135,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[reɪ]",
     "meaning": "n. 光辉，光线",
     "phrase": "a ray / the ray",
-    "example": "The article uses the word \"ray\" in a real situation, so readers can connect it with the topic.",
+    "example": "The ray becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“光辉”有关的画面，再把英文 ray 放进词块“a ray / the ray”。",
     "category": "初中1000 P-R"
   },
@@ -6144,7 +6144,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʃɜːt]",
     "meaning": "n. 阅读；朗读",
     "phrase": "a reading / the reading",
-    "example": "The article uses the word \"reading\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the reading to connect a small detail with a bigger idea.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 reading 放进“a reading / the reading”里记，核心义锁定为“阅读”。",
     "category": "初中1000 P-R"
   },
@@ -6152,18 +6152,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "ready",
     "phonetic": "[ˈredɪ]",
     "meaning": "a. 准备好的",
-    "phrase": "a ready situation",
-    "example": "The passage describes a ready situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“准备好的”有关的画面，再把英文 ready 放进词块“a ready situation”。",
+    "phrase": "a ready detail",
+    "example": "A ready detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“准备好的”有关的画面，再把英文 ready 放进词块“a ready detail”。",
     "category": "初中1000 P-R"
   },
   {
     "word": "real",
     "phonetic": "[riːl]",
     "meaning": "a. 真实的，确实的",
-    "phrase": "a real situation",
-    "example": "The passage describes a real situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 real 放进“a real situation”里记，核心义锁定为“真实的”。",
+    "phrase": "a real event / a real problem",
+    "example": "The story is based on a real event that happened in a small town.",
+    "mnemonic": "对比钩子：real 不是想象的、假的，而是真实发生或真实存在的。",
     "category": "初中1000 P-R"
   },
   {
@@ -6171,7 +6171,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈrɪəlɪ]",
     "meaning": "adv. 真正地；到底；确实",
     "phrase": "really + action",
-    "example": "The speaker acted really, and the listener noticed the change at once.",
+    "example": "The boy walks really across the room so he will not wake the baby.",
     "mnemonic": "词形钩子：re 表示“再次/回”；ly 多为副词标志。把 really 放进“really + action”里记，核心义锁定为“真正地”。",
     "category": "初中1000 P-R"
   },
@@ -6180,7 +6180,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈriːz(ə)n]",
     "meaning": "vi.评理,劝说n.理由,原因",
     "phrase": "reason naturally / reason in a situation",
-    "example": "In the story, people reason when the situation suddenly changes.",
+    "example": "The sentence uses \"reason\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 reason 放进“reason naturally / reason in a situation”里记，核心义锁定为“评理”。",
     "category": "初中1000 P-R"
   },
@@ -6197,9 +6197,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "recent",
     "phonetic": "[ˈriːsənt]",
     "meaning": "a. 近来的，最近的",
-    "phrase": "a recent situation",
-    "example": "The passage describes a recent situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：re 表示“再次/回”。把 recent 放进“a recent situation”里记，核心义锁定为“近来的”。",
+    "phrase": "a recent detail",
+    "example": "A recent detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：re 表示“再次/回”。把 recent 放进“a recent detail”里记，核心义锁定为“近来的”。",
     "category": "初中1000 P-R"
   },
   {
@@ -6207,7 +6207,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈrekɔːd; (US) ˈrekərd]",
     "meaning": "n. 记录；唱片",
     "phrase": "a record / the record",
-    "example": "The article uses the word \"record\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the record helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 record 放进“a record / the record”里记，核心义锁定为“记录”。",
     "category": "初中1000 P-R"
   },
@@ -6216,7 +6216,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[riːˈsaɪk(ə)l]",
     "meaning": "vt. 回收；再循环",
     "phrase": "learn to recycle",
-    "example": "The writer uses \"recycle\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"recycle\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 recycle 放进“learn to recycle”里记，核心义锁定为“回收”。",
     "category": "初中1000 P-R"
   },
@@ -6224,9 +6224,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "red",
     "phonetic": "[red]",
     "meaning": "n. 红色 a.红色的",
-    "phrase": "a red situation",
-    "example": "The passage describes a red situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“红色红色的”有关的画面，再把英文 red 放进词块“a red situation”。",
+    "phrase": "a red coat",
+    "example": "A red coat is easy to notice in a crowd.",
+    "mnemonic": "场景钩子：先想一个和“红色红色的”有关的画面，再把英文 red 放进词块“a red coat”。",
     "category": "初中1000 P-R"
   },
   {
@@ -6234,7 +6234,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪˈfjuːz]",
     "meaning": "vi. 拒绝，不愿",
     "phrase": "refuse naturally / refuse in a situation",
-    "example": "In the story, people refuse when the situation suddenly changes.",
+    "example": "In a story or report, \"refuse\" helps describe what happens next.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 refuse 放进“refuse naturally / refuse in a situation”里记，核心义锁定为“拒绝”。",
     "category": "初中1000 P-R"
   },
@@ -6243,7 +6243,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈredʒɪstə(r)]",
     "meaning": "n. 登记簿，花名册，注册员 v. 登记，注册",
     "phrase": "learn to register",
-    "example": "The writer uses \"register\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"register\", they should ask who does the action and why it matters.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 register 放进“learn to register”里记，核心义锁定为“登记簿”。",
     "category": "初中1000 P-R"
   },
@@ -6251,9 +6251,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "regular",
     "phonetic": "[ˈreɡjʊlə(r)]",
     "meaning": "a. 规则的，经常",
-    "phrase": "a regular situation",
-    "example": "The passage describes a regular situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：re 表示“再次/回”。把 regular 放进“a regular situation”里记，核心义锁定为“规则的”。",
+    "phrase": "a regular detail",
+    "example": "A regular detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：re 表示“再次/回”。把 regular 放进“a regular detail”里记，核心义锁定为“规则的”。",
     "category": "初中1000 P-R"
   },
   {
@@ -6261,7 +6261,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪˈmembə(r)]",
     "meaning": "v. 记得，想起",
     "phrase": "learn to remember",
-    "example": "The writer uses \"remember\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"remember\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 remember 放进“learn to remember”里记，核心义锁定为“记得”。",
     "category": "初中1000 P-R"
   },
@@ -6269,9 +6269,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "remote",
     "phonetic": "[rɪˈməʊt]",
     "meaning": "a. 偏远的，偏僻的",
-    "phrase": "a remote situation",
-    "example": "The passage describes a remote situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：re 表示“再次/回”。把 remote 放进“a remote situation”里记，核心义锁定为“偏远的”。",
+    "phrase": "a remote detail",
+    "example": "A remote detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：re 表示“再次/回”。把 remote 放进“a remote detail”里记，核心义锁定为“偏远的”。",
     "category": "初中1000 P-R"
   },
   {
@@ -6279,7 +6279,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪˈmuːv]",
     "meaning": "vt. 移动，拿走，脱掉（衣服等）",
     "phrase": "learn to remove",
-    "example": "The writer uses \"remove\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"remove\" helps describe what happens next.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 remove 放进“learn to remove”里记，核心义锁定为“移动”。",
     "category": "初中1000 P-R"
   },
@@ -6288,7 +6288,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rent]",
     "meaning": "n.& v. 租金",
     "phrase": "learn to rent",
-    "example": "The writer uses \"rent\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"rent\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“租金”有关的画面，再把英文 rent 放进词块“learn to rent”。",
     "category": "初中1000 P-R"
   },
@@ -6297,7 +6297,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪˈpeə(r)]",
     "meaning": "n.& vt. 修理；修补",
     "phrase": "learn to repair",
-    "example": "The writer uses \"repair\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"repair\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 repair 放进“learn to repair”里记，核心义锁定为“修理”。",
     "category": "初中1000 P-R"
   },
@@ -6306,7 +6306,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪˈplaɪ]",
     "meaning": "n. 回答，答复",
     "phrase": "a reply / the reply",
-    "example": "The article uses the word \"reply\" in a real situation, so readers can connect it with the topic.",
+    "example": "The reply becomes important when the characters have to make a difficult choice.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 reply 放进“a reply / the reply”里记，核心义锁定为“回答”。",
     "category": "初中1000 P-R"
   },
@@ -6315,7 +6315,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪˈpɔːt]",
     "meaning": "n.& v. 报道，报告",
     "phrase": "learn to report",
-    "example": "The writer uses \"report\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"report\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 report 放进“learn to report”里记，核心义锁定为“报道”。",
     "category": "初中1000 P-R"
   },
@@ -6324,7 +6324,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪˈkwest]",
     "meaning": "n. 请求，要求的事物",
     "phrase": "a request / the request",
-    "example": "The article uses the word \"request\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the request because it changes the direction of the story.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 request 放进“a request / the request”里记，核心义锁定为“请求”。",
     "category": "初中1000 P-R"
   },
@@ -6342,7 +6342,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪˈsɜːtʃ]",
     "meaning": "n. 研究，调查",
     "phrase": "a research / the research",
-    "example": "The article uses the word \"research\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the research because it changes the direction of the story.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 research 放进“a research / the research”里记，核心义锁定为“研究”。",
     "category": "初中1000 P-R"
   },
@@ -6351,7 +6351,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rest]",
     "meaning": "n. 休息；剩余的部分，其余的人（物） vi. 休息，歇息",
     "phrase": "rest naturally / rest in a situation",
-    "example": "In the story, people rest when the situation suddenly changes.",
+    "example": "In a story or report, \"rest\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“休息”有关的画面，再把英文 rest 放进词块“rest naturally / rest in a situation”。",
     "category": "初中1000 P-R"
   },
@@ -6360,7 +6360,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪˈzʌlt]",
     "meaning": "n. 结果，效果",
     "phrase": "a result / the result",
-    "example": "The article uses the word \"result\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the result helps explain what happened and why it matters.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 result 放进“a result / the result”里记，核心义锁定为“结果”。",
     "category": "初中1000 P-R"
   },
@@ -6369,7 +6369,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪˈtɜːn]",
     "meaning": "v. 归还",
     "phrase": "learn to return",
-    "example": "The writer uses \"return\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"return\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 return 放进“learn to return”里记，核心义锁定为“归还”。",
     "category": "初中1000 P-R"
   },
@@ -6378,7 +6378,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪˈvjuː]",
     "meaning": "vt. 重新调查； 回顾； 复习 n. 复查；复习；评论",
     "phrase": "learn to review",
-    "example": "The writer uses \"review\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"review\" helps describe what happens next.",
     "mnemonic": "词形钩子：re 表示“再次/回”。把 review 放进“learn to review”里记，核心义锁定为“重新调查”。",
     "category": "初中1000 P-R"
   },
@@ -6386,9 +6386,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "rich",
     "phonetic": "[rɪtʃ]",
     "meaning": "a. 富裕的，有钱的",
-    "phrase": "a rich situation",
-    "example": "The passage describes a rich situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“富裕的”有关的画面，再把英文 rich 放进词块“a rich situation”。",
+    "phrase": "a rich detail",
+    "example": "A rich detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“富裕的”有关的画面，再把英文 rich 放进词块“a rich detail”。",
     "category": "初中1000 P-R"
   },
   {
@@ -6396,7 +6396,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[raɪt]",
     "meaning": "n.权利 a.对,正确的 ad. 正确地,恰恰,完全地 a. 右,右边的",
     "phrase": "right + action",
-    "example": "The speaker acted right, and the listener noticed the change at once.",
+    "example": "Good writers use details right to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“权利对”有关的画面，再把英文 right 放进词块“right + action”。",
     "category": "初中1000 P-R"
   },
@@ -6405,7 +6405,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɪsk]",
     "meaning": "n./ v. 危险，风险，冒险",
     "phrase": "learn to risk",
-    "example": "The writer uses \"risk\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"risk\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“危险”有关的画面，再把英文 risk 放进词块“learn to risk”。",
     "category": "初中1000 P-R"
   },
@@ -6414,7 +6414,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈrɪvə(r)]",
     "meaning": "n. 江；河；水道；巨流",
     "phrase": "a river / the river",
-    "example": "The article uses the word \"river\" in a real situation, so readers can connect it with the topic.",
+    "example": "The river outside the village makes the morning feel quiet and bright.",
     "mnemonic": "场景钩子：先想一个和“江”有关的画面，再把英文 river 放进词块“a river / the river”。",
     "category": "初中1000 P-R"
   },
@@ -6423,7 +6423,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rəʊd]",
     "meaning": "n. 路，道路",
     "phrase": "a road / the road",
-    "example": "The article uses the word \"road\" in a real situation, so readers can connect it with the topic.",
+    "example": "The map shows the road and explains why it matters to the journey.",
     "mnemonic": "场景钩子：先想一个和“路”有关的画面，再把英文 road 放进词块“a road / the road”。",
     "category": "初中1000 P-R"
   },
@@ -6432,7 +6432,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rɔk]",
     "meaning": "n.岩石,大石头vt. 摇,摇晃",
     "phrase": "learn to rock",
-    "example": "The writer uses \"rock\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"rock\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“岩石”有关的画面，再把英文 rock 放进词块“learn to rock”。",
     "category": "初中1000 P-R"
   },
@@ -6441,7 +6441,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rəʊl]",
     "meaning": "n. 角色",
     "phrase": "a role / the role",
-    "example": "The article uses the word \"role\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the role to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“角色”有关的画面，再把英文 role 放进词块“a role / the role”。",
     "category": "初中1000 P-R"
   },
@@ -6450,7 +6450,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rəʊl]",
     "meaning": "v. 滚动, 打滚 n. 面包圈，小圆面包；卷状物",
     "phrase": "learn to roll",
-    "example": "The writer uses \"roll\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"roll\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“滚动”有关的画面，再把英文 roll 放进词块“learn to roll”。",
     "category": "初中1000 P-R"
   },
@@ -6459,7 +6459,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rʊm]",
     "meaning": "n. 房间,室;空间;地方",
     "phrase": "a room / the room",
-    "example": "The article uses the word \"room\" in a real situation, so readers can connect it with the topic.",
+    "example": "People in the room work together when a serious problem appears.",
     "mnemonic": "场景钩子：先想一个和“房间”有关的画面，再把英文 room 放进词块“a room / the room”。",
     "category": "初中1000 P-R"
   },
@@ -6468,7 +6468,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ruːt]",
     "meaning": "n. 根，根源，起源",
     "phrase": "a root / the root",
-    "example": "The article uses the word \"root\" in a real situation, so readers can connect it with the topic.",
+    "example": "The root becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“根”有关的画面，再把英文 root 放进词块“a root / the root”。",
     "category": "初中1000 P-R"
   },
@@ -6477,7 +6477,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rəʊz]",
     "meaning": "n. 玫瑰花",
     "phrase": "a rose / the rose",
-    "example": "The article uses the word \"rose\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the rose because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“玫瑰花”有关的画面，再把英文 rose 放进词块“a rose / the rose”。",
     "category": "初中1000 P-R"
   },
@@ -6486,7 +6486,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[raʊnd]",
     "meaning": "ad. 转过来 prep. 环绕一周，围着 a.圆的；球形的",
     "phrase": "grammar signal: round",
-    "example": "Read the whole sentence, because \"round\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"round\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“转过来环绕一周”有关的画面，再把英文 round 放进词块“grammar signal: round”。",
     "category": "初中1000 P-R"
   },
@@ -6495,7 +6495,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[rəʊ]",
     "meaning": "n.（一）排,（一）行 v.划船",
     "phrase": "learn to row",
-    "example": "The writer uses \"row\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"row\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“一排”有关的画面，再把英文 row 放进词块“learn to row”。",
     "category": "初中1000 P-R"
   },
@@ -6504,7 +6504,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ruːl]",
     "meaning": "n. 规则,规定 vt.统治,支配",
     "phrase": "rule a rule",
-    "example": "In a difficult moment, people may need to rule a rule carefully.",
+    "example": "During the discussion, the group tries to rule a rule with clear reasons.",
     "mnemonic": "场景钩子：先想一个和“规则”有关的画面，再把英文 rule 放进词块“rule a rule”。",
     "category": "初中1000 P-R"
   },
@@ -6513,7 +6513,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈrʌnɪŋ]",
     "meaning": "n. 跑步",
     "phrase": "a running / the running",
-    "example": "The article uses the word \"running\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the running because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“跑步”有关的画面，再把英文 running 放进词块“a running / the running”。",
     "category": "初中1000 P-R"
   },
@@ -6522,7 +6522,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[seɪf]",
     "meaning": "a. 安全的 n. 保险柜",
     "phrase": "a safe place",
-    "example": "The passage describes a safe place and gives details to support the idea.",
+    "example": "A safe place should be marked clearly on the map.",
     "mnemonic": "场景钩子：先想一个和“安全的保险柜”有关的画面，再把英文 safe 放进词块“a safe place”。",
     "category": "初中1000 S-U"
   },
@@ -6531,7 +6531,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈseɪftɪ]",
     "meaning": "n. 安全，保险",
     "phrase": "a safety / the safety",
-    "example": "The article uses the word \"safety\" in a real situation, so readers can connect it with the topic.",
+    "example": "The safety becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“安全”有关的画面，再把英文 safety 放进词块“a safety / the safety”。",
     "category": "初中1000 S-U"
   },
@@ -6540,7 +6540,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[seɪl]",
     "meaning": "n. 卖，出售",
     "phrase": "a sale / the sale",
-    "example": "The article uses the word \"sale\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the sale because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“卖”有关的画面，再把英文 sale 放进词块“a sale / the sale”。",
     "category": "初中1000 S-U"
   },
@@ -6549,7 +6549,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[seɪm]",
     "meaning": "n.同样的事a同样的,同一",
     "phrase": "a same / the same",
-    "example": "The article uses the word \"same\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the same to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“同样的事a同样的”有关的画面，再把英文 same 放进词块“a same / the same”。",
     "category": "初中1000 S-U"
   },
@@ -6558,7 +6558,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[seɪv]",
     "meaning": "vt. 救，挽救，节省",
     "phrase": "learn to save",
-    "example": "The writer uses \"save\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"save\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“救”有关的画面，再把英文 save 放进词块“learn to save”。",
     "category": "初中1000 S-U"
   },
@@ -6567,7 +6567,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈʃedjuːl; (US) ˈskedʒʊl]",
     "meaning": "n. 工作计划，日程安排v. 安排时间，预定",
     "phrase": "schedule a plan",
-    "example": "In a difficult moment, people may need to schedule a plan carefully.",
+    "example": "A careful student will schedule a plan before writing the final answer.",
     "mnemonic": "拆音节钩子：把 schedule 拆成 sch-edu-le，边读边写，再回到词块“schedule a plan”。",
     "category": "初中1000 S-U"
   },
@@ -6585,7 +6585,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[skɔː(r)]",
     "meaning": "n.& v. 得分，分数",
     "phrase": "learn to score",
-    "example": "The writer uses \"score\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"score\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“得分”有关的画面，再把英文 score 放进词块“learn to score”。",
     "category": "初中1000 S-U"
   },
@@ -6594,7 +6594,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[skriːn]",
     "meaning": "n. 幕，荧光屏",
     "phrase": "a screen / the screen",
-    "example": "The article uses the word \"screen\" in a real situation, so readers can connect it with the topic.",
+    "example": "The screen becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“幕”有关的画面，再把英文 screen 放进词块“a screen / the screen”。",
     "category": "初中1000 S-U"
   },
@@ -6603,7 +6603,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[siː]",
     "meaning": "n. 海，海洋",
     "phrase": "a sea / the sea",
-    "example": "The article uses the word \"sea\" in a real situation, so readers can connect it with the topic.",
+    "example": "A change in the sea can affect people, plants, and animals around us.",
     "mnemonic": "场景钩子：先想一个和“海”有关的画面，再把英文 sea 放进词块“a sea / the sea”。",
     "category": "初中1000 S-U"
   },
@@ -6612,7 +6612,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sɜːtʃ]",
     "meaning": "n.& v. 搜寻，搜查",
     "phrase": "learn to search",
-    "example": "The writer uses \"search\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"search\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“搜寻”有关的画面，再把英文 search 放进词块“learn to search”。",
     "category": "初中1000 S-U"
   },
@@ -6621,7 +6621,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsiːz(ə)n]",
     "meaning": "n. 季；季节",
     "phrase": "a season / the season",
-    "example": "The article uses the word \"season\" in a real situation, so readers can connect it with the topic.",
+    "example": "At the beginning of the season, the family makes a new plan.",
     "mnemonic": "场景钩子：先想一个和“季”有关的画面，再把英文 season 放进词块“a season / the season”。",
     "category": "初中1000 S-U"
   },
@@ -6630,7 +6630,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[siːt]",
     "meaning": "n. 座位，座",
     "phrase": "a seat / the seat",
-    "example": "The article uses the word \"seat\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the seat because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“座位”有关的画面，再把英文 seat 放进词块“a seat / the seat”。",
     "category": "初中1000 S-U"
   },
@@ -6639,7 +6639,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsekənd]",
     "meaning": "n.秒 num.第二a.第二的",
     "phrase": "grammar signal: second",
-    "example": "Read the whole sentence, because \"second\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"second\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“秒第二a.第二的”有关的画面，再把英文 second 放进词块“grammar signal: second”。",
     "category": "初中1000 S-U"
   },
@@ -6647,9 +6647,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "secure",
     "phonetic": "[sɪˈkjʊə(r)]",
     "meaning": "a.安心的,有把握的,牢靠的",
-    "phrase": "a secure situation",
-    "example": "The passage describes a secure situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“安心的”有关的画面，再把英文 secure 放进词块“a secure situation”。",
+    "phrase": "a secure detail",
+    "example": "A secure detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“安心的”有关的画面，再把英文 secure 放进词块“a secure detail”。",
     "category": "初中1000 S-U"
   },
   {
@@ -6657,7 +6657,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[siːm]",
     "meaning": "v. 似乎，好像",
     "phrase": "learn to seem",
-    "example": "The writer uses \"seem\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"seem\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“似乎”有关的画面，再把英文 seem 放进词块“learn to seem”。",
     "category": "初中1000 S-U"
   },
@@ -6666,7 +6666,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sɪˈlekt]",
     "meaning": "vt. 选择，挑选，选拔",
     "phrase": "select a decision",
-    "example": "In a difficult moment, people may need to select a decision carefully.",
+    "example": "During the discussion, the group tries to select a decision with clear reasons.",
     "mnemonic": "场景钩子：先想一个和“选择”有关的画面，再把英文 select 放进词块“select a decision”。",
     "category": "初中1000 S-U"
   },
@@ -6675,7 +6675,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[self]",
     "meaning": "n. 自己，自我，自身",
     "phrase": "a self / the self",
-    "example": "The article uses the word \"self\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the self to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“自己”有关的画面，再把英文 self 放进词块“a self / the self”。",
     "category": "初中1000 S-U"
   },
@@ -6683,9 +6683,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "senior",
     "phonetic": "[ˈsiːnɪə(r)]",
     "meaning": "a. 年长的,资深的,高年级的 n. 上级，长辈，高年级生",
-    "phrase": "a senior situation",
-    "example": "The passage describes a senior situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“年长的”有关的画面，再把英文 senior 放进词块“a senior situation”。",
+    "phrase": "a senior room",
+    "example": "A senior room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“年长的”有关的画面，再把英文 senior 放进词块“a senior room”。",
     "category": "初中1000 S-U"
   },
   {
@@ -6693,7 +6693,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sens]",
     "meaning": "n. 感觉，意识",
     "phrase": "a sense / the sense",
-    "example": "The article uses the word \"sense\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the sense to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“感觉”有关的画面，再把英文 sense 放进词块“a sense / the sense”。",
     "category": "初中1000 S-U"
   },
@@ -6701,9 +6701,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "serious",
     "phonetic": "[ˈsɪərɪəs]",
     "meaning": "a.严肃的,严重的,认真的",
-    "phrase": "a serious situation",
-    "example": "The passage describes a serious situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：ous 常表示“具有……性质”。把 serious 放进“a serious situation”里记，核心义锁定为“严肃的”。",
+    "phrase": "a serious detail",
+    "example": "A serious detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：ous 常表示“具有……性质”。把 serious 放进“a serious detail”里记，核心义锁定为“严肃的”。",
     "category": "初中1000 S-U"
   },
   {
@@ -6711,7 +6711,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsɜːvɪs]",
     "meaning": "n. 服务",
     "phrase": "a service / the service",
-    "example": "The article uses the word \"service\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the service because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“服务”有关的画面，再把英文 service 放进词块“a service / the service”。",
     "category": "初中1000 S-U"
   },
@@ -6720,7 +6720,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsev(ə)n]",
     "meaning": "num. 七",
     "phrase": "grammar signal: seven",
-    "example": "Read the whole sentence, because \"seven\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"seven\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“七”有关的画面，再把英文 seven 放进词块“grammar signal: seven”。",
     "category": "初中1000 S-U"
   },
@@ -6729,7 +6729,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsevr(ə)l]",
     "meaning": "pron. 几个,数个 a.若干",
     "phrase": "grammar signal: several",
-    "example": "Read the whole sentence, because \"several\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"several\" shows the relationship between two parts of the sentence.",
     "mnemonic": "词形钩子：al 常把名词变形容词。把 several 放进“grammar signal: several”里记，核心义锁定为“几个”。",
     "category": "初中1000 S-U"
   },
@@ -6738,7 +6738,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[seks]",
     "meaning": "n. 性，性别",
     "phrase": "a sex / the sex",
-    "example": "The article uses the word \"sex\" in a real situation, so readers can connect it with the topic.",
+    "example": "The sex becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“性”有关的画面，再把英文 sex 放进词块“a sex / the sex”。",
     "category": "初中1000 S-U"
   },
@@ -6747,7 +6747,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʃeə(r)]",
     "meaning": "vt. 分享，共同使用",
     "phrase": "learn to share",
-    "example": "The writer uses \"share\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"share\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“分享”有关的画面，再把英文 share 放进词块“learn to share”。",
     "category": "初中1000 S-U"
   },
@@ -6756,7 +6756,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʃiː]",
     "meaning": "pron. 她",
     "phrase": "grammar signal: she",
-    "example": "Read the whole sentence, because \"she\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"she\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“她”有关的画面，再把英文 she 放进词块“grammar signal: she”。",
     "category": "初中1000 S-U"
   },
@@ -6765,7 +6765,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʃiːt]",
     "meaning": "n. 成幅的薄片，薄板",
     "phrase": "a sheet / the sheet",
-    "example": "The article uses the word \"sheet\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the sheet because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“成幅的薄片”有关的画面，再把英文 sheet 放进词块“a sheet / the sheet”。",
     "category": "初中1000 S-U"
   },
@@ -6773,9 +6773,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "ship",
     "phonetic": "[ʃɪp]",
     "meaning": "n. 船，轮船 vi. 用船装运",
-    "phrase": "ship naturally / ship in a situation",
-    "example": "In the story, people ship when the situation suddenly changes.",
-    "mnemonic": "场景钩子：先想一个和“船”有关的画面，再把英文 ship 放进词块“ship naturally / ship in a situation”。",
+    "phrase": "a ship / the ship",
+    "example": "The ship becomes important when the characters have to make a difficult choice.",
+    "mnemonic": "场景钩子：先想一个和“船”有关的画面，再把英文 ship 放进词块“a ship / the ship”。",
     "category": "初中1000 S-U"
   },
   {
@@ -6783,7 +6783,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʃɜːt]",
     "meaning": "vn. 男衬衫",
     "phrase": "shirt in a real sentence",
-    "example": "Use \"shirt\" in one short sentence, then explain the sentence in your own words.",
+    "example": "The sentence with \"shirt\" gives a clear clue to the meaning, so read it aloud before answering.",
     "mnemonic": "场景钩子：先想一个和“n.男衬衫”有关的画面，再把英文 shirt 放进词块“shirt in a real sentence”。",
     "category": "初中1000 S-U"
   },
@@ -6792,7 +6792,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʃɔp]",
     "meaning": "vi. 买东西 n. 商店,车间",
     "phrase": "shop naturally / shop in a situation",
-    "example": "In the story, people shop when the situation suddenly changes.",
+    "example": "In a story or report, \"shop\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“买东西商店”有关的画面，再把英文 shop 放进词块“shop naturally / shop in a situation”。",
     "category": "初中1000 S-U"
   },
@@ -6801,7 +6801,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈʃɔpɪŋ]",
     "meaning": "n. 买东西",
     "phrase": "a shopping / the shopping",
-    "example": "The article uses the word \"shopping\" in a real situation, so readers can connect it with the topic.",
+    "example": "The shopping becomes important when the characters have to make a difficult choice.",
     "mnemonic": "拆音节钩子：把 shopping 拆成 sho-ppi-ng，边读边写，再回到词块“a shopping / the shopping”。",
     "category": "初中1000 S-U"
   },
@@ -6809,9 +6809,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "short",
     "phonetic": "[ʃɔːt]",
     "meaning": "a. 短的；矮的",
-    "phrase": "a short situation",
-    "example": "The passage describes a short situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“短的”有关的画面，再把英文 short 放进词块“a short situation”。",
+    "phrase": "a short room",
+    "example": "A short room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“短的”有关的画面，再把英文 short 放进词块“a short room”。",
     "category": "初中1000 S-U"
   },
   {
@@ -6819,7 +6819,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʃɔt]",
     "meaning": "n. 射击，开枪，开炮，射击声；子弹",
     "phrase": "a shot / the shot",
-    "example": "The article uses the word \"shot\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the shot to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“射击”有关的画面，再把英文 shot 放进词块“a shot / the shot”。",
     "category": "初中1000 S-U"
   },
@@ -6828,7 +6828,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʃɔt]",
     "meaning": "v. mod. 应当，应该，会 v. aux.会,应该（shall的过去时态）",
     "phrase": "grammar signal: should",
-    "example": "Read the whole sentence, because \"should\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"should\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“mod.应当”有关的画面，再把英文 should 放进词块“grammar signal: should”。",
     "category": "初中1000 S-U"
   },
@@ -6837,7 +6837,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʃəʊ]",
     "meaning": "n. 展示,展览（会）;演出",
     "phrase": "a show / the show",
-    "example": "The article uses the word \"show\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the show because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“展示”有关的画面，再把英文 show 放进词块“a show / the show”。",
     "category": "初中1000 S-U"
   },
@@ -6846,7 +6846,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsɪknɪs]",
     "meaning": "n. 边，旁边，面，侧面",
     "phrase": "a side / the side",
-    "example": "The article uses the word \"side\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the side because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“边”有关的画面，再把英文 side 放进词块“a side / the side”。",
     "category": "初中1000 S-U"
   },
@@ -6855,7 +6855,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[saɪn]",
     "meaning": "n. 符号，标记",
     "phrase": "a sign / the sign",
-    "example": "The article uses the word \"sign\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the sign because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“符号”有关的画面，再把英文 sign 放进词块“a sign / the sign”。",
     "category": "初中1000 S-U"
   },
@@ -6864,7 +6864,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsɪlvə(r)]",
     "meaning": "n. 银",
     "phrase": "a silver / the silver",
-    "example": "The article uses the word \"silver\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the silver because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“银”有关的画面，再把英文 silver 放进词块“a silver / the silver”。",
     "category": "初中1000 S-U"
   },
@@ -6872,18 +6872,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "similar",
     "phonetic": "[ˈsɪmɪlə(r)]",
     "meaning": "a. 相似的，像",
-    "phrase": "a similar situation",
-    "example": "The passage describes a similar situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“相似的”有关的画面，再把英文 similar 放进词块“a similar situation”。",
+    "phrase": "a similar detail",
+    "example": "A similar detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“相似的”有关的画面，再把英文 similar 放进词块“a similar detail”。",
     "category": "初中1000 S-U"
   },
   {
     "word": "simple",
     "phonetic": "[ˈsɪmp(ə)l]",
     "meaning": "a. 简单的，简易的",
-    "phrase": "a simple situation",
-    "example": "The passage describes a simple situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“简单的”有关的画面，再把英文 simple 放进词块“a simple situation”。",
+    "phrase": "a simple detail",
+    "example": "A simple detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“简单的”有关的画面，再把英文 simple 放进词块“a simple detail”。",
     "category": "初中1000 S-U"
   },
   {
@@ -6891,7 +6891,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsɪmplɪ]",
     "meaning": "ad.简单地,(加强语气)的确",
     "phrase": "simply + action",
-    "example": "The speaker acted simply, and the listener noticed the change at once.",
+    "example": "The boy walks simply across the room so he will not wake the baby.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 simply 放进“simply + action”里记，核心义锁定为“简单地”。",
     "category": "初中1000 S-U"
   },
@@ -6900,7 +6900,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sɪns]",
     "meaning": "ad. 从那时以来 conj. 从…以来，…以后，由于 prep. 从…以来",
     "phrase": "grammar signal: since",
-    "example": "Read the whole sentence, because \"since\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"since\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“从那时以来从…以来”有关的画面，再把英文 since 放进词块“grammar signal: since”。",
     "category": "初中1000 S-U"
   },
@@ -6908,9 +6908,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "single",
     "phonetic": "[ˈsɪŋɡ(ə)l]",
     "meaning": "a. 单一的，单个的",
-    "phrase": "a single situation",
-    "example": "The passage describes a single situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“单一的”有关的画面，再把英文 single 放进词块“a single situation”。",
+    "phrase": "a single detail",
+    "example": "A single detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“单一的”有关的画面，再把英文 single 放进词块“a single detail”。",
     "category": "初中1000 S-U"
   },
   {
@@ -6918,7 +6918,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sɪks]",
     "meaning": "num. 六",
     "phrase": "grammar signal: six",
-    "example": "Read the whole sentence, because \"six\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"six\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“六”有关的画面，再把英文 six 放进词块“grammar signal: six”。",
     "category": "初中1000 S-U"
   },
@@ -6927,7 +6927,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sɪksˈtiːnθ]",
     "meaning": "n. 尺寸，大小",
     "phrase": "a size / the size",
-    "example": "The article uses the word \"size\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the size helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“尺寸”有关的画面，再把英文 size 放进词块“a size / the size”。",
     "category": "初中1000 S-U"
   },
@@ -6936,7 +6936,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[skiː]",
     "meaning": "n.& vi. 滑雪板；滑雪",
     "phrase": "ski naturally / ski in a situation",
-    "example": "In the story, people ski when the situation suddenly changes.",
+    "example": "Read the words around \"ski\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“滑雪板”有关的画面，再把英文 ski 放进词块“ski naturally / ski in a situation”。",
     "category": "初中1000 S-U"
   },
@@ -6945,7 +6945,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[skɪn]",
     "meaning": "n. 皮，皮肤；兽皮",
     "phrase": "a skin / the skin",
-    "example": "The article uses the word \"skin\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the skin because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“皮”有关的画面，再把英文 skin 放进词块“a skin / the skin”。",
     "category": "初中1000 S-U"
   },
@@ -6954,7 +6954,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[skɪp]",
     "meaning": "v. 蹦蹦跳跳；跳绳",
     "phrase": "learn to skip",
-    "example": "The writer uses \"skip\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"skip\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“蹦蹦跳跳”有关的画面，再把英文 skip 放进词块“learn to skip”。",
     "category": "初中1000 S-U"
   },
@@ -6962,9 +6962,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "small",
     "phonetic": "[smɔːl]",
     "meaning": "a. 小的，少的",
-    "phrase": "a small situation",
-    "example": "The passage describes a small situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“小的”有关的画面，再把英文 small 放进词块“a small situation”。",
+    "phrase": "a small room",
+    "example": "A small room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“小的”有关的画面，再把英文 small 放进词块“a small room”。",
     "category": "初中1000 S-U"
   },
   {
@@ -6972,7 +6972,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[snəʊ]",
     "meaning": "n. 雪 vi.下雪",
     "phrase": "snow naturally / snow in a situation",
-    "example": "In the story, people snow when the situation suddenly changes.",
+    "example": "Read the words around \"snow\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“雪下雪”有关的画面，再把英文 snow 放进词块“snow naturally / snow in a situation”。",
     "category": "初中1000 S-U"
   },
@@ -6981,7 +6981,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[səʊ]",
     "meaning": "ad. 如此，这么；非常；同样 conj. 因此，所以",
     "phrase": "grammar signal: so",
-    "example": "Read the whole sentence, because \"so\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"so\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“如此”有关的画面，再把英文 so 放进词块“grammar signal: so”。",
     "category": "初中1000 S-U"
   },
@@ -6989,9 +6989,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "social",
     "phonetic": "[ˈsəʊʃ(ə)l]",
     "meaning": "a. 社会的；社交的",
-    "phrase": "a social situation",
-    "example": "The passage describes a social situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 social 放进“a social situation”里记，核心义锁定为“社会的”。",
+    "phrase": "a social detail",
+    "example": "A social detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 social 放进“a social detail”里记，核心义锁定为“社会的”。",
     "category": "初中1000 S-U"
   },
   {
@@ -6999,7 +6999,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[səˈsaɪətɪ]",
     "meaning": "n. 社会",
     "phrase": "a society / the society",
-    "example": "The article uses the word \"society\" in a real situation, so readers can connect it with the topic.",
+    "example": "The society becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“社会”有关的画面，再把英文 society 放进词块“a society / the society”。",
     "category": "初中1000 S-U"
   },
@@ -7008,7 +7008,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sɔft; (US) sɔːft]",
     "meaning": "n. 软件",
     "phrase": "a software / the software",
-    "example": "The article uses the word \"software\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the software helps explain what happened and why it matters.",
     "mnemonic": "拆音节钩子：把 software 拆成 sof-twa-re，边读边写，再回到词块“a software / the software”。",
     "category": "初中1000 S-U"
   },
@@ -7017,7 +7017,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sʌm]",
     "meaning": "a. 一些，若干；有些；某一 pron. 若干，一些",
     "phrase": "grammar signal: some",
-    "example": "Read the whole sentence, because \"some\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"some\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“一些”有关的画面，再把英文 some 放进词块“grammar signal: some”。",
     "category": "初中1000 S-U"
   },
@@ -7026,7 +7026,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsʌmwʌn]",
     "meaning": "pron. 某一个人",
     "phrase": "grammar signal: someone",
-    "example": "Read the whole sentence, because \"someone\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"someone\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“某一个人”有关的画面，再把英文 someone 放进词块“grammar signal: someone”。",
     "category": "初中1000 S-U"
   },
@@ -7035,7 +7035,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsʌmθɪŋ]",
     "meaning": "pron. 某事；某物",
     "phrase": "grammar signal: something",
-    "example": "Read the whole sentence, because \"something\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"something\" is removed, so it deserves attention in reading.",
     "mnemonic": "拆音节钩子：把 something 拆成 som-eth-ing，边读边写，再回到词块“grammar signal: something”。",
     "category": "初中1000 S-U"
   },
@@ -7044,7 +7044,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sʌn]",
     "meaning": "n. 儿子",
     "phrase": "a son / the son",
-    "example": "The article uses the word \"son\" in a real situation, so readers can connect it with the topic.",
+    "example": "The son becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“儿子”有关的画面，再把英文 son 放进词块“a son / the son”。",
     "category": "初中1000 S-U"
   },
@@ -7053,7 +7053,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sʌn]",
     "meaning": "n. 歌唱；歌曲",
     "phrase": "a song / the song",
-    "example": "The article uses the word \"song\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the song helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“歌唱”有关的画面，再把英文 song 放进词块“a song / the song”。",
     "category": "初中1000 S-U"
   },
@@ -7062,7 +7062,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sʌn]",
     "meaning": "ad. 不久,很快,一会儿",
     "phrase": "soon + action",
-    "example": "The speaker acted soon, and the listener noticed the change at once.",
+    "example": "She answers soon after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“不久”有关的画面，再把英文 soon 放进词块“soon + action”。",
     "category": "初中1000 S-U"
   },
@@ -7071,7 +7071,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sɔːt]",
     "meaning": "v]",
     "phrase": "sort in a real sentence",
-    "example": "Use \"sort\" in one short sentence, then explain the sentence in your own words.",
+    "example": "The sentence with \"sort\" gives a clear clue to the meaning, so read it aloud before answering.",
     "mnemonic": "场景钩子：先想一个和“]”有关的画面，再把英文 sort 放进词块“sort in a real sentence”。",
     "category": "初中1000 S-U"
   },
@@ -7080,7 +7080,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[səʊl]",
     "meaning": "n. 灵魂；心灵；气魄",
     "phrase": "a soul / the soul",
-    "example": "The article uses the word \"soul\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the soul helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“灵魂”有关的画面，再把英文 soul 放进词块“a soul / the soul”。",
     "category": "初中1000 S-U"
   },
@@ -7089,7 +7089,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[saʊnd]",
     "meaning": "vi.听起来,发出声音n.声音",
     "phrase": "sound naturally / sound in a situation",
-    "example": "In the story, people sound when the situation suddenly changes.",
+    "example": "When readers meet \"sound\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“听起来”有关的画面，再把英文 sound 放进词块“sound naturally / sound in a situation”。",
     "category": "初中1000 S-U"
   },
@@ -7098,7 +7098,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsaʊə(r)]",
     "meaning": "a. 南(方)的；向南的；从南来的 ad. 在南方；向南方；自南方 n. 南；南方；南风；南部",
     "phrase": "south + action",
-    "example": "The speaker acted south, and the listener noticed the change at once.",
+    "example": "Good writers use details south to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“南方的”有关的画面，再把英文 south 放进词块“south + action”。",
     "category": "初中1000 S-U"
   },
@@ -7106,9 +7106,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "southern",
     "phonetic": "[ˈsʌð(ə)n]",
     "meaning": "a. 南部的，南方的",
-    "phrase": "a southern situation",
-    "example": "The passage describes a southern situation and gives details to support the idea.",
-    "mnemonic": "拆音节钩子：把 southern 拆成 sou-the-rn，边读边写，再回到词块“a southern situation”。",
+    "phrase": "a southern detail",
+    "example": "A southern detail helps readers picture the scene more clearly.",
+    "mnemonic": "拆音节钩子：把 southern 拆成 sou-the-rn，边读边写，再回到词块“a southern detail”。",
     "category": "初中1000 S-U"
   },
   {
@@ -7116,7 +7116,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[speɪs]",
     "meaning": "n. 空间",
     "phrase": "a space / the space",
-    "example": "The article uses the word \"space\" in a real situation, so readers can connect it with the topic.",
+    "example": "The space becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“空间”有关的画面，再把英文 space 放进词块“a space / the space”。",
     "category": "初中1000 S-U"
   },
@@ -7124,18 +7124,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "special",
     "phonetic": "[ˈspeʃ(ə)l]",
     "meaning": "a. 特别的，专门的",
-    "phrase": "a special situation",
-    "example": "The passage describes a special situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 special 放进“a special situation”里记，核心义锁定为“特别的”。",
+    "phrase": "a special detail",
+    "example": "A special detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 special 放进“a special detail”里记，核心义锁定为“特别的”。",
     "category": "初中1000 S-U"
   },
   {
     "word": "specific",
     "phonetic": "[spɪˈsɪfɪk]",
     "meaning": "a.明确的,具体的,独特的",
-    "phrase": "a specific situation",
-    "example": "The passage describes a specific situation and gives details to support the idea.",
-    "mnemonic": "拆音节钩子：把 specific 拆成 spe-cif-ic，边读边写，再回到词块“a specific situation”。",
+    "phrase": "a specific answer",
+    "example": "A specific answer shows that the student has understood the question.",
+    "mnemonic": "拆音节钩子：把 specific 拆成 spe-cif-ic，边读边写，再回到词块“a specific answer”。",
     "category": "初中1000 S-U"
   },
   {
@@ -7143,7 +7143,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[spiːd]",
     "meaning": "n. 速度 v. （使）加速",
     "phrase": "speed the process",
-    "example": "In a difficult moment, people may need to speed the process carefully.",
+    "example": "A careful student will speed the process before writing the final answer.",
     "mnemonic": "场景钩子：先想一个和“速度使加速”有关的画面，再把英文 speed 放进词块“speed the process”。",
     "category": "初中1000 S-U"
   },
@@ -7152,7 +7152,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[spɔːt]",
     "meaning": "vn. 体育运动，锻炼；(复，英)运动会",
     "phrase": "sport in a real sentence",
-    "example": "Use \"sport\" in one short sentence, then explain the sentence in your own words.",
+    "example": "The sentence with \"sport\" gives a clear clue to the meaning, so read it aloud before answering.",
     "mnemonic": "场景钩子：先想一个和“n.体育运动”有关的画面，再把英文 sport 放进词块“sport in a real sentence”。",
     "category": "初中1000 S-U"
   },
@@ -7161,7 +7161,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sprɪŋ]",
     "meaning": "n. 春天,春季 n. 泉水,泉",
     "phrase": "a spring / the spring",
-    "example": "The article uses the word \"spring\" in a real situation, so readers can connect it with the topic.",
+    "example": "The writer describes the spring so clearly that readers can picture the scene.",
     "mnemonic": "场景钩子：先想一个和“春天”有关的画面，再把英文 spring 放进词块“a spring / the spring”。",
     "category": "初中1000 S-U"
   },
@@ -7169,9 +7169,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "square",
     "phonetic": "[skweə(r)]",
     "meaning": "n. 广场 a. 平方的；方形的，宽而结实的（体格，肩膀）",
-    "phrase": "a square situation",
-    "example": "The passage describes a square situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“广场平方的”有关的画面，再把英文 square 放进词块“a square situation”。",
+    "phrase": "a square room",
+    "example": "A square room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“广场平方的”有关的画面，再把英文 square 放进词块“a square room”。",
     "category": "初中1000 S-U"
   },
   {
@@ -7179,7 +7179,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[stɑːf]",
     "meaning": "n. 全体职工（雇员）",
     "phrase": "a staff / the staff",
-    "example": "The article uses the word \"staff\" in a real situation, so readers can connect it with the topic.",
+    "example": "The staff becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“全体职工雇员”有关的画面，再把英文 staff 放进词块“a staff / the staff”。",
     "category": "初中1000 S-U"
   },
@@ -7188,7 +7188,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[steɪdʒ]",
     "meaning": "n. 舞台；阶段",
     "phrase": "a stage / the stage",
-    "example": "The article uses the word \"stage\" in a real situation, so readers can connect it with the topic.",
+    "example": "The stage becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“舞台”有关的画面，再把英文 stage 放进词块“a stage / the stage”。",
     "category": "初中1000 S-U"
   },
@@ -7197,7 +7197,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[stænd]",
     "meaning": "n. 站；立；停止；立场；地位；台；坛；摊",
     "phrase": "a stand / the stand",
-    "example": "The article uses the word \"stand\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the stand to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“站”有关的画面，再把英文 stand 放进词块“a stand / the stand”。",
     "category": "初中1000 S-U"
   },
@@ -7205,9 +7205,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "standard",
     "phonetic": "[ˈstændəd]",
     "meaning": "n. & a. 标准（的）",
-    "phrase": "a standard situation",
-    "example": "The passage describes a standard situation and gives details to support the idea.",
-    "mnemonic": "拆音节钩子：把 standard 拆成 sta-nda-rd，边读边写，再回到词块“a standard situation”。",
+    "phrase": "a standard detail",
+    "example": "A standard detail helps readers picture the scene more clearly.",
+    "mnemonic": "拆音节钩子：把 standard 拆成 sta-nda-rd，边读边写，再回到词块“a standard detail”。",
     "category": "初中1000 S-U"
   },
   {
@@ -7215,7 +7215,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[stɑː(r)]",
     "meaning": "n. 星，恒星",
     "phrase": "a star / the star",
-    "example": "The article uses the word \"star\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the star to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“星”有关的画面，再把英文 star 放进词块“a star / the star”。",
     "category": "初中1000 S-U"
   },
@@ -7224,7 +7224,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[stɑːt]",
     "meaning": "v. 开始，着手；出发",
     "phrase": "learn to start",
-    "example": "The writer uses \"start\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"start\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“开始”有关的画面，再把英文 start 放进词块“learn to start”。",
     "category": "初中1000 S-U"
   },
@@ -7233,7 +7233,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[steɪt]",
     "meaning": "n. 状态； 情形；国家，（美国的）州",
     "phrase": "a state / the state",
-    "example": "The article uses the word \"state\" in a real situation, so readers can connect it with the topic.",
+    "example": "The map shows the state and explains why it matters to the journey.",
     "mnemonic": "场景钩子：先想一个和“状态”有关的画面，再把英文 state 放进词块“a state / the state”。",
     "category": "初中1000 S-U"
   },
@@ -7242,7 +7242,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[stəˈtɪstɪks]",
     "meaning": "n. 统计数字，统计资料，统计学",
     "phrase": "a statistics / the statistics",
-    "example": "The article uses the word \"statistics\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the statistics helps explain what happened and why it matters.",
     "mnemonic": "拆音节钩子：把 statistics 拆成 sta-tis-tic-s，边读边写，再回到词块“a statistics / the statistics”。",
     "category": "初中1000 S-U"
   },
@@ -7251,7 +7251,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsteɪtəs]",
     "meaning": "n. 法律地位（身份）",
     "phrase": "a status / the status",
-    "example": "The article uses the word \"status\" in a real situation, so readers can connect it with the topic.",
+    "example": "The status becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“法律地位身份”有关的画面，再把英文 status 放进词块“a status / the status”。",
     "category": "初中1000 S-U"
   },
@@ -7260,7 +7260,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[steɪ]",
     "meaning": "n.& vi. 停留，逗留，呆",
     "phrase": "stay naturally / stay in a situation",
-    "example": "In the story, people stay when the situation suddenly changes.",
+    "example": "When readers meet \"stay\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“停留”有关的画面，再把英文 stay 放进词块“stay naturally / stay in a situation”。",
     "category": "初中1000 S-U"
   },
@@ -7269,7 +7269,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[stiːl]",
     "meaning": "n. 钢，钢铁",
     "phrase": "a steel / the steel",
-    "example": "The article uses the word \"steel\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the steel because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“钢”有关的画面，再把英文 steel 放进词块“a steel / the steel”。",
     "category": "初中1000 S-U"
   },
@@ -7278,7 +7278,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[step]",
     "meaning": "n.脚步,台阶,梯级 vi.走,跨步",
     "phrase": "step naturally / step in a situation",
-    "example": "In the story, people step when the situation suddenly changes.",
+    "example": "The sentence uses \"step\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“脚步”有关的画面，再把英文 step 放进词块“step naturally / step in a situation”。",
     "category": "初中1000 S-U"
   },
@@ -7287,7 +7287,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[stɪl]",
     "meaning": "a.不动的,平静的ad.仍然,还",
     "phrase": "still + action",
-    "example": "The speaker acted still, and the listener noticed the change at once.",
+    "example": "She answers still after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“不动的”有关的画面，再把英文 still 放进词块“still + action”。",
     "category": "初中1000 S-U"
   },
@@ -7296,7 +7296,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[stəʊn]",
     "meaning": "n. 石头，石料",
     "phrase": "a stone / the stone",
-    "example": "The article uses the word \"stone\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the stone because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“石头”有关的画面，再把英文 stone 放进词块“a stone / the stone”。",
     "category": "初中1000 S-U"
   },
@@ -7305,7 +7305,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[stɔp]",
     "meaning": "n. 停；（停车）站 v. 停，停止，阻止",
     "phrase": "learn to stop",
-    "example": "The writer uses \"stop\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"stop\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“停”有关的画面，再把英文 stop 放进词块“learn to stop”。",
     "category": "初中1000 S-U"
   },
@@ -7314,7 +7314,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈstɔːrɪdʒ]",
     "meaning": "n. 贮藏； 储存",
     "phrase": "a storage / the storage",
-    "example": "The article uses the word \"storage\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the storage because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“贮藏”有关的画面，再把英文 storage 放进词块“a storage / the storage”。",
     "category": "初中1000 S-U"
   },
@@ -7323,7 +7323,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[stɔː(r)]",
     "meaning": "n. 商店 vt. 储藏，存储",
     "phrase": "learn to store",
-    "example": "The writer uses \"store\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"store\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“商店储藏”有关的画面，再把英文 store 放进词块“learn to store”。",
     "category": "初中1000 S-U"
   },
@@ -7332,7 +7332,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈstɔːrɪ]",
     "meaning": "n. 故事，小说",
     "phrase": "a story / the story",
-    "example": "The article uses the word \"story\" in a real situation, so readers can connect it with the topic.",
+    "example": "Through the story, readers understand the culture behind the story.",
     "mnemonic": "场景钩子：先想一个和“故事”有关的画面，再把英文 story 放进词块“a story / the story”。",
     "category": "初中1000 S-U"
   },
@@ -7341,7 +7341,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[striːt]",
     "meaning": "n. 街，街道",
     "phrase": "a street / the street",
-    "example": "The article uses the word \"street\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the street helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“街”有关的画面，再把英文 street 放进词块“a street / the street”。",
     "category": "初中1000 S-U"
   },
@@ -7350,7 +7350,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[strɪŋ]",
     "meaning": "n. 细绳，线，带",
     "phrase": "a string / the string",
-    "example": "The article uses the word \"string\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the string helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“细绳”有关的画面，再把英文 string 放进词块“a string / the string”。",
     "category": "初中1000 S-U"
   },
@@ -7358,9 +7358,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "strong",
     "phonetic": "[strɔŋ; (US) strɔːɡ]",
     "meaning": "a. 强(壮)的；坚固的；强烈的；坚强的",
-    "phrase": "a strong situation",
-    "example": "The passage describes a strong situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“强壮的”有关的画面，再把英文 strong 放进词块“a strong situation”。",
+    "phrase": "a strong detail",
+    "example": "A strong detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“强壮的”有关的画面，再把英文 strong 放进词块“a strong detail”。",
     "category": "初中1000 S-U"
   },
   {
@@ -7377,7 +7377,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈstjuːdɪəʊ]",
     "meaning": "n. 工作室，演播室",
     "phrase": "a studio / the studio",
-    "example": "The article uses the word \"studio\" in a real situation, so readers can connect it with the topic.",
+    "example": "The studio becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“工作室”有关的画面，再把英文 studio 放进词块“a studio / the studio”。",
     "category": "初中1000 S-U"
   },
@@ -7386,7 +7386,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈstʌdɪ]",
     "meaning": "v. 学习；研究 n. 书房",
     "phrase": "study knowledge",
-    "example": "In a difficult moment, people may need to study knowledge carefully.",
+    "example": "A careful student will study knowledge before writing the final answer.",
     "mnemonic": "场景钩子：先想一个和“学习”有关的画面，再把英文 study 放进词块“study knowledge”。",
     "category": "初中1000 S-U"
   },
@@ -7395,7 +7395,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[staɪl]",
     "meaning": "n. 方式，作风，款式",
     "phrase": "a style / the style",
-    "example": "The article uses the word \"style\" in a real situation, so readers can connect it with the topic.",
+    "example": "The style outside the village makes the morning feel quiet and bright.",
     "mnemonic": "场景钩子：先想一个和“方式”有关的画面，再把英文 style 放进词块“a style / the style”。",
     "category": "初中1000 S-U"
   },
@@ -7403,9 +7403,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "subject",
     "phonetic": "[ˈsʌbdʒɪkt]",
     "meaning": "a. 隶属的；受支配的；易受…的；在…条件下 vt. 使隶属；使服从；使受到 n. 题目；主题；学科；主语；主体",
-    "phrase": "a subject situation",
-    "example": "The passage describes a subject situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：sub 表示“在下/次级”。把 subject 放进“a subject situation”里记，核心义锁定为“隶属的”。",
+    "phrase": "a subject detail",
+    "example": "A subject detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：sub 表示“在下/次级”。把 subject 放进“a subject detail”里记，核心义锁定为“隶属的”。",
     "category": "初中1000 S-U"
   },
   {
@@ -7413,7 +7413,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[səbˈmɪt]",
     "meaning": "v. 提交，呈递（文件，建议等）",
     "phrase": "learn to submit",
-    "example": "The writer uses \"submit\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"submit\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“提交”有关的画面，再把英文 submit 放进词块“learn to submit”。",
     "category": "初中1000 S-U"
   },
@@ -7422,7 +7422,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[səbˈskraɪb]",
     "meaning": "v.订阅,订购（报刊等）",
     "phrase": "learn to subscribe",
-    "example": "The writer uses \"subscribe\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"subscribe\" helps describe what happens next.",
     "mnemonic": "词形钩子：sub 表示“在下/次级”。把 subscribe 放进“learn to subscribe”里记，核心义锁定为“订阅”。",
     "category": "初中1000 S-U"
   },
@@ -7431,7 +7431,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[səkˈses]",
     "meaning": "n. 成功",
     "phrase": "a success / the success",
-    "example": "The article uses the word \"success\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the success because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“成功”有关的画面，再把英文 success 放进词块“a success / the success”。",
     "category": "初中1000 S-U"
   },
@@ -7440,7 +7440,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sʌtʃ]",
     "meaning": "ad. 那么 pron. （泛指）人，事物 a.这样的，那样的",
     "phrase": "grammar signal: such",
-    "example": "Read the whole sentence, because \"such\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"such\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“那么泛指人”有关的画面，再把英文 such 放进词块“grammar signal: such”。",
     "category": "初中1000 S-U"
   },
@@ -7458,7 +7458,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[swiːt]",
     "meaning": "n. 套间；组曲",
     "phrase": "a suite / the suite",
-    "example": "The article uses the word \"suite\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the suite to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“套间”有关的画面，再把英文 suite 放进词块“a suite / the suite”。",
     "category": "初中1000 S-U"
   },
@@ -7467,7 +7467,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsʌmə(r)]",
     "meaning": "n. 夏天，夏季",
     "phrase": "a summer / the summer",
-    "example": "The article uses the word \"summer\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the summer because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“夏天”有关的画面，再把英文 summer 放进词块“a summer / the summer”。",
     "category": "初中1000 S-U"
   },
@@ -7476,7 +7476,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[sʌn]",
     "meaning": "n. 太阳，阳光",
     "phrase": "a sun / the sun",
-    "example": "The article uses the word \"sun\" in a real situation, so readers can connect it with the topic.",
+    "example": "The sun outside the village makes the morning feel quiet and bright.",
     "mnemonic": "场景钩子：先想一个和“太阳”有关的画面，再把英文 sun 放进词块“a sun / the sun”。",
     "category": "初中1000 S-U"
   },
@@ -7484,9 +7484,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "super",
     "phonetic": "[ˈsuːpə(r), ˈsjuːpə(r)]",
     "meaning": "a. 顶好的，超级的",
-    "phrase": "a super situation",
-    "example": "The passage describes a super situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“顶好的”有关的画面，再把英文 super 放进词块“a super situation”。",
+    "phrase": "a super detail",
+    "example": "A super detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“顶好的”有关的画面，再把英文 super 放进词块“a super detail”。",
     "category": "初中1000 S-U"
   },
   {
@@ -7494,7 +7494,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[səˈplaɪ]",
     "meaning": "vt.& n. 供给，供应",
     "phrase": "learn to supply",
-    "example": "The writer uses \"supply\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"supply\", they should ask who does the action and why it matters.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 supply 放进“learn to supply”里记，核心义锁定为“供给”。",
     "category": "初中1000 S-U"
   },
@@ -7512,7 +7512,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʃʊə(r), ʃɔː(r)]",
     "meaning": "a. 确信，肯定 ad. (口语)的确，一定，当然",
     "phrase": "sure + action",
-    "example": "The speaker acted sure, and the listener noticed the change at once.",
+    "example": "She answers sure after listening to the whole question.",
     "mnemonic": "场景钩子：先想一个和“确信”有关的画面，再把英文 sure 放进词块“sure + action”。",
     "category": "初中1000 S-U"
   },
@@ -7521,7 +7521,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[səˈpraɪz]",
     "meaning": "vt. 使惊奇,使诧异 n. 惊奇,诧异",
     "phrase": "learn to surprise",
-    "example": "The writer uses \"surprise\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"surprise\", they should ask who does the action and why it matters.",
     "mnemonic": "拆音节钩子：把 surprise 拆成 sur-pri-se，边读边写，再回到词块“learn to surprise”。",
     "category": "初中1000 S-U"
   },
@@ -7530,7 +7530,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[swɪtʃ]",
     "meaning": "v./ n. 开关,转换,改变",
     "phrase": "learn to switch",
-    "example": "The writer uses \"switch\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"switch\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“开关”有关的画面，再把英文 switch 放进词块“learn to switch”。",
     "category": "初中1000 S-U"
   },
@@ -7539,7 +7539,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈsɪstəm]",
     "meaning": "n. 体系；系统",
     "phrase": "a system / the system",
-    "example": "The article uses the word \"system\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the system because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“体系”有关的画面，再把英文 system 放进词块“a system / the system”。",
     "category": "初中1000 S-U"
   },
@@ -7548,7 +7548,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈteɪb(ə)l]",
     "meaning": "n. 桌子，表格",
     "phrase": "a table / the table",
-    "example": "The article uses the word \"table\" in a real situation, so readers can connect it with the topic.",
+    "example": "The table becomes important when the characters have to make a difficult choice.",
     "mnemonic": "词形钩子：able 表示“能够/可以”。把 table 放进“a table / the table”里记，核心义锁定为“桌子”。",
     "category": "初中1000 S-U"
   },
@@ -7557,7 +7557,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tɔːk]",
     "meaning": "n.& v.谈话,讲话,演讲,交谈",
     "phrase": "learn to talk",
-    "example": "The writer uses \"talk\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"talk\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“谈话”有关的画面，再把英文 talk 放进词块“learn to talk”。",
     "category": "初中1000 S-U"
   },
@@ -7566,7 +7566,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[teɪp]",
     "meaning": "n. 磁带；录音带",
     "phrase": "a tape / the tape",
-    "example": "The article uses the word \"tape\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the tape to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“磁带”有关的画面，再把英文 tape 放进词块“a tape / the tape”。",
     "category": "初中1000 S-U"
   },
@@ -7575,7 +7575,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈtɑːɡɪt]",
     "meaning": "n./ v. 目标，把…作为攻击目标",
     "phrase": "target a goal",
-    "example": "In a difficult moment, people may need to target a goal carefully.",
+    "example": "In the passage, one small choice helps the hero target a goal.",
     "mnemonic": "场景钩子：先想一个和“目标”有关的画面，再把英文 target 放进词块“target a goal”。",
     "category": "初中1000 S-U"
   },
@@ -7584,7 +7584,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tɑːsk; (US) tæsk]",
     "meaning": "n. 任务, 工作",
     "phrase": "a task / the task",
-    "example": "The article uses the word \"task\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the task helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“任务”有关的画面，再把英文 task 放进词块“a task / the task”。",
     "category": "初中1000 S-U"
   },
@@ -7593,7 +7593,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tæks]",
     "meaning": "n. 税，税款",
     "phrase": "a tax / the tax",
-    "example": "The article uses the word \"tax\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the tax because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“税”有关的画面，再把英文 tax 放进词块“a tax / the tax”。",
     "category": "初中1000 S-U"
   },
@@ -7602,7 +7602,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tiːm]",
     "meaning": "n. 队，组",
     "phrase": "a team / the team",
-    "example": "The article uses the word \"team\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the team helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“队”有关的画面，再把英文 team 放进词块“a team / the team”。",
     "category": "初中1000 S-U"
   },
@@ -7610,9 +7610,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "technical",
     "phonetic": "[ˈteknɪk(ə)l]",
     "meaning": "a. 技术的，工艺的",
-    "phrase": "a technical situation",
-    "example": "The passage describes a technical situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 technical 放进“a technical situation”里记，核心义锁定为“技术的”。",
+    "phrase": "a technical detail",
+    "example": "A technical detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 technical 放进“a technical detail”里记，核心义锁定为“技术的”。",
     "category": "初中1000 S-U"
   },
   {
@@ -7620,7 +7620,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈtelɪɡrɑːf; (US) -ɡræf]",
     "meaning": "v. 打电话 n. 电话",
     "phrase": "learn to telephone",
-    "example": "The writer uses \"telephone\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"telephone\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "拆音节钩子：把 telephone 拆成 tel-eph-one，边读边写，再回到词块“learn to telephone”。",
     "category": "初中1000 S-U"
   },
@@ -7629,7 +7629,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ten]",
     "meaning": "num. 十",
     "phrase": "grammar signal: ten",
-    "example": "Read the whole sentence, because \"ten\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"ten\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“十”有关的画面，再把英文 ten 放进词块“grammar signal: ten”。",
     "category": "初中1000 S-U"
   },
@@ -7638,7 +7638,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tɜːm]",
     "meaning": "n. 学期;术语;条款;项",
     "phrase": "a term / the term",
-    "example": "The article uses the word \"term\" in a real situation, so readers can connect it with the topic.",
+    "example": "The term becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“学期”有关的画面，再把英文 term 放进词块“a term / the term”。",
     "category": "初中1000 S-U"
   },
@@ -7647,7 +7647,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[test]",
     "meaning": "vt.& n. 测试, 考查，试验",
     "phrase": "learn to test",
-    "example": "The writer uses \"test\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"test\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“测试”有关的画面，再把英文 test 放进词块“learn to test”。",
     "category": "初中1000 S-U"
   },
@@ -7656,7 +7656,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tekst]",
     "meaning": "n. 文本，课文",
     "phrase": "a text / the text",
-    "example": "The article uses the word \"text\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the text because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“文本”有关的画面，再把英文 text 放进词块“a text / the text”。",
     "category": "初中1000 S-U"
   },
@@ -7665,7 +7665,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ðen, ðæn]",
     "meaning": "conj. 比",
     "phrase": "grammar signal: than",
-    "example": "Read the whole sentence, because \"than\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"than\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“比”有关的画面，再把英文 than 放进词块“grammar signal: than”。",
     "category": "初中1000 S-U"
   },
@@ -7674,7 +7674,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[θæŋk]",
     "meaning": "vt. 感谢，致谢，道谢 n. （复）感谢，谢意",
     "phrase": "learn to thank",
-    "example": "The writer uses \"thank\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"thank\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“感谢”有关的画面，再把英文 thank 放进词块“learn to thank”。",
     "category": "初中1000 S-U"
   },
@@ -7683,7 +7683,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ðæt]",
     "meaning": "a.& pron.那，那个 conj. 那，那个（引导宾语从句等）ad. 那么，那样",
     "phrase": "grammar signal: that",
-    "example": "Read the whole sentence, because \"that\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"that\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“那”有关的画面，再把英文 that 放进词块“grammar signal: that”。",
     "category": "初中1000 S-U"
   },
@@ -7692,7 +7692,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ðə, ðɪ, ðiː]",
     "meaning": "art. 这（那）个,这（那）些（用于特定人或物，序数词，最高级，专有名词，世上独一 无二事物前）",
     "phrase": "grammar signal: the",
-    "example": "Read the whole sentence, because \"the\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"the\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“这那个”有关的画面，再把英文 the 放进词块“grammar signal: the”。",
     "category": "初中1000 S-U"
   },
@@ -7701,7 +7701,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ðeə(r)]",
     "meaning": "pron. 他(她,它)们的",
     "phrase": "grammar signal: their",
-    "example": "Read the whole sentence, because \"their\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"their\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“他她”有关的画面，再把英文 their 放进词块“grammar signal: their”。",
     "category": "初中1000 S-U"
   },
@@ -7710,7 +7710,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ð(ə)m, ðem]",
     "meaning": "pron. 他/她/它们（宾格）",
     "phrase": "grammar signal: them",
-    "example": "Read the whole sentence, because \"them\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"them\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“他她它们宾格”有关的画面，再把英文 them 放进词块“grammar signal: them”。",
     "category": "初中1000 S-U"
   },
@@ -7719,7 +7719,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ðen]",
     "meaning": "ad. 当时,那时,然后,那么",
     "phrase": "then + action",
-    "example": "The speaker acted then, and the listener noticed the change at once.",
+    "example": "Good writers use details then to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“当时”有关的画面，再把英文 then 放进词块“then + action”。",
     "category": "初中1000 S-U"
   },
@@ -7728,7 +7728,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ðeə(r)]",
     "meaning": "int. 那！你瞧（表示引起注意） n. 那里，那儿 ad. 在那里，往那里；（作引导词）表”存在\"",
     "phrase": "there + action",
-    "example": "The speaker acted there, and the listener noticed the change at once.",
+    "example": "Good writers use details there to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“那！你瞧表示引起注意那里”有关的画面，再把英文 there 放进词块“there + action”。",
     "category": "初中1000 S-U"
   },
@@ -7737,7 +7737,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈðeəfɔː(r)]",
     "meaning": "ad. 因此，所以",
     "phrase": "therefore + action",
-    "example": "The speaker acted therefore, and the listener noticed the change at once.",
+    "example": "The boy walks therefore across the room so he will not wake the baby.",
     "mnemonic": "拆音节钩子：把 therefore 拆成 the-ref-ore，边读边写，再回到词块“therefore + action”。",
     "category": "初中1000 S-U"
   },
@@ -7746,7 +7746,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈθɜːmɔs]",
     "meaning": "a. & pron. 这些",
     "phrase": "grammar signal: these",
-    "example": "Read the whole sentence, because \"these\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"these\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“这些”有关的画面，再把英文 these 放进词块“grammar signal: these”。",
     "category": "初中1000 S-U"
   },
@@ -7755,7 +7755,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ðeɪ]",
     "meaning": "pron. 他（她）们；它们",
     "phrase": "grammar signal: they",
-    "example": "Read the whole sentence, because \"they\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"they\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“他她们”有关的画面，再把英文 they 放进词块“grammar signal: they”。",
     "category": "初中1000 S-U"
   },
@@ -7764,7 +7764,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[θɪŋ]",
     "meaning": "n. 东西；(复)物品，用品；事情，事件",
     "phrase": "a thing / the thing",
-    "example": "The article uses the word \"thing\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the thing to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“东西”有关的画面，再把英文 thing 放进词块“a thing / the thing”。",
     "category": "初中1000 S-U"
   },
@@ -7773,7 +7773,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[θɜːd]",
     "meaning": "num. 第三",
     "phrase": "grammar signal: third",
-    "example": "Read the whole sentence, because \"third\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"third\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“第三”有关的画面，再把英文 third 放进词块“grammar signal: third”。",
     "category": "初中1000 S-U"
   },
@@ -7782,7 +7782,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ðɪs]",
     "meaning": "a.& pron.这，这个",
     "phrase": "grammar signal: this",
-    "example": "Read the whole sentence, because \"this\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"this\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“这”有关的画面，再把英文 this 放进词块“grammar signal: this”。",
     "category": "初中1000 S-U"
   },
@@ -7791,7 +7791,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ðəʊz]",
     "meaning": "a.& pron.那些",
     "phrase": "grammar signal: those",
-    "example": "Read the whole sentence, because \"those\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"those\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“那些”有关的画面，再把英文 those 放进词块“grammar signal: those”。",
     "category": "初中1000 S-U"
   },
@@ -7800,7 +7800,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ðəʊ]",
     "meaning": "conj. 虽然，可是",
     "phrase": "grammar signal: though",
-    "example": "Read the whole sentence, because \"though\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"though\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“虽然”有关的画面，再把英文 though 放进词块“grammar signal: though”。",
     "category": "初中1000 S-U"
   },
@@ -7809,7 +7809,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[θɔːt]",
     "meaning": "n. 思考,思想;念头",
     "phrase": "a thought / the thought",
-    "example": "The article uses the word \"thought\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the thought helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“思考”有关的画面，再把英文 thought 放进词块“a thought / the thought”。",
     "category": "初中1000 S-U"
   },
@@ -7818,7 +7818,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[θred]",
     "meaning": "n. 线",
     "phrase": "a thread / the thread",
-    "example": "The article uses the word \"thread\" in a real situation, so readers can connect it with the topic.",
+    "example": "The thread becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“线”有关的画面，再把英文 thread 放进词块“a thread / the thread”。",
     "category": "初中1000 S-U"
   },
@@ -7827,7 +7827,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[θriː]",
     "meaning": "num. 三",
     "phrase": "grammar signal: three",
-    "example": "Read the whole sentence, because \"three\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"three\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“三”有关的画面，再把英文 three 放进词块“grammar signal: three”。",
     "category": "初中1000 S-U"
   },
@@ -7836,7 +7836,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[θruː]",
     "meaning": "prep.穿（通）过;从始至终 ad.穿(通)过;自始至终,全部",
     "phrase": "grammar signal: through",
-    "example": "Read the whole sentence, because \"through\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"through\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“穿通过”有关的画面，再把英文 through 放进词块“grammar signal: through”。",
     "category": "初中1000 S-U"
   },
@@ -7845,7 +7845,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[θruːˈaʊt]",
     "meaning": "prep. 遍及，贯穿",
     "phrase": "grammar signal: throughout",
-    "example": "Read the whole sentence, because \"throughout\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"throughout\" to understand how the ideas are connected.",
     "mnemonic": "拆音节钩子：把 throughout 拆成 thr-oug-hou-t，边读边写，再回到词块“grammar signal: throughout”。",
     "category": "初中1000 S-U"
   },
@@ -7854,7 +7854,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ðʌs]",
     "meaning": "ad. 这样；因而",
     "phrase": "thus + action",
-    "example": "The speaker acted thus, and the listener noticed the change at once.",
+    "example": "Good writers use details thus to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“这样”有关的画面，再把英文 thus 放进词块“thus + action”。",
     "category": "初中1000 S-U"
   },
@@ -7872,7 +7872,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tɪp]",
     "meaning": "n.& v.顶端，尖端；告诫； 提示 (给)小费",
     "phrase": "learn to tip",
-    "example": "The writer uses \"tip\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"tip\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“顶端”有关的画面，再把英文 tip 放进词块“learn to tip”。",
     "category": "初中1000 S-U"
   },
@@ -7881,7 +7881,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈtɪʃuː, ˈtɪsjuː]",
     "meaning": "n. 标题，题目",
     "phrase": "a title / the title",
-    "example": "The article uses the word \"title\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the title to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“标题”有关的画面，再把英文 title 放进词块“a title / the title”。",
     "category": "初中1000 S-U"
   },
@@ -7890,7 +7890,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tʊ, tuː]",
     "meaning": "prep. （动词不定式符号，无词义）；（表示接受动作的人或物）给；对，向，到；在…之前",
     "phrase": "grammar signal: to",
-    "example": "Read the whole sentence, because \"to\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"to\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“动词不定式符号”有关的画面，再把英文 to 放进词块“grammar signal: to”。",
     "category": "初中1000 S-U"
   },
@@ -7899,7 +7899,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[təʊst]",
     "meaning": "ad.& n.今天;现在,当前",
     "phrase": "today + action",
-    "example": "The speaker acted today, and the listener noticed the change at once.",
+    "example": "Good writers use details today to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“今天”有关的画面，再把英文 today 放进词块“today + action”。",
     "category": "初中1000 S-U"
   },
@@ -7908,7 +7908,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[təʊst]",
     "meaning": "ad. 一起，共同",
     "phrase": "together + action",
-    "example": "The speaker acted together, and the listener noticed the change at once.",
+    "example": "Good writers use details together to guide readers through the passage.",
     "mnemonic": "拆音节钩子：把 together 拆成 tog-eth-er，边读边写，再回到词块“together + action”。",
     "category": "初中1000 S-U"
   },
@@ -7917,7 +7917,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[təˈnaɪt]",
     "meaning": "ad.也,还,又,太,过分,很,非常",
     "phrase": "too + action",
-    "example": "The speaker acted too, and the listener noticed the change at once.",
+    "example": "Good writers use details too to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“也”有关的画面，再把英文 too 放进词块“too + action”。",
     "category": "初中1000 S-U"
   },
@@ -7926,7 +7926,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tuːl]",
     "meaning": "n. 工具，器具",
     "phrase": "a tool / the tool",
-    "example": "The article uses the word \"tool\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the tool to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“工具”有关的画面，再把英文 tool 放进词块“a tool / the tool”。",
     "category": "初中1000 S-U"
   },
@@ -7935,7 +7935,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tɔp]",
     "meaning": "n. 顶部,（物体的）上面",
     "phrase": "a top / the top",
-    "example": "The article uses the word \"top\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the top helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“顶部”有关的画面，再把英文 top 放进词块“a top / the top”。",
     "category": "初中1000 S-U"
   },
@@ -7944,7 +7944,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈtɔpɪk]",
     "meaning": "n. 题目，话题",
     "phrase": "a topic / the topic",
-    "example": "The article uses the word \"topic\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the topic helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“题目”有关的画面，再把英文 topic 放进词块“a topic / the topic”。",
     "category": "初中1000 S-U"
   },
@@ -7952,9 +7952,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "total",
     "phonetic": "[ˈtəʊt(ə)l]",
     "meaning": "a. 总数的;总括的;完全的,全然的 n.合计,总计 v.合计为",
-    "phrase": "a total situation",
-    "example": "The passage describes a total situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：al 常把名词变形容词。把 total 放进“a total situation”里记，核心义锁定为“总数的”。",
+    "phrase": "a total reason",
+    "example": "A total reason makes the decision easier to understand.",
+    "mnemonic": "词形钩子：al 常把名词变形容词。把 total 放进“a total reason”里记，核心义锁定为“总数的”。",
     "category": "初中1000 S-U"
   },
   {
@@ -7962,7 +7962,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tʊə(r)]",
     "meaning": "n. 参观, 观光, 旅行",
     "phrase": "a tour / the tour",
-    "example": "The article uses the word \"tour\" in a real situation, so readers can connect it with the topic.",
+    "example": "The map shows the tour and explains why it matters to the journey.",
     "mnemonic": "场景钩子：先想一个和“参观”有关的画面，再把英文 tour 放进词块“a tour / the tour”。",
     "category": "初中1000 S-U"
   },
@@ -7971,7 +7971,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[taʊn]",
     "meaning": "n. 城镇，城",
     "phrase": "a town / the town",
-    "example": "The article uses the word \"town\" in a real situation, so readers can connect it with the topic.",
+    "example": "The town becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“城镇”有关的画面，再把英文 town 放进词块“a town / the town”。",
     "category": "初中1000 S-U"
   },
@@ -7980,7 +7980,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[træk]",
     "meaning": "n. 轨道；田径",
     "phrase": "a track / the track",
-    "example": "The article uses the word \"track\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the track because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“轨道”有关的画面，再把英文 track 放进词块“a track / the track”。",
     "category": "初中1000 S-U"
   },
@@ -7989,7 +7989,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[treɪd]",
     "meaning": "n.贸易 vt.用…进行交换",
     "phrase": "learn to trade",
-    "example": "The writer uses \"trade\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"trade\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“贸易用…进行交换”有关的画面，再把英文 trade 放进词块“learn to trade”。",
     "category": "初中1000 S-U"
   },
@@ -7998,7 +7998,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈtræfɪk]",
     "meaning": "n. 交通，来往车辆",
     "phrase": "a traffic / the traffic",
-    "example": "The article uses the word \"traffic\" in a real situation, so readers can connect it with the topic.",
+    "example": "The traffic is where the main character first meets a stranger.",
     "mnemonic": "场景钩子：先想一个和“交通”有关的画面，再把英文 traffic 放进词块“a traffic / the traffic”。",
     "category": "初中1000 S-U"
   },
@@ -8007,7 +8007,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈtreɪnɪŋ]",
     "meaning": "n. 培训",
     "phrase": "a training / the training",
-    "example": "The article uses the word \"training\" in a real situation, so readers can connect it with the topic.",
+    "example": "The training becomes important when the characters have to make a difficult choice.",
     "mnemonic": "拆音节钩子：把 training 拆成 tra-ini-ng，边读边写，再回到词块“a training / the training”。",
     "category": "初中1000 S-U"
   },
@@ -8016,7 +8016,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈtræv(ə)l]",
     "meaning": "n.& vi.旅行",
     "phrase": "travel naturally / travel in a situation",
-    "example": "In the story, people travel when the situation suddenly changes.",
+    "example": "In a story or report, \"travel\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“旅行”有关的画面，再把英文 travel 放进词块“travel naturally / travel in a situation”。",
     "category": "初中1000 S-U"
   },
@@ -8025,7 +8025,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[triː]",
     "meaning": "n. 树",
     "phrase": "a tree / the tree",
-    "example": "The article uses the word \"tree\" in a real situation, so readers can connect it with the topic.",
+    "example": "The tree becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“树”有关的画面，再把英文 tree 放进词块“a tree / the tree”。",
     "category": "初中1000 S-U"
   },
@@ -8034,7 +8034,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[trɪp]",
     "meaning": "n. 旅行，旅程",
     "phrase": "a trip / the trip",
-    "example": "The article uses the word \"trip\" in a real situation, so readers can connect it with the topic.",
+    "example": "The trip is where the main character first meets a stranger.",
     "mnemonic": "场景钩子：先想一个和“旅行”有关的画面，再把英文 trip 放进词块“a trip / the trip”。",
     "category": "初中1000 S-U"
   },
@@ -8043,7 +8043,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈtrʌb(ə)l]",
     "meaning": "vt. 使苦恼,使忧虑,使麻烦 n.问题,疾病,烦恼,麻烦",
     "phrase": "learn to trouble",
-    "example": "The writer uses \"trouble\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"trouble\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“使苦恼”有关的画面，再把英文 trouble 放进词块“learn to trouble”。",
     "category": "初中1000 S-U"
   },
@@ -8051,9 +8051,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "true",
     "phonetic": "[truː]",
     "meaning": "a. 真的，真实的；忠诚的",
-    "phrase": "a true situation",
-    "example": "The passage describes a true situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“真的”有关的画面，再把英文 true 放进词块“a true situation”。",
+    "phrase": "a true detail",
+    "example": "A true detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“真的”有关的画面，再把英文 true 放进词块“a true detail”。",
     "category": "初中1000 S-U"
   },
   {
@@ -8061,7 +8061,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[trʌst]",
     "meaning": "vt. 相信，信任，信赖",
     "phrase": "learn to trust",
-    "example": "The writer uses \"trust\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"trust\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“相信”有关的画面，再把英文 trust 放进词块“learn to trust”。",
     "category": "初中1000 S-U"
   },
@@ -8070,7 +8070,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[truːθ]",
     "meaning": "v. 试，试图，努力",
     "phrase": "learn to try",
-    "example": "The writer uses \"try\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"try\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“试”有关的画面，再把英文 try 放进词块“learn to try”。",
     "category": "初中1000 S-U"
   },
@@ -8079,7 +8079,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tɜːn]",
     "meaning": "v. 旋转，翻转，转变，转弯 n. 轮流，（轮流的）顺序",
     "phrase": "learn to turn",
-    "example": "The writer uses \"turn\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"turn\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“旋转”有关的画面，再把英文 turn 放进词块“learn to turn”。",
     "category": "初中1000 S-U"
   },
@@ -8088,7 +8088,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[tuː]",
     "meaning": "num. 二",
     "phrase": "grammar signal: two",
-    "example": "Read the whole sentence, because \"two\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"two\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“二”有关的画面，再把英文 two 放进词块“grammar signal: two”。",
     "category": "初中1000 S-U"
   },
@@ -8097,7 +8097,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈtaɪp]",
     "meaning": "vt. 打字",
     "phrase": "learn to type",
-    "example": "The writer uses \"type\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"type\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“打字”有关的画面，再把英文 type 放进词块“learn to type”。",
     "category": "初中1000 S-U"
   },
@@ -8106,7 +8106,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈʌndə(r)]",
     "meaning": "ad.& prep.在…下面，向…下面",
     "phrase": "grammar signal: under",
-    "example": "Read the whole sentence, because \"under\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"under\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“在…下面”有关的画面，再把英文 under 放进词块“grammar signal: under”。",
     "category": "初中1000 S-U"
   },
@@ -8115,7 +8115,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈjuːnjən]",
     "meaning": "n. 联合,联盟；工会",
     "phrase": "an union / the union",
-    "example": "The article uses the word \"union\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the union because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“联合”有关的画面，再把英文 union 放进词块“an union / the union”。",
     "category": "初中1000 S-U"
   },
@@ -8123,9 +8123,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "unique",
     "phonetic": "[jʊˈniːk]",
     "meaning": "a. 惟一的,独一无二的",
-    "phrase": "an unique situation",
-    "example": "The passage describes an unique situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：un 表示“否定/相反”。把 unique 放进“an unique situation”里记，核心义锁定为“惟一的”。",
+    "phrase": "an unique detail",
+    "example": "An unique detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：un 表示“否定/相反”。把 unique 放进“an unique detail”里记，核心义锁定为“惟一的”。",
     "category": "初中1000 S-U"
   },
   {
@@ -8133,7 +8133,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈjuːnɪt]",
     "meaning": "n. 单元，单位",
     "phrase": "an unit / the unit",
-    "example": "The article uses the word \"unit\" in a real situation, so readers can connect it with the topic.",
+    "example": "The unit becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“单元”有关的画面，再把英文 unit 放进词块“an unit / the unit”。",
     "category": "初中1000 S-U"
   },
@@ -8142,7 +8142,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʌnˈles]",
     "meaning": "conj. 如果不，除非",
     "phrase": "grammar signal: unless",
-    "example": "Read the whole sentence, because \"unless\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"unless\" to understand how the ideas are connected.",
     "mnemonic": "词形钩子：un 表示“否定/相反”；less 表示“没有/缺少”。把 unless 放进“grammar signal: unless”里记，核心义锁定为“如果不”。",
     "category": "初中1000 S-U"
   },
@@ -8151,7 +8151,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʌnˈtɪl]",
     "meaning": "prep.& conj.直到…为止",
     "phrase": "grammar signal: until",
-    "example": "Read the whole sentence, because \"until\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"until\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“直到…为止”有关的画面，再把英文 until 放进词块“grammar signal: until”。",
     "category": "初中1000 S-U"
   },
@@ -8160,7 +8160,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ʌp]",
     "meaning": "ad. 向上；在上方；起来；在…以上 a. 上面的，向上的，上行的 n. 上升；上坡；上行；繁荣 v. 举起；拿起；提高 prep. 向(高处)；向(在)……上(面)游",
     "phrase": "grammar signal: up",
-    "example": "Read the whole sentence, because \"up\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"up\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“向上”有关的画面，再把英文 up 放进词块“grammar signal: up”。",
     "category": "初中1000 S-U"
   },
@@ -8169,7 +8169,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[əˈpɔn]",
     "meaning": "prep. 在……上面",
     "phrase": "grammar signal: upon",
-    "example": "Read the whole sentence, because \"upon\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"upon\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“在……上面”有关的画面，再把英文 upon 放进词块“grammar signal: upon”。",
     "category": "初中1000 S-U"
   },
@@ -8178,7 +8178,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[juːz]",
     "meaning": "n.& vt.利用,使用,应用",
     "phrase": "learn to use",
-    "example": "The writer uses \"use\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"use\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“利用”有关的画面，再把英文 use 放进词块“learn to use”。",
     "category": "初中1000 S-U"
   },
@@ -8186,18 +8186,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "used",
     "phonetic": "[]",
     "meaning": "a. 用过的;旧的;二手的",
-    "phrase": "an used situation",
-    "example": "The passage describes an used situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“用过的”有关的画面，再把英文 used 放进词块“an used situation”。",
+    "phrase": "an used detail",
+    "example": "An used detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“用过的”有关的画面，再把英文 used 放进词块“an used detail”。",
     "category": "初中1000 S-U"
   },
   {
     "word": "useful",
     "phonetic": "[ˈjuːsfʊl]",
     "meaning": "a. 有用的，有益的",
-    "phrase": "an useful situation",
-    "example": "The passage describes an useful situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：ful 表示“充满”。把 useful 放进“an useful situation”里记，核心义锁定为“有用的”。",
+    "phrase": "an useful detail",
+    "example": "An useful detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：ful 表示“充满”。把 useful 放进“an useful detail”里记，核心义锁定为“有用的”。",
     "category": "初中1000 S-U"
   },
   {
@@ -8205,7 +8205,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈjuːzə]",
     "meaning": "n. 使用者；用户",
     "phrase": "an user / the user",
-    "example": "The article uses the word \"user\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the user helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“使用者”有关的画面，再把英文 user 放进词块“an user / the user”。",
     "category": "初中1000 S-U"
   },
@@ -8214,7 +8214,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈjuːʒʊəlɪ]",
     "meaning": "ad. 通常，经常",
     "phrase": "usually + action",
-    "example": "The speaker acted usually, and the listener noticed the change at once.",
+    "example": "She answers usually after listening to the whole question.",
     "mnemonic": "词形钩子：ly 多为副词标志。把 usually 放进“usually + action”里记，核心义锁定为“通常”。",
     "category": "初中1000 S-U"
   },
@@ -8222,9 +8222,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "valid",
     "phonetic": "[ˈvælɪd]",
     "meaning": "a.有效的,合理的,有根据的",
-    "phrase": "a valid situation",
-    "example": "The passage describes a valid situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“有效的”有关的画面，再把英文 valid 放进词块“a valid situation”。",
+    "phrase": "a valid rule",
+    "example": "A valid rule is easier to follow when the reason is clear.",
+    "mnemonic": "场景钩子：先想一个和“有效的”有关的画面，再把英文 valid 放进词块“a valid rule”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8232,7 +8232,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈvælɪ]",
     "meaning": "n. 山谷, 溪谷",
     "phrase": "a valley / the valley",
-    "example": "The article uses the word \"valley\" in a real situation, so readers can connect it with the topic.",
+    "example": "The writer describes the valley so clearly that readers can picture the scene.",
     "mnemonic": "场景钩子：先想一个和“山谷”有关的画面，再把英文 valley 放进词块“a valley / the valley”。",
     "category": "初中1000 V-Z"
   },
@@ -8258,9 +8258,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "various",
     "phonetic": "[ˈveərɪəs]",
     "meaning": "a. 各种各样的，不同的",
-    "phrase": "a various situation",
-    "example": "The passage describes a various situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：ous 常表示“具有……性质”。把 various 放进“a various situation”里记，核心义锁定为“各种各样的”。",
+    "phrase": "a various question",
+    "example": "A various question needs careful reading before students answer.",
+    "mnemonic": "词形钩子：ous 常表示“具有……性质”。把 various 放进“a various question”里记，核心义锁定为“各种各样的”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8268,7 +8268,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈviːɪk(ə)l; (US) ˈviːhɪkl]",
     "meaning": "n. 交通工具，车辆",
     "phrase": "a vehicle / the vehicle",
-    "example": "The article uses the word \"vehicle\" in a real situation, so readers can connect it with the topic.",
+    "example": "People in the vehicle work together when a serious problem appears.",
     "mnemonic": "场景钩子：先想一个和“交通工具”有关的画面，再把英文 vehicle 放进词块“a vehicle / the vehicle”。",
     "category": "初中1000 V-Z"
   },
@@ -8277,7 +8277,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈverɪ]",
     "meaning": "vad. 很，非常",
     "phrase": "very in a real sentence",
-    "example": "Use \"very\" in one short sentence, then explain the sentence in your own words.",
+    "example": "The sentence with \"very\" gives a clear clue to the meaning, so read it aloud before answering.",
     "mnemonic": "场景钩子：先想一个和“ad.很”有关的画面，再把英文 very 放进词块“very in a real sentence”。",
     "category": "初中1000 V-Z"
   },
@@ -8286,7 +8286,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈvaɪə]",
     "meaning": "prep. 经过（某地），通过",
     "phrase": "grammar signal: via",
-    "example": "Read the whole sentence, because \"via\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"via\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“经过某地”有关的画面，再把英文 via 放进词块“grammar signal: via”。",
     "category": "初中1000 V-Z"
   },
@@ -8295,7 +8295,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[vaɪs]",
     "meaning": "n. 罪行，不道德行为",
     "phrase": "a vice / the vice",
-    "example": "The article uses the word \"vice\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the vice helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“罪行”有关的画面，再把英文 vice 放进词块“a vice / the vice”。",
     "category": "初中1000 V-Z"
   },
@@ -8304,7 +8304,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈvɪdɪəʊ]",
     "meaning": "n. 录像，视频",
     "phrase": "a video / the video",
-    "example": "The article uses the word \"video\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the video helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“录像”有关的画面，再把英文 video 放进词块“a video / the video”。",
     "category": "初中1000 V-Z"
   },
@@ -8313,7 +8313,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[vjuː]",
     "meaning": "n. 看法,见解;风景,景色",
     "phrase": "a view / the view",
-    "example": "The article uses the word \"view\" in a real situation, so readers can connect it with the topic.",
+    "example": "The writer describes the view so clearly that readers can picture the scene.",
     "mnemonic": "场景钩子：先想一个和“看法”有关的画面，再把英文 view 放进词块“a view / the view”。",
     "category": "初中1000 V-Z"
   },
@@ -8322,7 +8322,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈviːzə]",
     "meaning": "n.& vt. 参观，访问，拜访",
     "phrase": "learn to visit",
-    "example": "The writer uses \"visit\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"visit\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“参观”有关的画面，再把英文 visit 放进词块“learn to visit”。",
     "category": "初中1000 V-Z"
   },
@@ -8331,7 +8331,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[vɔɪs]",
     "meaning": "n. 说话声; 语态",
     "phrase": "a voice / the voice",
-    "example": "The article uses the word \"voice\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the voice to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“说话声”有关的画面，再把英文 voice 放进词块“a voice / the voice”。",
     "category": "初中1000 V-Z"
   },
@@ -8340,7 +8340,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[vɔlənˈtɪə(r)]",
     "meaning": "n./ v. 义工，自愿者，无偿做",
     "phrase": "learn to volunteer",
-    "example": "The writer uses \"volunteer\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"volunteer\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "拆音节钩子：把 volunteer 拆成 vol-unt-eer，边读边写，再回到词块“learn to volunteer”。",
     "category": "初中1000 V-Z"
   },
@@ -8349,7 +8349,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[vəʊt]",
     "meaning": "vi. 选举，投票",
     "phrase": "vote naturally / vote in a situation",
-    "example": "In the story, people vote when the situation suddenly changes.",
+    "example": "In a story or report, \"vote\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“选举”有关的画面，再把英文 vote 放进词块“vote naturally / vote in a situation”。",
     "category": "初中1000 V-Z"
   },
@@ -8358,7 +8358,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[weɪt]",
     "meaning": "vi. 等，等候",
     "phrase": "wait naturally / wait in a situation",
-    "example": "In the story, people wait when the situation suddenly changes.",
+    "example": "When readers meet \"wait\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“等”有关的画面，再把英文 wait 放进词块“wait naturally / wait in a situation”。",
     "category": "初中1000 V-Z"
   },
@@ -8367,7 +8367,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɔːk]",
     "meaning": "n.& v. 步行；散步",
     "phrase": "learn to walk",
-    "example": "The writer uses \"walk\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"walk\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“步行”有关的画面，再把英文 walk 放进词块“learn to walk”。",
     "category": "初中1000 V-Z"
   },
@@ -8376,7 +8376,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɔːl]",
     "meaning": "n. 墙",
     "phrase": "a wall / the wall",
-    "example": "The article uses the word \"wall\" in a real situation, so readers can connect it with the topic.",
+    "example": "The wall becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“墙”有关的画面，再把英文 wall 放进词块“a wall / the wall”。",
     "category": "初中1000 V-Z"
   },
@@ -8385,7 +8385,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɔnt; (US) wɔːnt]",
     "meaning": "vt. 想,想要,需要,必要",
     "phrase": "learn to want",
-    "example": "The writer uses \"want\" to show what a person does in a clear situation.",
+    "example": "In a story or report, \"want\" helps describe what happens next.",
     "mnemonic": "场景钩子：先想一个和“想”有关的画面，再把英文 want 放进词块“learn to want”。",
     "category": "初中1000 V-Z"
   },
@@ -8394,7 +8394,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɔː(r)]",
     "meaning": "n. 战争",
     "phrase": "a war / the war",
-    "example": "The article uses the word \"war\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the war to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“战争”有关的画面，再把英文 war 放进词块“a war / the war”。",
     "category": "初中1000 V-Z"
   },
@@ -8403,7 +8403,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈwɔːnɪŋ]",
     "meaning": "n. 警报",
     "phrase": "a warning / the warning",
-    "example": "The article uses the word \"warning\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the warning to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“警报”有关的画面，再把英文 warning 放进词块“a warning / the warning”。",
     "category": "初中1000 V-Z"
   },
@@ -8412,7 +8412,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[weɪst]",
     "meaning": "n.& vt. 浪费",
     "phrase": "learn to waste",
-    "example": "The writer uses \"waste\" to show what a person does in a clear situation.",
+    "example": "The sentence uses \"waste\" to show an action, a change, or a choice in the scene.",
     "mnemonic": "场景钩子：先想一个和“浪费”有关的画面，再把英文 waste 放进词块“learn to waste”。",
     "category": "初中1000 V-Z"
   },
@@ -8421,7 +8421,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɔtʃ]",
     "meaning": "vt. 观看，注视；当心，注意 n. 手表，表",
     "phrase": "learn to watch",
-    "example": "The writer uses \"watch\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"watch\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“观看”有关的画面，再把英文 watch 放进词块“learn to watch”。",
     "category": "初中1000 V-Z"
   },
@@ -8430,7 +8430,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈwɔːtə(r)]",
     "meaning": "n. 水v. 浇水",
     "phrase": "water water",
-    "example": "In a difficult moment, people may need to water water carefully.",
+    "example": "In the passage, one small choice helps the hero water water.",
     "mnemonic": "场景钩子：先想一个和“水v.浇水”有关的画面，再把英文 water 放进词块“water water”。",
     "category": "初中1000 V-Z"
   },
@@ -8439,7 +8439,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[weɪ]",
     "meaning": "n. 路，路线；方式，手段",
     "phrase": "a way / the way",
-    "example": "The article uses the word \"way\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the way because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“路”有关的画面，再把英文 way 放进词块“a way / the way”。",
     "category": "初中1000 V-Z"
   },
@@ -8448,7 +8448,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wiː, wɪ]",
     "meaning": "pron. 我们",
     "phrase": "grammar signal: we",
-    "example": "Read the whole sentence, because \"we\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"we\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“我们”有关的画面，再把英文 we 放进词块“grammar signal: we”。",
     "category": "初中1000 V-Z"
   },
@@ -8466,7 +8466,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[web]",
     "meaning": "n. 网，网状物",
     "phrase": "a web / the web",
-    "example": "The article uses the word \"web\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the web to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“网”有关的画面，再把英文 web 放进词块“a web / the web”。",
     "category": "初中1000 V-Z"
   },
@@ -8475,7 +8475,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[websaɪt]",
     "meaning": "n. 网络",
     "phrase": "a website / the website",
-    "example": "The article uses the word \"website\" in a real situation, so readers can connect it with the topic.",
+    "example": "A new website can be helpful, but it also requires careful use.",
     "mnemonic": "场景钩子：先想一个和“网络”有关的画面，再把英文 website 放进词块“a website / the website”。",
     "category": "初中1000 V-Z"
   },
@@ -8484,7 +8484,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈwedɪŋ]",
     "meaning": "n. 婚礼,结婚",
     "phrase": "a wedding / the wedding",
-    "example": "The article uses the word \"wedding\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the wedding to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“婚礼”有关的画面，再把英文 wedding 放进词块“a wedding / the wedding”。",
     "category": "初中1000 V-Z"
   },
@@ -8493,7 +8493,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wiːk]",
     "meaning": "n. 星期，周",
     "phrase": "a week / the week",
-    "example": "The article uses the word \"week\" in a real situation, so readers can connect it with the topic.",
+    "example": "By the end of the week, the students can see their progress clearly.",
     "mnemonic": "场景钩子：先想一个和“星期”有关的画面，再把英文 week 放进词块“a week / the week”。",
     "category": "初中1000 V-Z"
   },
@@ -8501,9 +8501,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "weekly",
     "phonetic": "[ˈwiːklɪ]",
     "meaning": "a. 每周的",
-    "phrase": "a weekly situation",
-    "example": "The passage describes a weekly situation and gives details to support the idea.",
-    "mnemonic": "词形钩子：ly 多为副词标志。把 weekly 放进“a weekly situation”里记，核心义锁定为“每周的”。",
+    "phrase": "a weekly detail",
+    "example": "A weekly detail helps readers picture the scene more clearly.",
+    "mnemonic": "词形钩子：ly 多为副词标志。把 weekly 放进“a weekly detail”里记，核心义锁定为“每周的”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8511,7 +8511,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[weɪt]",
     "meaning": "n. 重，重量",
     "phrase": "a weight / the weight",
-    "example": "The article uses the word \"weight\" in a real situation, so readers can connect it with the topic.",
+    "example": "The weight becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“重”有关的画面，再把英文 weight 放进词块“a weight / the weight”。",
     "category": "初中1000 V-Z"
   },
@@ -8519,9 +8519,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "welcome",
     "phonetic": "[ˈwelkəm]",
     "meaning": "int.n. & v.欢迎 a. 受欢迎的",
-    "phrase": "a welcome situation",
-    "example": "The passage describes a welcome situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“n.欢迎受欢迎的”有关的画面，再把英文 welcome 放进词块“a welcome situation”。",
+    "phrase": "a welcome detail",
+    "example": "A welcome detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“n.欢迎受欢迎的”有关的画面，再把英文 welcome 放进词块“a welcome detail”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8529,7 +8529,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wel]",
     "meaning": "(better, best) ad. 好,令人满意地,完全地 a.好的,,健康的int. 表示惊讶同意或犹豫等,亦用于接话语;好吧,那么,哎呀 n. 井",
     "phrase": "well + action",
-    "example": "The speaker acted well, and the listener noticed the change at once.",
+    "example": "The boy walks well across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“better”有关的画面，再把英文 well 放进词块“well + action”。",
     "category": "初中1000 V-Z"
   },
@@ -8538,7 +8538,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[west]",
     "meaning": "a. (在)西；向西,从西来的 ad. 在西方,向西方 n.西部；西方",
     "phrase": "west + action",
-    "example": "The speaker acted west, and the listener noticed the change at once.",
+    "example": "The boy walks west across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“在西”有关的画面，再把英文 west 放进词块“west + action”。",
     "category": "初中1000 V-Z"
   },
@@ -8546,9 +8546,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "western",
     "phonetic": "[ˈwest(ə)n]",
     "meaning": "a. 西方的，西部的",
-    "phrase": "a western situation",
-    "example": "The passage describes a western situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“西方的”有关的画面，再把英文 western 放进词块“a western situation”。",
+    "phrase": "a western detail",
+    "example": "A western detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“西方的”有关的画面，再把英文 western 放进词块“a western detail”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8556,7 +8556,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɔt; (US) hwɑt]",
     "meaning": "pron. 什么,怎么样 a. 多么，何等；什么",
     "phrase": "grammar signal: what",
-    "example": "Read the whole sentence, because \"what\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"what\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“什么”有关的画面，再把英文 what 放进词块“grammar signal: what”。",
     "category": "初中1000 V-Z"
   },
@@ -8565,7 +8565,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wen]",
     "meaning": "conj. 当…的时候 ad. 什么时候，何时",
     "phrase": "grammar signal: when",
-    "example": "Read the whole sentence, because \"when\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"when\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“当…的时候什么时候”有关的画面，再把英文 when 放进词块“grammar signal: when”。",
     "category": "初中1000 V-Z"
   },
@@ -8574,7 +8574,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[weə(r); (US) hweər]",
     "meaning": "ad. 在哪里；往哪里",
     "phrase": "where + action",
-    "example": "The speaker acted where, and the listener noticed the change at once.",
+    "example": "Good writers use details where to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“在哪里”有关的画面，再把英文 where 放进词块“where + action”。",
     "category": "初中1000 V-Z"
   },
@@ -8583,7 +8583,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈweðə(r); (US) ˈhweðər]",
     "meaning": "conj. 是否",
     "phrase": "grammar signal: whether",
-    "example": "Read the whole sentence, because \"whether\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"whether\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“是否”有关的画面，再把英文 whether 放进词块“grammar signal: whether”。",
     "category": "初中1000 V-Z"
   },
@@ -8592,7 +8592,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɪtʃ; (US) hwɪtʃ]",
     "meaning": "pron. 那(哪)一个；那(哪)一些 a.这(哪)个；这(哪)些；无论哪个(些)",
     "phrase": "grammar signal: which",
-    "example": "Read the whole sentence, because \"which\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"which\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“那哪一个”有关的画面，再把英文 which 放进词块“grammar signal: which”。",
     "category": "初中1000 V-Z"
   },
@@ -8601,7 +8601,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[waɪl; (US) hwaɪl]",
     "meaning": "conj.在…的时候,和…同时 n. 一会儿，一段时间",
     "phrase": "grammar signal: while",
-    "example": "Read the whole sentence, because \"while\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"while\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“在…的时候”有关的画面，再把英文 while 放进词块“grammar signal: while”。",
     "category": "初中1000 V-Z"
   },
@@ -8609,9 +8609,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "white",
     "phonetic": "[waɪt; (US) hwaɪt]",
     "meaning": "a. 白色的 n. 白色",
-    "phrase": "a white situation",
-    "example": "The passage describes a white situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“白色的白色”有关的画面，再把英文 white 放进词块“a white situation”。",
+    "phrase": "a white coat",
+    "example": "A white coat is easy to notice in a crowd.",
+    "mnemonic": "场景钩子：先想一个和“白色的白色”有关的画面，再把英文 white 放进词块“a white coat”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8619,7 +8619,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[huː]",
     "meaning": "pron. 谁",
     "phrase": "grammar signal: who",
-    "example": "Read the whole sentence, because \"who\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"who\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“谁”有关的画面，再把英文 who 放进词块“grammar signal: who”。",
     "category": "初中1000 V-Z"
   },
@@ -8627,9 +8627,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "whole",
     "phonetic": "[həʊl]",
     "meaning": "a. 整个的",
-    "phrase": "a whole situation",
-    "example": "The passage describes a whole situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“整个的”有关的画面，再把英文 whole 放进词块“a whole situation”。",
+    "phrase": "a whole story",
+    "example": "A whole story is easier to understand after you find the main clue.",
+    "mnemonic": "场景钩子：先想一个和“整个的”有关的画面，再把英文 whole 放进词块“a whole story”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8637,7 +8637,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[huːm]",
     "meaning": "pron. (who的宾格 )",
     "phrase": "grammar signal: whom",
-    "example": "Read the whole sentence, because \"whom\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"whom\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“who的宾格”有关的画面，再把英文 whom 放进词块“grammar signal: whom”。",
     "category": "初中1000 V-Z"
   },
@@ -8646,7 +8646,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[huːz]",
     "meaning": "pron. 谁的",
     "phrase": "grammar signal: whose",
-    "example": "Read the whole sentence, because \"whose\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"whose\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“谁的”有关的画面，再把英文 whose 放进词块“grammar signal: whose”。",
     "category": "初中1000 V-Z"
   },
@@ -8655,7 +8655,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[waɪ; (US) hwaɪ]",
     "meaning": "ad./ int. 为什么, 你难道不知道（表示反驳、不耐烦等）",
     "phrase": "why + action",
-    "example": "The speaker acted why, and the listener noticed the change at once.",
+    "example": "Good writers use details why to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“为什么”有关的画面，再把英文 why 放进词块“why + action”。",
     "category": "初中1000 V-Z"
   },
@@ -8663,9 +8663,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "wide",
     "phonetic": "[weə(r); (US) hweər]",
     "meaning": "a. 宽阔的",
-    "phrase": "a wide situation",
-    "example": "The passage describes a wide situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“宽阔的”有关的画面，再把英文 wide 放进词块“a wide situation”。",
+    "phrase": "a wide room",
+    "example": "A wide room changes how people feel when they walk in.",
+    "mnemonic": "场景钩子：先想一个和“宽阔的”有关的画面，再把英文 wide 放进词块“a wide room”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8673,7 +8673,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[waɪf]",
     "meaning": "n. 妻子",
     "phrase": "a wife / the wife",
-    "example": "The article uses the word \"wife\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the wife helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“妻子”有关的画面，再把英文 wife 放进词块“a wife / the wife”。",
     "category": "初中1000 V-Z"
   },
@@ -8681,9 +8681,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "wild",
     "phonetic": "[waɪld]",
     "meaning": "a. 未开发的，荒凉的；野生的，野的",
-    "phrase": "a wild situation",
-    "example": "The passage describes a wild situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“未开发的”有关的画面，再把英文 wild 放进词块“a wild situation”。",
+    "phrase": "a wild detail",
+    "example": "A wild detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“未开发的”有关的画面，再把英文 wild 放进词块“a wild detail”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8691,7 +8691,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɪl]",
     "meaning": "n. 意志, 遗嘱",
     "phrase": "grammar signal: will",
-    "example": "Read the whole sentence, because \"will\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"will\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“意志”有关的画面，再把英文 will 放进词块“grammar signal: will”。",
     "category": "初中1000 V-Z"
   },
@@ -8700,7 +8700,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɪnd]",
     "meaning": "n. 风",
     "phrase": "a wind / the wind",
-    "example": "The article uses the word \"wind\" in a real situation, so readers can connect it with the topic.",
+    "example": "The writer describes the wind so clearly that readers can picture the scene.",
     "mnemonic": "场景钩子：先想一个和“风”有关的画面，再把英文 wind 放进词块“a wind / the wind”。",
     "category": "初中1000 V-Z"
   },
@@ -8709,7 +8709,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈwɪndəʊ]",
     "meaning": "n. 窗户；计算机的窗",
     "phrase": "a window / the window",
-    "example": "The article uses the word \"window\" in a real situation, so readers can connect it with the topic.",
+    "example": "The window becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“窗户”有关的画面，再把英文 window 放进词块“a window / the window”。",
     "category": "初中1000 V-Z"
   },
@@ -8718,7 +8718,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[waɪn]",
     "meaning": "n. 酒",
     "phrase": "a wine / the wine",
-    "example": "The article uses the word \"wine\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the wine helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“酒”有关的画面，再把英文 wine 放进词块“a wine / the wine”。",
     "category": "初中1000 V-Z"
   },
@@ -8727,7 +8727,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈwɪntə(r)]",
     "meaning": "n. 冬天，冬季",
     "phrase": "a winter / the winter",
-    "example": "The article uses the word \"winter\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the winter because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“冬天”有关的画面，再把英文 winter 放进词块“a winter / the winter”。",
     "category": "初中1000 V-Z"
   },
@@ -8736,7 +8736,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈwaɪə(r)]",
     "meaning": "n. 电线",
     "phrase": "a wire / the wire",
-    "example": "The article uses the word \"wire\" in a real situation, so readers can connect it with the topic.",
+    "example": "In the passage, the wire helps explain what happened and why it matters.",
     "mnemonic": "场景钩子：先想一个和“电线”有关的画面，再把英文 wire 放进词块“a wire / the wire”。",
     "category": "初中1000 V-Z"
   },
@@ -8745,7 +8745,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɪʃ]",
     "meaning": "n. 愿望，祝愿 vt. 希望，想要，祝愿",
     "phrase": "learn to wish",
-    "example": "The writer uses \"wish\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"wish\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“愿望”有关的画面，再把英文 wish 放进词块“learn to wish”。",
     "category": "初中1000 V-Z"
   },
@@ -8754,7 +8754,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɪʃ]",
     "meaning": "prep.关于,带有,以,和,用,有",
     "phrase": "grammar signal: with",
-    "example": "Read the whole sentence, because \"with\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"with\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“关于”有关的画面，再把英文 with 放进词块“grammar signal: with”。",
     "category": "初中1000 V-Z"
   },
@@ -8763,7 +8763,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɪˈðɪn]",
     "meaning": "prep. 在……里面",
     "phrase": "grammar signal: within",
-    "example": "Read the whole sentence, because \"within\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"within\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“在……里面”有关的画面，再把英文 within 放进词块“grammar signal: within”。",
     "category": "初中1000 V-Z"
   },
@@ -8772,7 +8772,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɪˈðaʊt]",
     "meaning": "prep. 没有",
     "phrase": "grammar signal: without",
-    "example": "Read the whole sentence, because \"without\" often changes the relationship between ideas.",
+    "example": "The meaning changes when \"without\" is removed, so it deserves attention in reading.",
     "mnemonic": "场景钩子：先想一个和“没有”有关的画面，再把英文 without 放进词块“grammar signal: without”。",
     "category": "初中1000 V-Z"
   },
@@ -8781,7 +8781,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈwʌndə(r)]",
     "meaning": "v. 对…疑惑，感到惊奇,想知道 n. 惊讶,惊叹;奇迹",
     "phrase": "learn to wonder",
-    "example": "The writer uses \"wonder\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"wonder\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“对…疑惑”有关的画面，再把英文 wonder 放进词块“learn to wonder”。",
     "category": "初中1000 V-Z"
   },
@@ -8790,7 +8790,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈwʌndəfʊl]",
     "meaning": "n.木头,木材,(复)树木,森林",
     "phrase": "a wood / the wood",
-    "example": "The article uses the word \"wood\" in a real situation, so readers can connect it with the topic.",
+    "example": "The wood outside the village makes the morning feel quiet and bright.",
     "mnemonic": "场景钩子：先想一个和“木头”有关的画面，再把英文 wood 放进词块“a wood / the wood”。",
     "category": "初中1000 V-Z"
   },
@@ -8799,7 +8799,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɜːd]",
     "meaning": "n. 词，单词；话",
     "phrase": "a word / the word",
-    "example": "The article uses the word \"word\" in a real situation, so readers can connect it with the topic.",
+    "example": "The word becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“词”有关的画面，再把英文 word 放进词块“a word / the word”。",
     "category": "初中1000 V-Z"
   },
@@ -8808,7 +8808,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɜːk]",
     "meaning": "n. 工作,劳动,事情 vi. 工作;(机器、器官等)运转,活动",
     "phrase": "work naturally / work in a situation",
-    "example": "In the story, people work when the situation suddenly changes.",
+    "example": "Read the words around \"work\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“工作”有关的画面，再把英文 work 放进词块“work naturally / work in a situation”。",
     "category": "初中1000 V-Z"
   },
@@ -8817,7 +8817,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɜːks]",
     "meaning": "n. 著作，作品",
     "phrase": "a works / the works",
-    "example": "The article uses the word \"works\" in a real situation, so readers can connect it with the topic.",
+    "example": "The lesson uses the works to connect a small detail with a bigger idea.",
     "mnemonic": "场景钩子：先想一个和“著作”有关的画面，再把英文 works 放进词块“a works / the works”。",
     "category": "初中1000 V-Z"
   },
@@ -8826,7 +8826,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wɜːld]",
     "meaning": "n. 世界",
     "phrase": "a world / the world",
-    "example": "The article uses the word \"world\" in a real situation, so readers can connect it with the topic.",
+    "example": "The world becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“世界”有关的画面，再把英文 world 放进词块“a world / the world”。",
     "category": "初中1000 V-Z"
   },
@@ -8834,18 +8834,18 @@ window.ENGLISH_WORD_BANK = [
     "word": "worldwide",
     "phonetic": "[ˈwɜːldwaɪd, -ˈwaɪd]",
     "meaning": "a. 遍及全球的，世界范围的",
-    "phrase": "a worldwide situation",
-    "example": "The passage describes a worldwide situation and gives details to support the idea.",
-    "mnemonic": "拆音节钩子：把 worldwide 拆成 wor-ldw-ide，边读边写，再回到词块“a worldwide situation”。",
+    "phrase": "a worldwide detail",
+    "example": "A worldwide detail helps readers picture the scene more clearly.",
+    "mnemonic": "拆音节钩子：把 worldwide 拆成 wor-ldw-ide，边读边写，再回到词块“a worldwide detail”。",
     "category": "初中1000 V-Z"
   },
   {
     "word": "worth",
     "phonetic": "[wɜːθ]",
     "meaning": "a. 有…的价值,值得…的",
-    "phrase": "a worth situation",
-    "example": "The passage describes a worth situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“有…的价值”有关的画面，再把英文 worth 放进词块“a worth situation”。",
+    "phrase": "a worth detail",
+    "example": "A worth detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“有…的价值”有关的画面，再把英文 worth 放进词块“a worth detail”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8853,7 +8853,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[wəd, wʊd]",
     "meaning": "modal v.（will的过去时）将会，打算，想要，过去常常",
     "phrase": "grammar signal: would",
-    "example": "Read the whole sentence, because \"would\" often changes the relationship between ideas.",
+    "example": "We read the sentence before and after \"would\" to understand how the ideas are connected.",
     "mnemonic": "场景钩子：先想一个和“v.will的过去时将会”有关的画面，再把英文 would 放进词块“grammar signal: would”。",
     "category": "初中1000 V-Z"
   },
@@ -8862,7 +8862,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[raɪt]",
     "meaning": "(wrote, written) v. 写，书写；写作，著述",
     "phrase": "learn to write",
-    "example": "The writer uses \"write\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"write\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“wrote”有关的画面，再把英文 write 放进词块“learn to write”。",
     "category": "初中1000 V-Z"
   },
@@ -8879,9 +8879,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "wrong",
     "phonetic": "[rɔŋ; (US) rɔːŋ]",
     "meaning": "a.错误,不正常,有毛病的",
-    "phrase": "a wrong situation",
-    "example": "The passage describes a wrong situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“错误”有关的画面，再把英文 wrong 放进词块“a wrong situation”。",
+    "phrase": "a wrong detail",
+    "example": "A wrong detail helps readers picture the scene more clearly.",
+    "mnemonic": "场景钩子：先想一个和“错误”有关的画面，再把英文 wrong 放进词块“a wrong detail”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8889,7 +8889,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[jɪə(r), jəː(r)]",
     "meaning": "n. 年",
     "phrase": "a year / the year",
-    "example": "The article uses the word \"year\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the year because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“年”有关的画面，再把英文 year 放进词块“a year / the year”。",
     "category": "初中1000 V-Z"
   },
@@ -8897,9 +8897,9 @@ window.ENGLISH_WORD_BANK = [
     "word": "yellow",
     "phonetic": "[ˈjeləʊ]",
     "meaning": "a. 黄色的",
-    "phrase": "a yellow situation",
-    "example": "The passage describes a yellow situation and gives details to support the idea.",
-    "mnemonic": "场景钩子：先想一个和“黄色的”有关的画面，再把英文 yellow 放进词块“a yellow situation”。",
+    "phrase": "a yellow coat",
+    "example": "A yellow coat is easy to notice in a crowd.",
+    "mnemonic": "场景钩子：先想一个和“黄色的”有关的画面，再把英文 yellow 放进词块“a yellow coat”。",
     "category": "初中1000 V-Z"
   },
   {
@@ -8907,7 +8907,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[jes]",
     "meaning": "ad. 是，好，同意",
     "phrase": "yes + action",
-    "example": "The speaker acted yes, and the listener noticed the change at once.",
+    "example": "The boy walks yes across the room so he will not wake the baby.",
     "mnemonic": "场景钩子：先想一个和“是”有关的画面，再把英文 yes 放进词块“yes + action”。",
     "category": "初中1000 V-Z"
   },
@@ -8916,7 +8916,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[jet]",
     "meaning": "ad. 尚，还，仍然",
     "phrase": "yet + action",
-    "example": "The speaker acted yet, and the listener noticed the change at once.",
+    "example": "Good writers use details yet to guide readers through the passage.",
     "mnemonic": "场景钩子：先想一个和“尚”有关的画面，再把英文 yet 放进词块“yet + action”。",
     "category": "初中1000 V-Z"
   },
@@ -8925,7 +8925,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[juː, jʊ]",
     "meaning": "pron. 你；你们",
     "phrase": "grammar signal: you",
-    "example": "Read the whole sentence, because \"you\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"you\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“你”有关的画面，再把英文 you 放进词块“grammar signal: you”。",
     "category": "初中1000 V-Z"
   },
@@ -8943,7 +8943,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[jʌŋ]",
     "meaning": "pron. 你的；你们的",
     "phrase": "grammar signal: your",
-    "example": "Read the whole sentence, because \"your\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"your\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“你的”有关的画面，再把英文 your 放进词块“grammar signal: your”。",
     "category": "初中1000 V-Z"
   },
@@ -8952,7 +8952,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[jɔːˈself; (US) jʊərˈself]",
     "meaning": "pron. 你自己",
     "phrase": "grammar signal: yourself",
-    "example": "Read the whole sentence, because \"yourself\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"yourself\" shows the relationship between two parts of the sentence.",
     "mnemonic": "拆音节钩子：把 yourself 拆成 you-rse-lf，边读边写，再回到词块“grammar signal: yourself”。",
     "category": "初中1000 V-Z"
   },
@@ -8961,7 +8961,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[juːθ]",
     "meaning": "n. 青春；青年",
     "phrase": "a youth / the youth",
-    "example": "The article uses the word \"youth\" in a real situation, so readers can connect it with the topic.",
+    "example": "A careful reader notices the youth because it changes the direction of the story.",
     "mnemonic": "场景钩子：先想一个和“青春”有关的画面，再把英文 youth 放进词块“a youth / the youth”。",
     "category": "初中1000 V-Z"
   },
@@ -8970,7 +8970,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[ˈzɪərəʊ]",
     "meaning": "n. & num.零,零度,零点",
     "phrase": "grammar signal: zero",
-    "example": "Read the whole sentence, because \"zero\" often changes the relationship between ideas.",
+    "example": "In a careful answer, \"zero\" shows the relationship between two parts of the sentence.",
     "mnemonic": "场景钩子：先想一个和“零”有关的画面，再把英文 zero 放进词块“grammar signal: zero”。",
     "category": "初中1000 V-Z"
   },
@@ -8979,7 +8979,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[zɪp]",
     "meaning": "v.& n.拉开(或扣上)……的拉链；拉链",
     "phrase": "learn to zip",
-    "example": "The writer uses \"zip\" to show what a person does in a clear situation.",
+    "example": "Read the words around \"zip\" to decide whether the action is positive, negative, or neutral.",
     "mnemonic": "场景钩子：先想一个和“拉开或扣上……的拉链”有关的画面，再把英文 zip 放进词块“learn to zip”。",
     "category": "初中1000 V-Z"
   },
@@ -8988,7 +8988,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[zuː]",
     "meaning": "n. 区域；范围",
     "phrase": "a zone / the zone",
-    "example": "The article uses the word \"zone\" in a real situation, so readers can connect it with the topic.",
+    "example": "The zone becomes important when the characters have to make a difficult choice.",
     "mnemonic": "场景钩子：先想一个和“区域”有关的画面，再把英文 zone 放进词块“a zone / the zone”。",
     "category": "初中1000 V-Z"
   },
@@ -8997,7 +8997,7 @@ window.ENGLISH_WORD_BANK = [
     "phonetic": "[zuːm]",
     "meaning": "v. 快速移动，迅速前往，猛涨",
     "phrase": "learn to zoom",
-    "example": "The writer uses \"zoom\" to show what a person does in a clear situation.",
+    "example": "When readers meet \"zoom\", they should ask who does the action and why it matters.",
     "mnemonic": "场景钩子：先想一个和“快速移动”有关的画面，再把英文 zoom 放进词块“learn to zoom”。",
     "category": "初中1000 V-Z"
   }
