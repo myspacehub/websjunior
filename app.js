@@ -522,6 +522,7 @@ const wordTrainerState = {
   index: 0,
   category: "全部",
   feedback: "",
+  audioFeedback: null,
   exampleFeedback: "",
   examplePassed: false,
   quizCount: 20,
@@ -529,8 +530,13 @@ const wordTrainerState = {
   sessionTitle: "",
   meaningReady: false,
   step: 0,
+  stepCue: "",
 };
 const WORD_TRAINER_STEPS = ["意思辨认", "词汇复述", "例句填空", "助记复述", "拼写确认"];
+const COMMONS_API_ENDPOINT = "https://commons.wikimedia.org/w/api.php";
+const WORD_AUDIO_CACHE = new Map();
+const PREMIUM_ENGLISH_VOICE_PATTERN =
+  /samantha|ava|allison|serena|daniel|alex|google|microsoft\s+(aria|jenny|guy|zira|david)|natural|neural|premium|enhanced/i;
 
 const state = { subjectIndex: 0, volumeIndex: 0, query: "", mode: "catalog" };
 let doneSet = readProgress();
@@ -714,10 +720,12 @@ function shuffledSample(words, count) {
 
 function resetWordTrainerTransientState() {
   wordTrainerState.feedback = "";
+  wordTrainerState.audioFeedback = null;
   wordTrainerState.exampleFeedback = "";
   wordTrainerState.examplePassed = false;
   wordTrainerState.meaningReady = false;
   wordTrainerState.step = 0;
+  wordTrainerState.stepCue = "";
 }
 
 function startWordQuizSession(words, title) {
@@ -778,10 +786,12 @@ function moveWordTrainer(step) {
   if (!words.length) return;
   wordTrainerState.index = (wordTrainerState.index + step + words.length) % words.length;
   wordTrainerState.feedback = "";
+  wordTrainerState.audioFeedback = null;
   wordTrainerState.exampleFeedback = "";
   wordTrainerState.examplePassed = false;
   wordTrainerState.meaningReady = false;
   wordTrainerState.step = 0;
+  wordTrainerState.stepCue = "";
 }
 
 function pronunciationText(text) {
@@ -847,9 +857,173 @@ function wordClozeData(item) {
   };
 }
 
+function setWordAudioFeedback(text, href = "") {
+  wordTrainerState.audioFeedback = text ? { text, href } : null;
+}
+
+function clearWordStepCue() {
+  wordTrainerState.stepCue = "";
+}
+
+function nextWordStepCue(step) {
+  if (step >= WORD_TRAINER_STEPS.length) return "本词闭环完成，点下方「下一词」继续";
+  return `⬇ 继续下一步：${WORD_TRAINER_STEPS[step]}`;
+}
+
 function advanceWordTrainerStep(step, feedback) {
+  const previousStep = wordTrainerState.step || 0;
   wordTrainerState.step = Math.max(wordTrainerState.step, step);
+  if (wordTrainerState.step > previousStep) {
+    wordTrainerState.stepCue = nextWordStepCue(wordTrainerState.step);
+  }
   if (feedback) wordTrainerState.feedback = feedback;
+}
+
+function normalizedAudioLookupWord(item) {
+  return pronunciationText(item.word)
+    .toLowerCase()
+    .replace(/[^a-z\s-]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+function commonsPronunciationCandidates(word) {
+  const base = String(word || "").trim().toLowerCase();
+  if (!base || base.includes("-")) {
+    return base
+      ? [
+          `File:En-us-${base}.ogg`,
+          `File:En-uk-${base}.ogg`,
+          `File:En-${base}.ogg`,
+        ]
+      : [];
+  }
+  return [
+    `File:En-us-${base}.ogg`,
+    `File:En-us-${base}.oga`,
+    `File:En-uk-${base}.ogg`,
+    `File:En-uk-${base}.oga`,
+    `File:En-ca-${base}.ogg`,
+    `File:En-au-${base}.ogg`,
+    `File:En-${base}.ogg`,
+    `File:En-${base}.oga`,
+  ];
+}
+
+function commonsImageInfoUrl(params) {
+  const query = new URLSearchParams({
+    action: "query",
+    format: "json",
+    origin: "*",
+    prop: "imageinfo",
+    iiprop: "url|mime|extmetadata",
+    ...params,
+  });
+  return `${COMMONS_API_ENDPOINT}?${query.toString()}`;
+}
+
+function commonsAudioSourceFromPage(page) {
+  const info = page?.imageinfo?.[0];
+  const url = info?.url || "";
+  const mime = info?.mime || "";
+  if (!url || (!mime.startsWith("audio/") && !/\.(ogg|oga|mp3|wav)$/i.test(url))) return null;
+  const meta = info.extmetadata || {};
+  const license = meta.LicenseShortName?.value || "自由许可";
+  const licenseUrl = meta.LicenseUrl?.value || page.fullurl || info.descriptionurl || "";
+  const title = page.title || "Wikimedia Commons audio";
+  const sourceText = `${title} ${meta.Categories?.value || ""} ${meta.ImageDescription?.value || ""}`.toLowerCase();
+  return {
+    url,
+    href: licenseUrl || info.descriptionurl || "",
+    label: `真人/词典级自由音频：Wikimedia Commons（${license}）`,
+    title,
+    isPronunciation: /pronunciation|english/.test(sourceText),
+  };
+}
+
+async function fetchCommonsCandidateAudio(word) {
+  const titles = commonsPronunciationCandidates(word);
+  if (!titles.length) return null;
+  const response = await fetch(commonsImageInfoUrl({ titles: titles.join("|") }));
+  if (!response.ok) return null;
+  const data = await response.json();
+  const pages = Object.values(data.query?.pages || {});
+  return pages.map(commonsAudioSourceFromPage).find(Boolean) || null;
+}
+
+async function searchCommonsPronunciationAudio(word) {
+  const query = new URLSearchParams({
+    action: "query",
+    format: "json",
+    origin: "*",
+    generator: "search",
+    gsrnamespace: "6",
+    gsrlimit: "8",
+    gsrsearch: `${word} English pronunciation audio`,
+    prop: "imageinfo",
+    iiprop: "url|mime|extmetadata",
+  });
+  const response = await fetch(`${COMMONS_API_ENDPOINT}?${query.toString()}`);
+  if (!response.ok) return null;
+  const data = await response.json();
+  const pages = Object.values(data.query?.pages || {});
+  const exactWord = new RegExp(`(^|[^a-z])${escapeRegExp(word)}([^a-z]|$)`, "i");
+  const sources = pages.map(commonsAudioSourceFromPage).filter(Boolean);
+  return (
+    sources.find((source) => exactWord.test(source.title.toLowerCase()) && source.isPronunciation) ||
+    sources.find((source) => source.isPronunciation) ||
+    null
+  );
+}
+
+async function findAuthorizedWordAudio(item) {
+  const rawWord = pronunciationText(item.word).toLowerCase();
+  const word = normalizedAudioLookupWord(item);
+  if (!word || /\s/.test(rawWord)) return null;
+  if (WORD_AUDIO_CACHE.has(word)) return WORD_AUDIO_CACHE.get(word);
+  try {
+    const source = (await fetchCommonsCandidateAudio(word)) || (await searchCommonsPronunciationAudio(word));
+    WORD_AUDIO_CACHE.set(word, source || null);
+    return source || null;
+  } catch {
+    WORD_AUDIO_CACHE.set(word, null);
+    return null;
+  }
+}
+
+function chooseEnglishVoice() {
+  if (!("speechSynthesis" in window)) return null;
+  const voices = window.speechSynthesis.getVoices();
+  return [...voices]
+    .filter((voice) => voice.lang?.startsWith("en"))
+    .sort((left, right) => {
+      const leftScore =
+        (left.lang === "en-US" ? 8 : left.lang?.startsWith("en-US") ? 6 : 0) +
+        (PREMIUM_ENGLISH_VOICE_PATTERN.test(left.name) ? 12 : 0) +
+        (/female|woman|samantha|ava|allison|serena|jenny|aria/i.test(left.name) ? 2 : 0);
+      const rightScore =
+        (right.lang === "en-US" ? 8 : right.lang?.startsWith("en-US") ? 6 : 0) +
+        (PREMIUM_ENGLISH_VOICE_PATTERN.test(right.name) ? 12 : 0) +
+        (/female|woman|samantha|ava|allison|serena|jenny|aria/i.test(right.name) ? 2 : 0);
+      return rightScore - leftScore;
+    })[0] || null;
+}
+
+function playAuthorizedAudio(source) {
+  return new Promise((resolve, reject) => {
+    const audio = new Audio(source.url);
+    audio.preload = "auto";
+    audio.playbackRate = 0.9;
+    audio.oncanplaythrough = () => {
+      audio.play().then(resolve).catch(reject);
+    };
+    audio.onerror = reject;
+    audio.load();
+    window.setTimeout(() => {
+      if (audio.readyState >= 2) audio.play().then(resolve).catch(reject);
+    }, 900);
+  });
 }
 
 function speakEnglishText(text, { rate = 0.55 } = {}) {
@@ -864,22 +1038,41 @@ function speakEnglishText(text, { rate = 0.55 } = {}) {
   utterance.rate = rate;
   utterance.pitch = 1;
   utterance.volume = 1;
-  const voices = window.speechSynthesis.getVoices();
-  utterance.voice =
-    voices.find((voice) => voice.lang === "en-US" && /samantha|daniel|alex|google|microsoft/i.test(voice.name)) ||
-    voices.find((voice) => voice.lang?.startsWith("en-US")) ||
-    voices.find((voice) => voice.lang?.startsWith("en"));
+  utterance.voice = chooseEnglishVoice();
   window.speechSynthesis.cancel();
   window.speechSynthesis.speak(utterance);
   return true;
 }
 
-function speakEnglishWord(item) {
-  return speakEnglishText(pronunciationText(item.word), { rate: 0.55 });
+async function speakEnglishWord(item) {
+  const key = wordKey(item);
+  setWordAudioFeedback("正在查找免费授权真人/词典级单词音频……");
+  render();
+  const source = await findAuthorizedWordAudio(item);
+  const current = currentWordList()[wordTrainerState.index];
+  if (!current || wordKey(current) !== key) return false;
+  if (source) {
+    try {
+      await playAuthorizedAudio(source);
+      setWordAudioFeedback(source.label, source.href);
+      render();
+      return true;
+    } catch {
+      setWordAudioFeedback("");
+    }
+  } else {
+    setWordAudioFeedback("");
+  }
+  const ok = speakEnglishText(pronunciationText(item.word), { rate: 0.55 });
+  render();
+  return ok;
 }
 
 function speakEnglishExample(item) {
-  return speakEnglishText(item.example, { rate: 0.57 });
+  setWordAudioFeedback("");
+  const ok = speakEnglishText(item.example, { rate: 0.57 });
+  render();
+  return ok;
 }
 
 function checkExampleCloze(item) {
@@ -888,6 +1081,7 @@ function checkExampleCloze(item) {
   const cloze = wordClozeData(item);
   if (!answer) {
     wordTrainerState.feedback = "";
+    clearWordStepCue();
     wordTrainerState.examplePassed = false;
     wordTrainerState.exampleFeedback = "先把例句空格补上；这一步是在训练“看到语境能调出单词”。";
     return;
@@ -896,10 +1090,12 @@ function checkExampleCloze(item) {
     promoteWordProgress(item, 1);
     wordTrainerState.feedback = "";
     wordTrainerState.examplePassed = true;
+    wordTrainerState.stepCue = "⬇ 例句填空已通过，点击下方「进入助记复述」继续";
     wordTrainerState.exampleFeedback = `✅ 例句填空正确：${item.example}`;
   } else {
     recordWordMistake(item);
     wordTrainerState.feedback = "";
+    clearWordStepCue();
     wordTrainerState.examplePassed = false;
     wordTrainerState.exampleFeedback = `❌ 例句里应填 ${cloze.answer}。先读完整句，再回到词汇“${item.phrase}”。`;
   }
@@ -911,13 +1107,16 @@ function checkWordSpelling(item) {
   const target = item.word.toLowerCase();
   if (!answer) {
     wordTrainerState.feedback = "先默写英文，再点检查；写错也没关系，漏洞被看见就能补。";
+    clearWordStepCue();
     return;
   }
   if (answer === target) {
     promoteWordProgress(item, 2);
+    wordTrainerState.stepCue = "➡ 本词闭环完成，点击下方「下一词」继续";
     wordTrainerState.feedback = `✅ 拼写正确：${item.word}。再读一遍词汇搭配“${item.phrase}”，把它放进句子里。`;
   } else {
     recordWordMistake(item);
+    clearWordStepCue();
     wordTrainerState.feedback = `❌ 拼写还差一点：你写的是 ${answer}，正确是 ${item.word}。按音节拆开再默写一次。`;
   }
 }
@@ -981,6 +1180,31 @@ function wordTrainerStepHTML(step) {
         const className = index < step ? "is-done" : index === step ? "is-active" : "is-locked";
         return `<span class="${className}"><b>${index + 1}</b>${label}</span>`;
       }).join("")}
+    </div>
+  `;
+}
+
+function wordNextStepCueHTML() {
+  if (!wordTrainerState.stepCue) return "";
+  return `
+    <div class="word-next-cue" role="status">
+      <span class="word-next-cue__arrow">➜</span>
+      <strong>${escapeHTML(wordTrainerState.stepCue)}</strong>
+    </div>
+  `;
+}
+
+function wordAudioFeedbackHTML() {
+  const feedback = wordTrainerState.audioFeedback;
+  if (!feedback?.text) return "";
+  return `
+    <div class="word-audio-feedback" role="status">
+      <span>🎧</span>
+      <p>${escapeHTML(feedback.text)}${
+        feedback.href
+          ? ` <a href="${escapeHTML(feedback.href)}" target="_blank" rel="noreferrer">查看授权来源</a>`
+          : ""
+      }</p>
     </div>
   `;
 }
@@ -1111,7 +1335,9 @@ function wordTrainerCardHTML(current, words, progress) {
         }
       </div>
       ${wordTrainerStepHTML(step)}
+      ${wordNextStepCueHTML()}
       ${wordTrainerStageHTML(current, step, options)}
+      ${wordAudioFeedbackHTML()}
       ${
         wordTrainerState.feedback
           ? `<div class="word-feedback" role="status">${escapeHTML(wordTrainerState.feedback)}</div>`
@@ -1178,10 +1404,12 @@ function handleWordTrainerClick(event) {
     wordTrainerState.sessionTitle = "";
     wordTrainerState.index = 0;
     wordTrainerState.feedback = "";
+    wordTrainerState.audioFeedback = null;
     wordTrainerState.exampleFeedback = "";
     wordTrainerState.examplePassed = false;
     wordTrainerState.meaningReady = false;
     wordTrainerState.step = 0;
+    wordTrainerState.stepCue = "";
     render();
     return true;
   }
@@ -1250,6 +1478,7 @@ function handleWordTrainerClick(event) {
       return true;
     case "meaning-ready":
       wordTrainerState.meaningReady = true;
+      clearWordStepCue();
       wordTrainerState.feedback = "现在再选择中文意思；这一步是在验证刚才的主动回忆。";
       break;
     case "phrase-done":
@@ -1273,14 +1502,17 @@ function handleWordTrainerClick(event) {
       break;
     case "mark-new":
       setWordProgress(current, 0);
+      clearWordStepCue();
       wordTrainerState.feedback = `已把 ${current.word} 标为“还不会”，它会留在复习重点里。`;
       break;
     case "mark-fuzzy":
       setWordProgress(current, 1);
+      clearWordStepCue();
       wordTrainerState.feedback = `已把 ${current.word} 标为“有点模糊”，建议明天再刷一次。`;
       break;
     case "mark-known":
       setWordProgress(current, 2);
+      clearWordStepCue();
       wordTrainerState.feedback = `漂亮，${current.word} 已标为掌握。隔几天还要抽查，别让它溜走。`;
       break;
     case "check-spelling":
