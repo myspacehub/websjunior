@@ -1558,7 +1558,11 @@ function hidePageLoader() {
 function totals() {
   const volumes = COURSE.reduce((sum, subject) => sum + subject.volumes.length, 0);
   const units = COURSE.reduce((sum, subject) => sum + subject.volumes.reduce((inner, volume) => inner + volume.units.length, 0), 0);
-  const nodes = units * 24;
+  const refinedNodes =
+    typeof window !== "undefined" && typeof window.countJuniorRefinedSubjectNodes === "function"
+      ? COURSE.reduce((sum, subject) => sum + window.countJuniorRefinedSubjectNodes(subject.name), 0)
+      : 0;
+  const nodes = refinedNodes || units * 24;
   return { subjects: COURSE.length, volumes, units, nodes, done: doneSet.size };
 }
 
@@ -2202,6 +2206,14 @@ function detailFor(subjectName, unitName) {
 }
 
 function profileFor(subjectName, volumeName, unitName) {
+  const refinedBranches =
+    typeof window !== "undefined" && typeof window.createJuniorRefinedMindMapBranches === "function"
+      ? window.createJuniorRefinedMindMapBranches(subjectName, volumeName, unitName)
+      : null;
+  if (refinedBranches && refinedBranches.length) {
+    return refinedBranches.map((branch) => [branch.title, branch.points]);
+  }
+
   const guide = guideFor(subjectName);
   const detail = detailFor(subjectName, unitName);
   const topic = unitTopic(unitName);
@@ -2386,6 +2398,68 @@ function mindMapListHTML(subjectIndex, volumeIndex, matchedUnits = null) {
   return `<div class="mindmap-list">${units.map(({ unitIndex }) => mindMapCardHTML(subjectIndex, volumeIndex, unitIndex)).join("")}</div>`;
 }
 
+function refinedMindMapNodeHTML(item, depth = 0) {
+  if (typeof item === "string") {
+    return `<li class="curated-map-leaf">${highlight(item)}</li>`;
+  }
+  const children = item.children || [];
+  const open = depth < 2 ? " open" : "";
+  return `
+    <li class="curated-map-node curated-map-node--depth-${depth}">
+      <details${open}>
+        <summary>${highlight(item.title)}</summary>
+        ${
+          children.length
+            ? `<ul>${children.map((child) => refinedMindMapNodeHTML(child, depth + 1)).join("")}</ul>`
+            : ""
+        }
+      </details>
+    </li>
+  `;
+}
+
+function subjectRefinedMindMapHTML(subjectIndex) {
+  const subject = COURSE[subjectIndex];
+  const refined =
+    typeof window !== "undefined" && typeof window.getJuniorRefinedSubjectMindMap === "function"
+      ? window.getJuniorRefinedSubjectMindMap(subject.name)
+      : null;
+  if (!refined) return "";
+  const exportText =
+    typeof window !== "undefined" && typeof window.juniorRefinedMindMapText === "function"
+      ? window.juniorRefinedMindMapText(subject.name)
+      : "";
+  return `
+    <section class="network-section curated-map-section">
+      <div class="section-head">
+        <h3>福建泉州初中精细化知识点导图</h3>
+        <p>${highlight(refined.title)} · ${highlight(refined.textbook)} · 使用 🔹核心概念、📌重点结论 / 方法模型、📌常考题型与应用、⚠️高频易错点 标记。</p>
+      </div>
+      <div class="curated-map-layout">
+        <div class="curated-map-tree" aria-label="${escapeHTML(refined.title)}">
+          <ul>
+            <li class="curated-map-node curated-map-node--depth-0">
+              <details open>
+                <summary>跨章节 / 跨分册主线</summary>
+                <ul>${(refined.cross || []).map((item) => `<li class="curated-map-leaf">${highlight(item)}</li>`).join("")}</ul>
+              </details>
+            </li>
+            ${refined.roots.map((item) => refinedMindMapNodeHTML(item, 0)).join("")}
+          </ul>
+        </div>
+        ${
+          exportText
+            ? `<details class="curated-map-export">
+                <summary>复制到 XMind / ProcessOn / 幕布的文本版</summary>
+                <textarea readonly spellcheck="false">${escapeHTML(exportText)}</textarea>
+              </details>`
+            : ""
+        }
+      </div>
+    </section>
+  `;
+}
+
 function subjectNetworkHTML(subjectIndex) {
   const subject = COURSE[subjectIndex];
   const guide = guideFor(subject.name);
@@ -2397,6 +2471,7 @@ function subjectNetworkHTML(subjectIndex) {
         <h3>${escapeHTML(subject.name)} 全学段知识关系网</h3>
         <p>${escapeHTML(version)}。按年级分册串联主线，复习时先看主线，再回到章节补漏洞。</p>
       </article>
+      ${subjectRefinedMindMapHTML(subjectIndex)}
       <section class="network-section">
         <div class="section-head"><h3>泉州初中学习节奏</h3><p>贴合本地考试：七年级打底，八年级会考和物理爬坡，九年级全力中考。</p></div>
         <div class="roadmap">
